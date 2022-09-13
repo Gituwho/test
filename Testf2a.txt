@@ -2041,3 +2041,214 @@ http://hdserver.7starcloud.com:1935/dinesh/tv/playlist.m3u8
 http://hdserver.7starcloud.com:1935/jayaamtv/jayaamtv/playlist.m3u8
 #EXTINF:-1 group-title="Saara Tamil LCO",AADHAVAN TV 
 http://7starcloud.com:1935/adhavantv/myStream/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",ACN MUSIC 
+http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
+#EXTINF:-1 group-title="MUSIC",SS TV 
+http://hdserver.7starcloud.com:1935/live/ss/playlist.m3u8
+#EXTINF:-1 group-title=" MUSIC", ADHVIKA 
+http://bmlive.net:8000/paulveernan/advika/bms.m3u8
+#EXTINF:-1 group-title=" MUSIC", SREE SARAVANA
+http://bmlive.net:8000/BALATV/sreesaravanaa/bms.m3u8
+#EXTINF:-1 group-title=" MUSIC",YATRA TV 
+http://media.7starcloud.com:1935//harimedia/yatratv/playlist.m3u8
+#EXTINF:-1,group-title=" MUSIC", VINAYAGA MUSIC TV 
+http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
+#EXTINF:-1 group-title=" MUSIC",SLS TV 
+http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
+#EXTINF:-1,group-title=" MUSIC", SKY TV 
+http://stream.singamcloud.in/skytv/skytv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" MUSIC",APPLE TV 
+http://bmlive.net:8000/appletv/appletv/bms.m3u8
+#EXTINF:-1 group-title=" MUSIC",G TV
+http://live.singamcloud.in:1935/gtv/gtv/playlist.m3u8
+#EXTINF:-1 group-title="SAARA LOCAL 1",BLUEMOON TV 
+http://bmlive.net:8000/bms/bmtv/bms.m3u8
+#EXTINF:-1 group-title="MUSIC",N MUSIC 
+http://198.144.149.82:8080/NOTV/NTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="MUSIC",SR MUSIX 
+http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",ISAI SARAL 
+http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
+#EXTINF:-1 group-title=" MUSIC",SS VARMA 
+http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
+#EXTINF:-1 group-title=" MUSIC",SMCV 
+http://singamcloud.in/smcvtv/smcvtv/index.m3u8
+#EXTINF:-1 group-title=" MUSIC",MM TV 
+http://198.144.149.82:8080/NOTV/MMTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="MUSIC",DAN MUSIC 
+https://askmedia.livebox.co.in/DanMusichls/2.m3u8
+#EXTINF:-1 group-title=" MUSIC",SELFIE TV 
+http://bmlive.net:8000/selfeetv/selfeetv/bms.m3u8
+#EXTINF:-1 group-title=" MUSIC",SKY TV 
+http://nextgeninfotech.ddns.net:8080/skylink/skylink.m3u8
+#EXTINF:-1 group-title="MUSIC",IBC MUSIC 
+https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MUSIC",THENDRAL 
+https://iptelevision.in/hls/thendral.m3u8
+#EXTINF:-1 group-title="MUSIC",SINGAM TV 
+http://singamcloud.in/singamtv/singamtv/index.m3u8
+#EXTINF:-1 group-title="MUSIC",KALAI ISAI 
+http://singamcloud.in/kalai/kalaiisai/index.m3u8
+#EXTINF:-1 group-title="MUSIC",ABHINAYA TV 
+http://singamcloud.in/purpletv/purpletv/index.m3u8
+#EXTINF:-1 group-title="MUSIC",RASI MUSIC 
+http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
+#EXTINF:-1 group-title="MUSIC",SUN MUSIC 
+http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
+#EXTINF:-1 group-title="MUSIC",KAPPA TV 
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1 group-title="MUSIC",MK TUNES 
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1 group-title="MUSIC",M MUSIC 
+https://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1 group-title="MUSIC",AUS TAMIL 
+http://198.144.149.82:8080/AUS_TAMIL/index.m3u8?token=GTR#EXTM3U
+#EXTINF:-1,group-title="LOCAL", SKY TV 
+http://stream.singamcloud.in/skytv/skytv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="LOCAL", VINAYAGA TV 
+http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8
+#EXTINF:-1,group-title="LOCAL", VINAYAGA MUSIC TV 
+http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
+#EXTINF:-1,group-title="LOCAL", RIO TV 
+http://stream.singamcloud.in/riotv/riotv/index.m3u8
+#EXTINF:-1,group-title="LOCAL", DHARANI TV 
+http://stream.singamcloud.in/dharanitv/dharanitv/index.m3u8
+#EXTINF:-1,group-title="LOCAL", 7 HILLS TV 
+http://live.singamcloud.in:1935/7hilstv/7hilstv/playlist.m3u8
+#EXTINF:-1,group-title="LOCAL", ASHOKA TV 
+http://stream.singamcloud.in/asokatvcbe/asokatvcbe/index.m3u8#EXTM3U
+#EXTINF:-1,group-title="LOCAL", G MUSIC TV 
+https://rasi.iptelevision.in/hls/gmusic.m3u8
+#EXTINF:-1,group-title="LOCAL", THALAPATHY TV 
+http://183.87.51.10/hls/thalapathyvjtv.m3u8
+#EXTM3U
+#EXTINF:-1,group-title="LOCAL",CHO TV  Devotional 
+http://198.144.149.82:8080/NOTV/CHOTV/index.m3u8?token=GTR
+#EXTINF:-1,group-title="LOCAL", THALAPATHY TV 
+http://183.87.51.10/hls/thalapathyvjtv.m3u8
+#EXTINF:-1 group-title="MUSIC",SS TV 
+http://hdserver.7starcloud.com:1935/live/ss/playlist.m3u8
+#EXTINF:-1 group-title=" MUSIC", ADHVIKA 
+http://bmlive.net:8000/paulveernan/advika/bms.m3u8
+#EXTINF:-1 group-title=" MUSIC", SREE SARAVANA
+http://bmlive.net:8000/BALATV/sreesaravanaa/bms.m3u8
+#EXTINF:-1 group-title=" MUSIC",YATRA TV 
+http://media.7starcloud.com:1935//harimedia/yatratv/playlist.m3u8
+#EXTINF:-1,group-title=" MUSIC", VINAYAGA MUSIC TV 
+http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
+#EXTINF:-1 group-title=" MUSIC",SLS TV 
+http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
+#EXTINF:-1,group-title=" MUSIC", SKY TV 
+http://stream.singamcloud.in/skytv/skytv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" MUSIC",APPLE TV 
+http://bmlive.net:8000/appletv/appletv/bms.m3u8
+#EXTINF:-1 group-title="MUSIC",ABHINAYA TV 
+http://singamcloud.in/purpletv/purpletv/index.m3u8
+#EXTINF:-1 group-title="MUSIC",RASI MUSIC 
+http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
+#EXTINF:-1,group-title="LOCAL", G MUSIC TV 
+https://rasi.iptelevision.in/hls/gmusic.m3u8
+#EXTINF:-1 group-title="LOCAL",LOTUS TV 
+http://139.99.96.85:1935/lotustv/live/playlist.m3u8
+#EXTINF:-1 group-title="LOCAL",DEVADHAI TV 
+http://singamcloud.in/Deavathaitv/Deavathaitv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="LOCAL", RIO TV 
+http://stream.singamcloud.in/riotv/riotv/index.m3u8
+#EXTINF:-1,group-title="LOCAL", DHARANI TV 
+http://stream.singamcloud.in/dharanitv/dharanitv/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL",7 STAR 
+http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
+#EXTINF:-1 group-title="LOCAL",PHOENIX 
+http://103.88.77.238:8081/phoenix/phoenix.m3u8
+#EXTINF:-1,group-title="LOCAL", ARUL TV 
+https://eagle.iptelevision.in/hls/arultv.m3u8
+#EXTINF:-1,group-title="LOCAL", KARTHI TV 
+http://bmlive.net:8000/karnan/karthitv/bms.m3u8?hls_ctx=35x53733
+#EXTINF:-1,group-title="LOCAL", G TV 
+http://7starcloud.com:1935/gtv/studiogtn/playlist.m3u8
+#EXTINF:-1,group-title="LOCAL", PR TV 
+http://51.79.250.111/live/prtv.m3u8
+#EXTINF:-1,group-title="LOCAL", RPK TV 
+http://183.87.51.10/hls/rpktv.m3u8
+#EXTINF:-1 group-title="LOCAL",NSK TV 
+https://iptelevision.in/hls/nsktv.m3u8
+#EXTINF:-1 group-title="LOCAL",SRI TV 
+https://server3.iptelevision.in/hls/sritv.m3u8
+#EXTINF:-1 group-title="LOCAL",NAGARAM TV 
+https://iptelevision.in/hls/nagaramtv.m3u8
+#EXTINF:-1,group-title="LOCAL", AJANTHA TV 
+https://server1.iptelevision.in/hls/ajithatv.m3u8
+#EXTINF:-1,group-title="LOCAL", SMART TV 
+https://server.iptelevision.in/hls/sunsmart.m3u8
+#EXTINF:-1,group-title="LOCAL", TAMIL PLUS 
+http://hdserver.7starcloud.com:1935/tamil/plus/playlist.m3u8
+#EXTINF:-1,group-title="LOCAL", KUMARI TV 
+http://bmlive.net:8000/kumaritvthly/kumaritvthly/bms.m3u8?hls_ctx=64fdg988
+#EXTINF:-1,group-title="LOCAL", SAMAR TV 
+http://51.79.250.111/live/kstartv.m3u8
+#EXTINF:-1 group-title="LOCAL",SRI KRISHNA 1 
+http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
+#EXTINF:-1 group-title="LOCAL",SRI KRISHNA 2
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="LOCAL",ATN HD TV 
+http://hdserver.7starcloud.com:1935/atntv/live/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="LOCAL", KUMARI TV 
+http://indiamatrix.in/kumaritvnow/kumaritvnow.m3u8
+#EXTINF:-1 group-title="LOCAL",MCV TV 
+http://shinestream.in:1935/mcvtv/mcvtv/chunklist_w1339989872.m3u8
+#EXTINF:-1 , lee tv 
+http://nextgeninfotech.ddns.net:8080/leetv/leetv.m3u8
+#EXTINF:-1 , VIP TV 
+http://media.7starcloud.com:1935/harimedia/vip/playlist.m3u8
+#EXTINF:-1 ,S FLIX HD 
+http://bmlive.net:8000/appletv/sflixtv/bms.m3u8
+#EXTINF:-1 ,YESMAN TV 
+http://198.144.149.82:8080/NOTV/YESMANTV/index.m3u8?token=GTR
+#EXTINF:-1 , KANGAROO TV 
+http://198.144.149.82:8080/NOTV/KANGARUTV/index.m3u8?token=GTR
+#EXTINF:-1 ,STAR TV 
+http://bmlive.net:8000/appletv/startv/bms.m3u8
+#EXTINF:-1 group-title="LOCAL",LEAF VIJAY TV
+http://nextgeninfotech.ddns.net:8080/leaf/leaf.m3u8
+#EXTINF:-1 , GALAXY
+http://shinestream.in:1935/galaxytv/galaxytv/chunklist_w39078625.m3u8
+#EXTINF:-1 group-title="LOCAL",Maa Tv
+http://172.105.55.47:5080/live/streams/maatv.m3u8
+#EXTINF:-1 group-title="LOCAL",Suriyan TV
+http://172.105.55.47:5080/live/streams/suriyantv.m3u8
+#EXTINF:-1 group-title="LOCAL",Top Tv
+http://172.105.55.47:5080/live/streams/toptv.m3u8
+#EXTINF:-1 group-title="LOCAL",Sky media TV
+http://skymedia.phoenixcreations.online:5080/live/streams/skymedia.m3u8
+#EXTINF:-1 group-title="LOCAL",Jose TV
+http://josetv.phoenixcreations.online:5080/live/streams/josetv.m3u8
+#EXTINF:-1 group-title="LOCAL",Malar TV
+http://malartv.phoenixcreations.online:5080/live/streams/malartv.m3u8
+#EXTINF:-1 group-title="LOCAL",Sukran TV
+http://sukratv.phoenixcreations.online:5080/live/streams/sukratv.m3u8
+#EXTINF:-1 group-title="LOCAL",Raghul TV
+http://jenifertv.phoenixcreations.online:5080/live/streams/raghultv.m3u8
+#EXTINF:-1 group-title="LOCAL",Jeni Tv
+http://jenifertv.phoenixcreations.online:5080/live/streams/jenifertv.m3u8
+#EXTINF:-1 group-title="LOCAL",Rasi Hollywood 
+http://singamcloud.in:80/rasinetworks/rasihollywood/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LOCAL",TPTamilan
+http://media.7starcloud.com:1935/harimedia/tpttamilantv/chunklist_w1332879050.m3u8
+#EXTINF:-1 group-title="LOCAL",Sunstar
+http://nextgeninfotech.ddns.net:8080/sunstar/sunstar.m3u8
+#EXTINF:-1 group-title="LOCAL",Mullai
+http://live.singamcloud.in:1935/mullaitv/mullaitv/playlist.m3u8
+#EXTINF:-1 group-title="LOCAL",Amma TV
+http://183.87.51.10:80/hls/ammatv.m3u8
+#EXTINF:-1 group-title="LOCAL",Bhavani Sangmam TV
+http://7starcloud.com:1935/bhavanitv/livestream/chunklist_w2024503718.m3u8
+#EXTINF:-1 group-title="LOCAL",JCV TV
+http://bmlive.net:8000/jcvtv/jcvtv/bms.m3u8
+#EXTINF:-1 group-title="LOCAL",KingStar TV
+http://51.79.250.111:80/live/kstartv.m3u8
+#EXTINF:-1 group-title="LOCAL",Apple TV HD
+http://bmlive.net:8000/appletv/appletv/bms.m3u8?hls_ctx=57yw2y46
+#EXTINF:-1 group-title="LOCAL",Ladhee TV
+http://bmlive.net:8000/ladheetv/ladheetv/bms.m3u8?hls_ctx=4u8jqsk5
