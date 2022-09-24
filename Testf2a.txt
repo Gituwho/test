@@ -1,26 +1,21 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml"
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TV
+#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
+#EXTINF:-1 tvg-logo="" group-title=" group-title="RASI NETWORKS",RASI TV
 http://singamcloud.in:80/rasinetworks/rasitv/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TAMIL
+#EXTINF:-1 tvg-logo="" group-title=" group-title="RASI NETWORKS",RASI TAMIL
 http://singamcloud.in:80/rasinetworks/rasitamil/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI MUSIC
+#EXTINF:-1 tvg-logo="" group-title=" group-title="RASI NETWORKS",RASI MUSIC
 http://singamcloud.in:80/rasinetworks/rasimusic/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI MOVIES
+#EXTINF:-1 tvg-logo="" group-title=" group-title="RASI NETWORKS",RASI MOVIES
 http://singamcloud.in:80/rasinetworks/rasimovies/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI HOLLYWOOD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="RASI NETWORKS",RASI HOLLYWOOD
 http://singamcloud.in:80/rasinetworks/rasihollywood/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI CASSIC
-http://singamcloud.in:80/rasinetworks/rasiclassic/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI cooking
-rtmp://singamcloud.in:1935/rasinetwork/cookings
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI cookinggg
+#EXTINF:-1 tvg-logo="" group-title=" group-title=" group-title="RASI NETWORKSRASI NETWORKS",RASI cookingRASI cookinggg
 http://singamcloud.in/rasinetworks/rasitamil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI hchc
+#EXTINF:-1 tvg-logo="" group-title=" group-title="RASI NETWORKS",RASI hchc
 http://singamcloud.in/rasinetworks/rasihollywood/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI cookinggsj
+#EXTINF:-1 tvg-logo="" group-title=" group-title="RASI NETWORKS",RASI cookinggsj
 http://singamcloud.in/rasinetwork/cookings/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG80573.png" group-title="Tamil Cloud",7Star TV
-#EXTINF:-1,tamil tv_1
+#EXTINF:-1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG80573.png" group-title="Tamil Cloud",7Star TVtamil tv_1
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1,tamil tv_2
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
@@ -36,20 +31,14 @@ http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
 http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
 #EXTINF:-1,tamil tv_8
 http://142.44.213.115:8888/gta_tamil/index.m3u8
-#EXTINF:-1,tamil tv_9
-https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
 #EXTINF:-1,tamil tv_10
 http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
 #EXTINF:-1,tamil tv_11
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8
 #EXTINF:-1,tamil tv_12
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jeevantv123_low/index.m3u8
-#EXTINF:-1,tamil tv_13
-http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kvmtv321_low/index.m3u8
 #EXTINF:-1,tamil tv_14
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
-#EXTINF:-1,tamil tv_15
-http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/saitv321_low/index.m3u8
 #EXTINF:-1,tamil tv_16
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/mayatv_low/index.m3u8
 #EXTINF:-1,tamil tv_17
@@ -58,42 +47,22 @@ http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jayamtvtvm_low/index
 http://198.144.149.82:8080/MONTAMIL_CINEMA/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1,tamil tv_19
 http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
-#EXTINF:-1,tamil tv_20
-http://account13.livebox.co.in/palartvhls/live.m3u8
 #EXTINF:-1,tamil tv_21
 http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
 #EXTINF:-1,tamil tv_22
 http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
-#EXTINF:-1,tamil tv_23
-http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
 #EXTINF:-1,tamil tv_24
 http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
 #EXTINF:-1,tamil tv_25
 http://198.144.149.82:8080/KALVI_GR10/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1,tamil tv_26
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
-#EXTINF:-1,tamil tv_27
-http://live.singamcloud.in:1935/krptv/krptv/playlist.m3u8
 #EXTINF:-1,tamil tv_28
 http://198.144.149.82:8080/NOTV/KANCHITV/tracks-v1a1/mono.m3u8?token=GTR
-#EXTINF:-1,tamil tv_29
-http://softstreamtv.com:8080/NOTV/METROTV/index.m3u8?token=GTR
 #EXTINF:-1,tamil tv_30
 http://198.144.149.82:8080/NOTV/NINETV/index.m3u8?token=GTR
 #EXTINF:-1,tamil tv_31
 http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
-#EXTINF:-1,tamil tv_32
-http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
-#EXTINF:-1,tamil tv_33
-http://bmlive.net:8000/penguintv/penguintv/bms.m3u8
-#EXTINF:-1,tamil tv_34
-http://198.144.149.82:8080/NOTV/JAYAMTV/index.m3u8?token=GTR
-#EXTINF:-1,tamil tv_35
-http://bmlive.net:8000/sstar/asosa/bms.m3u8
-#EXTINF:-1,tamil tv_36
-http://bmlive.net:8000/selfeetv/selfeetv/bms.m3u8
-#EXTINF:-1,tamil tv_37
-http://bmlive.net:8000/gtv/gtv/bms.m3u8
 #EXTINF:-1,tamil tv_38
 http://live.singamcloud.in:1935/anutv/anutv/playlist.m3u8
 #EXTINF:-1,tamil tv_39
@@ -102,18 +71,12 @@ http://pctv.livebox.co.in/pctvhls/live.m3u8
 http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
 #EXTINF:-1,tamil tv_41
 http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8
-#EXTINF:-1,tamil tv_42
-http://hdserver.7starcloud.com:1935/ashoka/channel/playlist.m3u8
-#EXTINF:-1,tamil tv_43
-http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
 #EXTINF:-1,tamil tv_44
 http://198.144.149.82:8080/NOTV/JMTV/index.m3u8?token=GTR
 #EXTINF:-1,tamil tv_45
 http://198.144.149.82:8080/NOTV/ANNAITV/index.m3u8?token=GTR
 #EXTINF:-1,tamil tv_46
 http://media.7starcloud.com:1935/harimedia/duraistv/playlist.m3u8
-#EXTINF:-1,tamil tv_47
-http://bmlive.net:8000/ctn/ctn/bms.m3u8
 #EXTINF:-1,tamil tv_48
 http://nextgeninfotech.ddns.net:8080/suriya/suriya.m3u8
 #EXTINF:-1,tamil tv_49
@@ -126,14 +89,10 @@ http://nextgeninfotech.ddns.net:8080/anbu/anbu.m3u8
 http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
 #EXTINF:-1,tamil tv_53
 http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
-#EXTINF:-1,tamil tv_54
-http://103.98.62.134:8080/hls/kings.m3u8
 #EXTINF:-1,tamil tv_55
 http://198.144.149.82:8080/NOTV/PHOENIXTV/index.m3u8?token=GTR
 #EXTINF:-1,tamil tv_56
 http://nextgeninfotech.ddns.net:8080/srv/srv.m3u8
-#EXTINF:-1,tamil tv_57
-http://bmlive.net:8000/vasanthtvngl/vasanthtvngl/bms.m3u8
 #EXTINF:-1,tamil tv_58
 http://annaitv.livebox.co.in/annailivehls/live.m3u8
 #EXTINF:-1,tamil tv_59
@@ -144,26 +103,16 @@ http://198.144.149.82:8080/NOTV/JEYAMTVPLUS/index.m3u8?token=GTR
 http://198.144.149.82:8080/NOTV/VTV/index.m3u8?token=GTR
 #EXTINF:-1,tamil tv_62
 http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
-#EXTINF:-1,tamil tv_63
-http://7starcloud.com:1935/live/sstv2/playlist.m3u8
 #EXTINF:-1,tamil tv_64
 http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
-#EXTINF:-1,tamil tv_65
-http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 #EXTINF:-1,tamil tv_66
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
 #EXTINF:-1,tamil tv_67
 http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
 #EXTINF:-1,tamil tv_68
 http://media.7starcloud.com:1935/live/sanatv2/chunklist_w1956626303.m3u8
-#EXTINF:-1,tamil tv_69
-https://askmedia.livebox.co.in/DanMusichls/2.m3u8
-#EXTINF:-1,tamil tv_70
-https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
 #EXTINF:-1,tamil tv_71
 http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8
-#EXTINF:-1,tamil tv_72
-http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
 #EXTINF:-1,tamil tv_73
 http://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1,tamil tv_74
@@ -180,8 +129,6 @@ https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/Stream(01)/index.m3u8
 #EXTINF:-1,tamil tv_80
 http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/Stream(01)/index.m3u8
-#EXTINF:-1,tamil tv_81
-https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tamil tv_82
 http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/Stream(01)/index.m3u8
 #EXTINF:-1,tamil tv_83
@@ -190,24 +137,14 @@ http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunk
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
 #EXTINF:-1,tamil tv_85
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(02)/index.m3u8
-#EXTINF:-1,tamil tv_86
-https://idvd.multitvsolution.com/idvo/imayamtv_540p/index.m3u8
-#EXTINF:-1,tamil tv_87
-http://14.199.164.20:4001/play/a0la/index.m3u8
 #EXTINF:-1,tamil tv_88
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/Stream(01)/index.m3u8
 #EXTINF:-1,tamil tv_89
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-#EXTINF:-1,tamil tv_90
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tamil tv_91
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,tamil tv_92
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1,tamil tv_93
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/chunklist_w1664701223.m3u8
-#EXTINF:-1,tamil tv_94
-https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
 #EXTINF:-1,tamil tv_95
 https://astro4.rastream.com/osai
 #EXTINF:-1,tamil tv_96
@@ -252,14 +189,10 @@ https://play-lh.googleusercontent.com/VX7Zdy78EnY5411KHSUhmgkOONWipnMJK6qMu4Ku82
 https://lh3.googleusercontent.com/OHpVmskXAV6cuKc1m9ERUVKddo3yJxLyeohTarJlnPAwHIJYgiTRaHkii_vk4LmCp_c-zuhRkdmxEAht=w960-h960-n-o-v1
 #EXTINF:-1,tamil tv_116
 https://play-lh.googleusercontent.com/m0axMB9eZKt93L-twW_Tsl-F0S6_CP62DxHUW-nRe6toU-N8cAvPj2B1faU4ZeJyVDg=s180-rw
-#EXTINF:-1,tamil tv_117
-https://yt3.ggpht.com/ytc/AAUvwnj_8o0ceu3UGuWETkKXwANutQ0uvGq6oMx7wE4lyw=s88-c-k-c0x00ffffff-no-rj
 #EXTINF:-1,tamil tv_118
 https://play-lh.googleusercontent.com/sr5-6eljq5LvnXBQt1maEBiDI0Batwfo1PSMJ7GnmM-KxzOGRvER-5CF-wvuDZrIGdMV=s180-rw
 #EXTINF:-1,tamil tv_119
 http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
-#EXTINF:-1,tamil tv_120
-https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tamil tv_121
 https://play-lh.googleusercontent.com/rYqGqen95imj8GiXp8A9hDUL7UjSpI2s0jPk_hlfeRm-NX0QHsyAXVdUDWTZElvEb3E=s180-rw
 #EXTINF:-1,tamil tv_122
@@ -284,14 +217,8 @@ https://play-lh.googleusercontent.com/z7Qxbw9cMlo0bnbJDqyEMkMHZoeTwOBCMcG-LUxbbq
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 #EXTINF:-1,tamil tv_132
 http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
-#EXTINF:-1,tamil tv_133
-https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tamil tv_134
 http://www.puthiyathalaimurai.com/assets/puthiyathalaimurai-logo.webp
-#EXTINF:-1,tamil tv_135
-https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
-#EXTINF:-1,tamil tv_136
-https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
 #EXTINF:-1,tamil tv_137
 https://yt3.ggpht.com/ytc/AAUvwniVcmrd5czUfkeABDtAHhDUOh54nNY2gCi_76drzg=s88-c-k-c0x00ffffff-no-rj
 #EXTINF:-1,tamil tv_138
@@ -304,17 +231,13 @@ http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 https://static.wikia.nocookie.net/logopedia/images/8/83/Nick_Jr._Channel_logo.svg/revision/latest/scale-to-width-down/200?cb=20210419051333
 #EXTINF:-1,tamil tv_142
 https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/250?cb=20210529193239
-#EXTINF:-1,tamil tv_143
-https://static.wikia.nocookie.net/logopedia/images/8/8f/Nick%2B.svg/revision/latest/scale-to-width-down/250?cb=20200914170914
-#EXTINF:-1,tamil tv_144
+#EXTINF:-1,tamil tv_143tamil tv_144
 https://lh3.googleusercontent.com/QLDrZgUny2K79s3HLhonNJvkYtIuce_JAlO2zrDsnil5GbDYo4qRP2achR4mSr3DPIgl
 #EXTINF:-1,tamil tv_145
 http://198.144.149.82:8080/KALVI_GR10/index.m3u8?token=GTR
 #EXTINF:-1,tamil tv_146
 https://static.wikia.nocookie.net/logopedia/images/9/93/National_Geographic_HD.svg/revision/latest/scale-to-width-down/250?cb=20171113181251
-#EXTINF:-1,tamil tv_147
-https://static.wikia.nocookie.net/logopedia/images/3/38/National_Geographic_Wild_2018_%28HD%29.svg/revision/latest/scale-to-width-down/185?cb=20190712195623
-#EXTINF:-1,tamil tv_148
+#EXTINF:-1,tamil tv_147tamil tv_148
 https://mst3k-stirr-us.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1,tamil tv_149
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
@@ -330,12 +253,8 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjP5nREg9AYPqGk6NnyZHoSOIz
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:-1,tamil tv_155
 https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest/scale-to-width-down/250?cb=20210508163434
-#EXTINF:-1,tamil tv_156
-https://static.wikia.nocookie.net/logopedia/images/0/04/MTV%2B.svg/revision/latest/scale-to-width-down/250?cb=20200810173312
-#EXTINF:-1,tamil tv_157
+#EXTINF:-1,tamil tv_156tamil tv_157
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdxLelPwXy9hC058K6tQkrFAT7sY_2lLzCdQ&usqp=CAU
-#EXTINF:-1,tamil tv_158
-https://indiatodaylive.akamaized.net/hls/live/2014320-b/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
 #EXTINF:-1,tamil tv_159
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_480p@3.m3u8
 #EXTINF:-1,tamil tv_160
@@ -352,8 +271,6 @@ https://static.wikia.nocookie.net/logopedia/images/0/02/Sky_Sports_Cricket_2020.
 https://livessl.rcast.net/stream/66462.mp3
 #EXTINF:-1,tamil tv_166
 http://node-32.zeno.fm/kzd2e3tx24zuv
-#EXTINF:-1,tamil tv_167
-http://node-30.zeno.fm/urvp16bqnd0uv
 #EXTINF:-1,tamil tv_168
 http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8
 #EXTINF:-1,tamil tv_169
@@ -378,12 +295,8 @@ https://tavapi.inditechman.com/extras/images/rtv.webp
 https://tavapi.inditechman.com/extras/images/jeevaoli.webp
 #EXTINF:-1,tamil tv_179
 http://jaeppiyar.livebox.co.in/jeevaolitvhls/live.m3u8
-#EXTINF:-1,tamil tv_180
-https://askmedia.livebox.co.in/KalviTVhls/5.m3u8
 #EXTINF:-1,tamil tv_181
 http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
-#EXTINF:-1,tamil tv_182
-http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8
 #EXTINF:-1,tamil tv_183
 https://yt3.ggpht.com/ytc/AAUvwnjl60SR14iQSd4ylAqrjK2Pkd8S0hy12wIkl9LgOg=s900-c-k-c0x00ffffff-no-rj
 #EXTINF:-1,tamil tv_184
@@ -392,8 +305,6 @@ http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTOroe9NNojrhfiBvTW_J-xGyX8BUWJvijXodAcaDX32bt3WrWncmhAOcm2Is9jSFIHJY&usqp=CAU
 #EXTINF:-1,tamil tv_186
 http://nakkubettatv.livebox.co.in/nbtvhls/nbtv.m3u8
-#EXTINF:-1,tamil tv_187
-http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8
 #EXTINF:-1,tamil tv_188
 http://nextgeninfotech.ddns.net:8080/kalvisolai/kalvisolai.m3u8
 #EXTINF:-1,tamil tv_189
@@ -402,38 +313,22 @@ http://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
 http://lifetv.livebox.co.in/lifetvtamilhls/live.m3u8
 #EXTINF:-1,tamil tv_191
 http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
-#EXTINF:-1,tamil tv_192
-http://hdserver.7starcloud.com:1935/newsplus/live/playlist.m3u8
 #EXTINF:-1,tamil tv_193
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
 #EXTINF:-1,tamil tv_194
 http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w794457741.m3u8
-#EXTINF:-1,tamil tv_195
-https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/index.m3u8
-#EXTINF:-1,tamil tv_196
-https://catchup.yuppcdn.net/amazonv2/20/preview/jayamovies/master/master.m3u8
-#EXTINF:-1,tamil tv_197
-https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
-#EXTINF:-1,tamil tv_198
-https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
 #EXTINF:-1,tamil tv_199
 https://tavapi.inditechman.com/extras/images/mptv.webp
 #EXTINF:-1,tamil tv_200
 http://nextgeninfotech.ddns.net:8080/mptv/mptv.m3u8
 #EXTINF:-1,tamil tv_201
 http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
-#EXTINF:-1,tamil tv_202
-https://catchup.yuppcdn.net/amazonv2/20/preview/kboclassic/master/master.m3u8
-#EXTINF:-1,tamil tv_203
-https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
 #EXTINF:-1,tamil tv_204
 http://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
 #EXTINF:-1,tamil tv_205
 http://account12.livebox.co.in/ntvhls/ntv.m3u8
 #EXTINF:-1,tamil tv_206
 http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
-#EXTINF:-1,tamil tv_207
-https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8
 #EXTINF:-1,tamil tv_208
 https://yt3.ggpht.com/ytc/AAUvwngU3LWhh8SErFHPH0yKtfsCt4cYrq-EbNnGjICWLA=s88-c-k-c0x00ffffff-no-rj
 #EXTINF:-1,tamil tv_209
@@ -492,8 +387,6 @@ http://s7.viastreaming.net:7920/;stream.mp3
 http://69.46.24.226:7188/stream
 #EXTINF:-1,tamil tv_236
 http://38.96.148.18:6150/;stream.mp3
-#EXTINF:-1,tamil tv_237
-http://s6.voscast.com:10014/;stream.mp3
 #EXTINF:-1,tamil tv_238
 http://s2.voscast.com:9370/;stream.mp3
 #EXTINF:-1,tamil tv_239
@@ -502,12 +395,8 @@ http://37.187.79.93:9350/stream
 http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
 #EXTINF:-1,tamil tv_241
 https://yt3.ggpht.com/ytc/AAUvwnhHYAJnlfpmETcagytcrimbj_hMFUH1VGIKiJVuRw=s88-c-k-c0x00ffffff-no-rj
-#EXTINF:-1,tamil tv_242
-https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tamil tv_243
 https://s3.amazonaws.com/playstore/images/814cf36cf2dca5a19a57b32c771e611e
-#EXTINF:-1,tamil tv_244
-https://tx1.ibctamil.tv/CDN_IBC_Canada/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tamil tv_245
 https://yt3.ggpht.com/ytc/AAUvwnhe9HMzMrGKdwON4rG4CV6NZsh6NcJI_KJtvmgv=s88-c-k-c0x00ffffff-no-rj
 #EXTINF:-1,tamil tv_246
@@ -524,14 +413,8 @@ https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 https://idvd.multitvsolution.com/idvo/imayamtv.m3u8
 #EXTINF:-1,tamil tv_252
 http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
-#EXTINF:-1,tamil tv_253
-http://news18tamil-lh.akamaihd.net:80/i/n18tamil_1@526595/index_5_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,tamil tv_254
-http://vidcdn.vidgyor.com:80/thanthi-origin/liveabr/playlist.m3u8
 #EXTINF:-1,tamil tv_255
 https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
-#EXTINF:-1,tamil tv_256
-https://askmedia.livebox.co.in/DANTAMILOLIhls/1.m3u8
 #EXTINF:-1,tamil tv_257
 http://142.44.213.115:8888//gta_tamil//index.m3u8
 #EXTINF:-1,tamil tv_258
@@ -540,28 +423,14 @@ https://j78dp3o6yq5r-hls-live.5centscdn.com/threetamil1/d0dbe915091d400bd8ee7f27
 http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR
 #EXTINF:-1,tamil tv_260
 http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
-#EXTINF:-1,tamil tv_261
-http://119.81.82.28:80/encoded/yuppthirai_800/playlist.m3u8
 #EXTINF:-1,tamil tv_262
 http://198.144.149.82:8080/NOTV/ORANGETV/index.m3u8?token=GTR
 #EXTINF:-1,tamil tv_263
 http://198.144.149.82:8080/NOTV/UTV/index.m3u8?token=GTR
 #EXTINF:-1,tamil tv_264
 http://site1.ultramaxnet.com:80/client/hls/namma-ooru-tv/mayatv/index.m3u8
-#EXTINF:-1,tamil tv_265
-https://tx1.ibctamil.tv/CDN_IBC_Siluvai/index.m3u8
 #EXTINF:-1,tamil tv_266
 http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
-#EXTINF:-1,tamil tv_267
-http://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,tamil tv_268
-https://stream.ufworldind.in/tcv/tcv/playlist.m3u8
-#EXTINF:-1,tamil tv_269
-https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,tamil tv_270
-https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live2/chunks.m3u8
-#EXTINF:-1,tamil tv_271
-https://catchup.yuppcdn.net/amazonv2/20/preview/polimertv/master/master.m3u8
 #EXTINF:-1,tamil tv_272
 http://uk1.zecast.com:1935/star-live/smusic/chunklist_w1365562027.m3u8
 #EXTINF:-1,tamil tv_273
@@ -582,10 +451,6 @@ https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
 #EXTINF:-1,tamil tv_281
 https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
-#EXTINF:-1,tamil tv_282
-https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,tamil tv_283
-https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/playlist.m3u8
 #EXTINF:-1,tamil tv_284
 https://media.publit.io/file/Video_20200831_182245.mp4
 #EXTINF:-1,tamil tv_285
@@ -612,10 +477,6 @@ http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
 http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
 #EXTINF:-1,tamil tv_296
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1,tamil tv_297
-http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
-#EXTINF:-1,tamil tv_298
-https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 #EXTINF:-1,tamil tv_299
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1,tamil tv_300
@@ -624,8 +485,6 @@ http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF:-1,tamil tv_302
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
-#EXTINF:-1,tamil tv_303
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1,tamil tv_304
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1,tamil tv_305
@@ -640,14 +499,10 @@ http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1,tamil tv_310
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTACCE5nfdw4s7HOMLmOB9H0NohRUd60xjE3A&usqp=CAU
-#EXTINF:-1,tamil tv_311
-http://vidcdn.vidgyor.com/thanthi-origin/liveabr/playlist.m3u8
 #EXTINF:-1,tamil tv_312
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwkOa__F1vQDt42cqQsI_e78kEs4YDCtiH4UmWQVsyYfq0_0U&s
 #EXTINF:-1,tamil tv_313
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaEs2-aspLtGjfDGcj0OChvRFvuXKOSbkD1QUytQTZv5ZrB0g&s
-#EXTINF:-1,tamil tv_314
-https://vidcdn.vidgyor.com/ptm-origin/liveabr/ptm-origin/live3/chunks.m3u8
 #EXTINF:-1,tamil tv_315
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3fTCCU1nDwwNe2avePUse5XkA9EUG8Wo4Jg&usqp=CAU
 #EXTINF:-1,tamil tv_316
@@ -664,8 +519,6 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgl6V3zwfJAdEcBq_k35GzIG5w
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPTlDFx6kpejIm7Gn-_o36hWmKojHKou9uEtfquVmwCMd2Hd-D&s
 #EXTINF:-1,tamil tv_322
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRik01-8kuYJZvXzlKWK2Jub6qI3DMD1G1s-WM5PW-BExwMdIo&s
-#EXTINF:-1,tamil tv_323
-https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_3_av-p.m3u8
 #EXTINF:-1,tamil tv_324
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM98bV7Y4l5m58Wn7buw-47VyhOb3lSahcB_XK0Nz-aaCR1FM&s
 #EXTINF:-1,tamil tv_325
@@ -724,8 +577,6 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0ApWcRpdEuTGDUFydqQDF-N1
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5CAKlfATUZrqTrMyCQkeFZEq8-Kx8bXLZhKp6b0ZM7Si_cZ-P&s
 #EXTINF:-1,tamil tv_352
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRREmFACYEKsHqNm2S_TtltKPONkArIagVCStKBSsIoLXZfPPM&s
-#EXTINF:-1,tamil tv_353
-https://catchup.yuppcdn.net/amazonv2/20/preview/murasu/master/master.m3u8
 #EXTINF:-1,tamil tv_354
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVuYGGnLH2EjsSRydDuCEZ5KEXAHDXXoAqHWETxyA1Quswi-Y&s
 #EXTINF:-1,tamil tv_355
@@ -742,8 +593,6 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROvxPv0DUqQ06SrhJKmg1D6Rvf
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOJIEj5BHhJOxlC7Fp8b4hv_2hvnaMBtVp19It1EAmARSaj70&s
 #EXTINF:-1,tamil tv_361
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqQb-gmZ7-SPb45Rvin3WibBfvbxONqeaQAbSZlqJ737qQ9Zs&s
-#EXTINF:-1,tamil tv_362
-https://yuppcatchup.akamaized.net/preview/sunnews/master.m3u8
 #EXTINF:-1,tamil tv_363
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd6xsWXXyhWujXqVTNOODLJWX5qCjHG1EJDHf4HMd2Ssvdaxs&s
 #EXTINF:-1,tamil tv_364
@@ -776,8 +625,6 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsO7_qtBu2kL6mrtynriGMweMv
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7W-VOk1Ja9Z2fL3-fT4qYFGosce1ZN5WLPAwx77aUkDEEZiI&s
 #EXTINF:-1,tamil tv_378
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmPpEHuTvpbFpYY5vzcOQbWphnqQOsYw5S_rs7gZs50SgvB5wQ&s
-#EXTINF:-1,tamil tv_379
-http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926399.m3u8
 #EXTINF:-1,tamil tv_380
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr8rt0p_YhgT81fOyyE5nJl0Xp9TJb_Rjag5DgUrVl3dwGPBs&s
 #EXTINF:-1,tamil tv_381
@@ -858,8 +705,6 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-CeayzxwPoj9O4yZKZd-nB5AT
 http://stream.zeno.fm/1ke9f6hshm8uv
 #EXTINF:-1,tamil tv_419
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3PNJ1pjqcXd30CWspsXDxoZk318E5NuR9XAPU4jMYpIMhNWZC&s
-#EXTINF:-1,tamil tv_420
-http://103.16.47.70:9000/;p
 #EXTINF:-1,tamil tv_421
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7EjdQurlW1OZDev1rojqcBPgD5wrP5h3w-Q2wZ9H9PhLUSec&s
 #EXTINF:-1,tamil tv_422
@@ -872,18 +717,12 @@ http://nextgeninfotech.ddns.net:8080/skylink/skylink.m3u8
 http://198.144.149.82:8080/NOTV/JEYAMTVCOVAI/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1,tamil tv_426
 http://103.147.60.4:1935/live/jayamtv/playlist.m3u8
-#EXTINF:-1,tamil tv_427
-http://198.144.149.82:8080/NOTV/KAVINTV/index.m3u8?token=GTR
 #EXTINF:-1,tamil tv_428
 http://nextgeninfotech.ddns.net:8080/leaf/leaf.m3u8
 #EXTINF:-1,tamil tv_429
 http://nextgeninfotech.ddns.net:8080/senthur/senthur.m3u8
 #EXTINF:-1,tamil tv_430
 http://joytv.livebox.co.in/joytvhls/live.m3u8
-#EXTINF:-1,tamil tv_431
-http://bmlive.net:8000/kirubaitv/kirubaitv/bms.m3u8
-#EXTINF:-1,tamil tv_432
-http://indiamatrix.in/vvmtv/vvmtv.m3u8
 #EXTINF:-1,tamil tv_433
 http://45.77.66.224:1935/athavantv/live_360p/chunklist_w305811568.m3u8
 #EXTINF:-1,tamil tv_434
@@ -892,18 +731,12 @@ http://45.77.66.224:1935/athavantv/live_360p/chunklist.m3u8
 http://45.77.66.224:1935/athavantv/live_360p/chunks.m3u8
 #EXTINF:-1,tamil tv_436
 http://hdserver.7starcloud.com:1935/live/live/playlist.m3u8
-#EXTINF:-1,tamil tv_437
-http://bmlive.net:8000/sstar/sevenstartvs/bms.m3u8
 #EXTINF:-1,tamil tv_438
 https://5c75277727cd1.streamlock.net:443/rcntv/rcntv/playlist.m3u8
 #EXTINF:-1,tamil tv_439
 https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
-#EXTINF:-1,tamil tv_440
-https://tx1.ibctamil.tv/CDN_IBC_Siluvai/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tamil tv_441
 http://account26.livebox.co.in/kinghls/live.m3u8
-#EXTINF:-1,tamil tv_442
-http://bmlive.net:8000/sstar/vaagaitvs/bms.m3u8
 #EXTINF:-1,tamil tv_443
 https://ca.streamjo.com/live/samugam.m3u8
 #EXTINF:-1,tamil tv_444
@@ -928,10 +761,6 @@ http://iptv.tvmalaysia.cc/live/penang189/penang189/6620.ts
 http://iptv.tvmalaysia.cc/live/penang189/penang189/6619.ts
 #EXTINF:-1,tamil tv_454
 http://iptv.tvmalaysia.cc/live/penang189/penang189/7115.ts
-#EXTINF:-1,tamil tv_455
-http://bmlive.net:8000/digitaltv/digitaltv/bms.m3u8
-#EXTINF:-1,tamil tv_456
-http://bmlive.net:8000/samyukthahd/samyukthahd/bms.m3u8
 #EXTINF:-1,tamil tv_457
 https://play-lh.googleusercontent.com/mPyV_zu5RklUrVQtCR345XwLFN5mkB3OYADq40MRja_dByhqcNHxjXACwy4-hV5KmRE=s180-rw
 #EXTINF:-1,tamil tv_458
@@ -958,12 +787,8 @@ https://play-lh.googleusercontent.com/V0n9jJDQba8PejGd5sFNrcAojqsdARrcjWIGrfb7J6
 https://yt3.ggpht.com/ytc/AAUvwnh2ghdVZCzRB54oKkUak6BW1sgwVzOiYcZeWyy9ZQ=s900-c-k-c0x00ffffff-no-rj
 #EXTINF:-1,tamil tv_469
 https://play-lh.googleusercontent.com/FCr0acxB9WQpWjoPPNwCxfy8Y9RMSl2Wb4r5DVO-S4FdTzirszD0MHRA46D_o8cuEXxA=s180-rw
-#EXTINF:-1,tamil tv_470
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
 #EXTINF:-1,tamil tv_471
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1,tamil tv_472
-http://kcltv.livebox.co.in:80/kclhls/live.m3u8
 #EXTINF:-1,tamil tv_473
 http://103.199.161.254/Content/keralavision/Live/Channel(Keralavision)/Stream(01)/index.m3u8
 #EXTINF:-1,tamil tv_474
@@ -994,34 +819,18 @@ http://live.singamcloud.in:1935/nvision/nvision/playlist.m3u8
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/Stream(02)/index.m3u8
 #EXTINF:-1,tamil tv_487
 http://cdn.yoctoentertainment.com:8081/metro/metro.m3u8
-#EXTINF:-1,tamil tv_488
-http://198.144.149.82:8080/NOTV/NTV/index.m3u8?token=GTR
 #EXTINF:-1,tamil tv_489
 http://cdn.yoctoentertainment.com:8081/oscar/oscar.m3u8
 #EXTINF:-1,tamil tv_490
 https://tv2.massstream.net/Masstv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tamil tv_491
-https://utube.arapurayil.com/stream/UC2ziCMHFPWkFHjocUMXT__Q/master.m3u8
-#EXTINF:-1,tamil tv_492
-https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8
 #EXTINF:-1,tamil tv_493
 https://live.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1,tamil tv_494
-http://nextgeninfotech.ddns.net:8080/hls/kings.m3u8
 #EXTINF:-1,tamil tv_495
 https://askmedia.livebox.co.in/DanNewshls/3.m3u8
 #EXTINF:-1,tamil tv_496
 http://hdserver.7starcloud.com:1935/sathiyamtv/livestreaming/playlist.m3u8
-#EXTINF:-1,tamil tv_497
-http://bmlive.net:8000/bms/bmtv/bms.m3u8
-#EXTINF:-1,tamil tv_498
-http://waytv.livebox.co.in/A9newshls/A9news.m3u8
 #EXTINF:-1,tamil tv_499
 http://waytv.livebox.co.in/waytvhls/waytv.m3u8
-#EXTINF:-1,tamil tv_500
-https://iptelevision.in/hls/spicetv.m3u8
-#EXTINF:-1,tamil tv_501
-http://198.144.149.82:8080/NOTV/KANGARUTV/index.m3u8?token=GTR
 #EXTINF:-1,tamil tv_502
 http://annaitv.livebox.co.in/ammatvhls/live.m3u8
 #EXTINF:-1,tamil tv_503
@@ -1036,14 +845,8 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/ind
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
 #EXTINF:-1,tamil tv_508
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1,tamil tv_509
-http://bmlive.net:8000/udhayamtv/udhayamtv/bms.m3u8
-#EXTINF:-1,tamil tv_510
-http://bmlive.net:8000/smyrnatv/smyrnatv/bms.m3u8
 #EXTINF:-1,tamil tv_511
 http://198.144.149.82:8080/NOTV/DHARISANAMTV/index.m3u8?token=GTR
-#EXTINF:-1,tamil tv_512
-http://7starcloud.com:1935/ntv/live/playlist.m3u8
 #EXTINF:-1,tamil tv_513
 http://faithtvlive.livebox.co.in/faithtvhls/live.m3u8
 #EXTINF:-1,tamil tv_514
@@ -1058,14 +861,8 @@ http://softstreamtv.com:8080/NOTV/VTAMILTV/index.m3u8?token=GTR
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
 #EXTINF:-1,tamil tv_519
 http://198.144.149.82:8080/NOTV/QMAX/index.m3u8?token=GTR
-#EXTINF:-1,tamil tv_520
-http://bmlive.net:8000/WINS/winstv/bms.m3u8
 #EXTINF:-1,tamil tv_521
 http://198.144.149.82:8080/NOTV/JEYAMTVCOVAI/index.m3u8?token=GTR
-#EXTINF:-1,tamil tv_522
-http://bmlive.net:8000/jeyamtvhd/jeyamtv/bms.m3u8
-#EXTINF:-1,tamil tv_523
-http://bmlive.net:8000/mytvkl/mytvkl/bms.m3u8
 #EXTINF:-1,tamil tv_524
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3u8
 #EXTINF:-1,tamil tv_525
@@ -1080,34 +877,14 @@ http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/Stream(01)/ind
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/mono.m3u8
 #EXTINF:-1,tamil tv_530
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1,tamil tv_531
-http://bmlive.net:8000/NEEMTv/neemlivetv/bms.m3u8
-#EXTINF:-1,tamil tv_532
-http://210.210.155.35:80/uq2663/h/h08/01.m3u8
-#EXTINF:-1,tamil tv_533
-http://210.210.155.35/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1,tamil tv_534
-http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1,tamil tv_535
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
-#EXTINF:-1,tamil tv_536
-http://osaitv.livebox.co.in/osaihls/live.m3u8
-#EXTINF:-1,tamil tv_537
-http://198.144.149.82:8080/NOTV/JEYAMTVUPT/index.m3u8?token=GTR
 #EXTINF:-1,tamil tv_538
 http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/kavintv/index.m3u8
 #EXTINF:-1,tamil tv_539
 http://103.199.160.85:80/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
 #EXTINF:-1,tamil tv_540
 http://198.144.149.82:8080/NOTV/SATHIYASATTHAMTV/index.m3u8?token=GTR
-#EXTINF:-1,tamil tv_541
-https://utube.arapurayil.com/stream/UC2f4w_ppqHplvjiNaoTAK9w/master.m3u8
-#EXTINF:-1,tamil tv_542
-https://utube.arapurayil.com/stream/UCat88i6_rELqI_prwvjspRA/master.m3u8
-#EXTINF:-1,tamil tv_543
-https://utube.arapurayil.com/stream/UCsfh2Zb7-m4qzT8jLhK_Fzw/master.m3u8
-#EXTINF:-1,tamil tv_544
-https://utube.arapurayil.com/stream/UCno6OgN7-NDmRTNBgqWevlw/master.m3u8
 #EXTINF:-1,tamil tv_545
 https://5c75277727cd1.streamlock.net/rcntv/rcntv/playlist.m3u8
 #EXTINF:-1,tamil tv_546
@@ -1120,22 +897,14 @@ http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
 #EXTINF:-1,tamil tv_550
 https://play-lh.googleusercontent.com/l31LSCkGK8VE7LsrLYmMhVDRWF56ivbOJ7POqoUFrrla9lKuGLpKd25Vab3Eo41b3js
-#EXTINF:-1,tamil tv_551
-http://bmlive.net:8000/Raja/rajacbe/bms.m3u8
-#EXTINF:-1,tamil tv_552
-http://bmlive.net:8000/kktdctv/kktdctv/bms.m3u8
 #EXTINF:-1,tamil tv_553
 http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
 #EXTINF:-1,tamil tv_554
 http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
-#EXTINF:-1,tamil tv_555
-http://7starcloud.com:1935/omtv/omtv/playlist.m3u8
 #EXTINF:-1,tamil tv_556
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(01)/index.m3u8
 #EXTINF:-1,tamil tv_557
 https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/chunks.m3u8
-#EXTINF:-1,tamil tv_558
-http://hdserver.7starcloud.com:1935/ashoka/channel2/playlist.m3u8
 #EXTINF:-1,tamil tv_559
 https://gvjygr2jloem-hls-live.5centscdn.com/shalini/live.stream/chunks.m3u8
 #EXTINF:-1,tamil tv_560
@@ -1144,22 +913,10 @@ http://103.98.62.134:8080/gtv/gtv.m3u8
 http://hdserver.7starcloud.com:1935/shree/tv/playlist.m3u8
 #EXTINF:-1,tamil tv_562
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
-#EXTINF:-1,tamil tv_563
-https://utube.arapurayil.com/stream/UC1mkFVHzP87YQ87PSMxo9MQ/master.m3u8
-#EXTINF:-1,tamil tv_564
-https://utube.arapurayil.com/stream/UCtbo6_eDG7zEtaOtcSltJkA/master.m3u8
-#EXTINF:-1,tamil tv_565
-https://utube.arapurayil.com/stream/UCcVF2Fth-qEA4T1Lhn3CgKg/master.m3u8
-#EXTINF:-1,tamil tv_566
-https://utube.arapurayil.com/stream/UCOP4Gbw-T1ofcW8vyL89ZDw/master.m3u8
 #EXTINF:-1,tamil tv_567
 https://server.iptelevision.in/hls/vanaviltv.m3u8
-#EXTINF:-1,tamil tv_568
-http://14.199.164.20:4001/play/a0lh/index.m3u8
 #EXTINF:-1,tamil tv_569
 http://conference1.livebox.co.in/vedhatvhls/live.m3u8
-#EXTINF:-1,tamil tv_570
-http://live.singamcloud.in:1935/priyatv/priyatv/playlist.m3u8
 #EXTINF:-1,tamil tv_571
 http://139.99.96.93:1935/eesantv/eesantv/playlist.m3u8
 #EXTINF:-1,tamil tv_572
@@ -1172,8 +929,6 @@ http://singamcloud.in/kalai/kalaiisai/index.m3u8
 http://singamcloud.in:80/rasinetworks/rasitv/index.m3u8
 #EXTINF:-1,tamil tv_576
 http://singamcloud.in/smcvtv/smcvtv/index.m3u8
-#EXTINF:-1,tamil tv_577
-http://singamcloud.in/abmtv/abmtv/index.m3u8
 #EXTINF:-1,tamil tv_578
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 #EXTINF:-1,tamil tv_579
@@ -1210,8 +965,6 @@ http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
 http://198.144.149.82:8080/AUS_TAMIL/index.m3u8?token=GTR
 #EXTINF:-1,tamil tv_595
 https://jctvapp.lanevservices.in/jcfcapp/jctvlive/playlist.m3u8
-#EXTINF:-1,tamil tv_596
-http://account2.livebox.co.in/IMAGESEQUENCEhls/live.m3u8
 #EXTINF:-1,tamil tv_597
 https://server3.iptelevision.in/hls/ntv.m3u8
 #EXTINF:-1,tamil tv_598
@@ -1222,8 +975,6 @@ http://198.144.149.82:8080/AMMA/AMMACHANNEL/index.m3u8?token=AMMA
 http://8kguru.tv:8081/rudhramtv1/tvhd/playlist.m3u8
 #EXTINF:-1,tamil tv_601
 http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
-#EXTINF:-1,tamil tv_602
-http://198.144.149.82:8080/NOTV/SMAXTV/index.m3u8?token=GTR
 #EXTINF:-1,tamil tv_603
 https://account26.livebox.co.in/kinghls/live.m3u8
 #EXTINF:-1,tamil tv_604
@@ -1240,70 +991,40 @@ http://198.144.149.82:8080/NOTV/SHALINITV/index.m3u8?token=GTR
 http://198.144.149.82:8080/NOTV/VEDHAKANCHI/index.m3u8?token=GTR
 #EXTINF:-1,tamil tv_610
 http://198.144.149.82:8080/NOTV/MMTVKANCHI/index.m3u8?token=GTR
-#EXTINF:-1,tamil tv_611
-http://bmlive.net:8000/orange/jeysontv/bms.m3u8
-#EXTINF:-1,tamil tv_612
-http://bmlive.net:8000/orange/jjmax/bms.m3u8
 #EXTINF:-1,tamil tv_613
 http://198.144.149.82:8080/NOTV/SSSTV/index.m3u8?token=GTR
-#EXTINF:-1,tamil tv_614
-https://iptelevision.in/hls/thendral.m3u8
 #EXTINF:-1,tamil tv_615
 http://198.144.149.82:8080/AMMA/ARASANTV/index.m3u8?token=AMMA
-#EXTINF:-1,tamil tv_616
-http://bmlive.net:8000/ladheetv/ladheetv/bms.m3u8
-#EXTINF:-1,tamil tv_617
-http://bmlive.net:8000/mytvtn/mytv/bms.m3u8
-#EXTINF:-1,tamil tv_618
-http://bmlive.net:8000/jcvtv/jcvtv/bms.m3u8
 #EXTINF:-1,tamil tv_619
 https://play-lh.googleusercontent.com/0o97L04fjgiarfcbfvBxhiBq2GPEovA8xxvrQA2PhgdJpmwtLkCLTlc9tSpsFnzFycA=s180-rw
-#EXTINF:-1,tamil tv_620
-http://bmlive.net:8000/sjstv/sjstv/bms.m3u8
 #EXTINF:-1,tamil tv_621
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1,tamil tv_622
 http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
-#EXTINF:-1,tamil tv_623
-https://strw1.openstream.co/552
 #EXTINF:-1,tamil tv_624
 http://s3.voscast.com:8402/;stream.mp3
 #EXTINF:-1,tamil tv_625
 https://psrlive3.listenon.in/old?station=palaiyapaadalradio
-#EXTINF:-1,tamil tv_626
-http://161.97.135.229:8300/stream
 #EXTINF:-1,tamil tv_627
 https://a9newhits-a9media.radioca.st/stream
 #EXTINF:-1,tamil tv_628
 https://a9oldhits-a9media.radioca.st/stream
 #EXTINF:-1,tamil tv_629
 https://eu8.fastcast4u.com/proxy/ailevdcu?mp=/;
-#EXTINF:-1,tamil tv_630
-https://usa11.fastcast4u.com/proxy/ajaydk?mp=/;
 #EXTINF:-1,tamil tv_631
 https://listen.radioking.com/radio/188161/stream/230320
-#EXTINF:-1,tamil tv_632
-https://node-13.zeno.fm/wmga0v626qzuv?rj-ttl=5&rj-tok=AAABd5EhqN4Au0DgBiEJGFXB6A
 #EXTINF:-1,tamil tv_633
 https://cp11.serverse.com/proxy/hgsmgluv?mp=/stream
 #EXTINF:-1,tamil tv_634
 https://streamer.radio.co/s688f110d0/listen
 #EXTINF:-1,tamil tv_635
 https://s24.myradiostream.com/:14808/;
-#EXTINF:-1,tamil tv_636
-https://node-17.zeno.fm/ky74k07zetzuv?rj-ttl=5&rj-tok=AAABd5FA8XIA2gyntY9MN2akkQ
-#EXTINF:-1,tamil tv_637
-https://node-32.zeno.fm/vwhvpryd3qzuv?rj-ttl=5&rj-tok=AAABd5EcTyMAjJCZpMJLwmOwDg
 #EXTINF:-1,tamil tv_638
 https://live.cmr24.net/CMR/TamilHD-MQ/icecast.audio
 #EXTINF:-1,tamil tv_639
 https://live.cmr24.net/CMR/CMR-MQ/icecast.audio
-#EXTINF:-1,tamil tv_640
-https://node-26.zeno.fm/5k3r78yurreuv.aac?rj-ttl=5&rj-tok=AAABd5FK5iwA-iI_xXg6KFC1eA
 #EXTINF:-1,tamil tv_641
 https://streaming.radio.co/sf833cd785/listen
-#EXTINF:-1,tamil tv_642
-https://node-25.zeno.fm/bshhtz6hanruv.aac?rj-ttl=5&rj-tok=AAABd5EO6gkA4lEeN0XLUGfh3Q
 #EXTINF:-1,tamil tv_643
 https://tamilmusiq.radioca.st/stream
 #EXTINF:-1,tamil tv_644
@@ -1312,18 +1033,12 @@ https://usa3.fastcast4u.com/proxy/dhayanib?mp=/;
 https://usa15.fastcast4u.com/proxy/tammus00?mp=/;
 #EXTINF:-1,tamil tv_646
 https://usa13.fastcast4u.com/proxy/gtcfm?mp=/1
-#EXTINF:-1,tamil tv_647
-https://eu4.fastcast4u.com/proxy/goguna00?mp=/;
-#EXTINF:-1,tamil tv_648
-https://node-23.zeno.fm/qmtwp07a4qzuv?rj-ttl=5&rj-tok=AAABd5EhXMEAek8V-u7DwoMjVg
 #EXTINF:-1,tamil tv_649
 https://streams.radio.co/s937ac5492/listen
 #EXTINF:-1,tamil tv_650
 https://rbx2.hnux.com/http://10454.cloudrad.io:6176/;stream.mp3
 #EXTINF:-1,tamil tv_651
 https://ilangaivaanoli1.out.airtime.pro/ilangaivaanoli1_a
-#EXTINF:-1,tamil tv_652
-https://node-11.zeno.fm/cq5cq5336qzuv?rj-ttl=5&rj-tok=AAABd5EvmyEAFzSWdnu0DOUfRg
 #EXTINF:-1,tamil tv_653
 https://usa7.fastcast4u.com/proxy/ozmediae?mp=/1
 #EXTINF:-1,tamil tv_654
@@ -1342,14 +1057,8 @@ https://kummalam.stream.laut.fm/kummalam
 https://kuvalai.com/radio/stream.mp3
 #EXTINF:-1,tamil tv_661
 https://rbx2.hnux.com/http://5984.cloudrad.io:8032/;stream.mp3
-#EXTINF:-1,tamil tv_662
-https://node-16.zeno.fm/k0qrmtts91zuv?rj-ttl=5&rj-tok=AAABd5EmHMYAKgd2Yah7LRVRfA
-#EXTINF:-1,tamil tv_663
-https://node-10.zeno.fm/yv9w5pe36qzuv?rj-ttl=5&rj-tok=AAABd5EmW0IA2JHKqApKQQouYg
 #EXTINF:-1,tamil tv_664
 https://usa15.fastcast4u.com/proxy/magizhchifm?mp=/1
-#EXTINF:-1,tamil tv_665
-https://node-15.zeno.fm/ybawsbrqbrzuv?rj-ttl=5&rj-tok=AAABd5FPn_AAb7B8MW7jucH9Hw
 #EXTINF:-1,tamil tv_666
 https://cors.bitwize.com.lb/http://s2.voscast.com:9356/stream
 #EXTINF:-1,tamil tv_667
@@ -1358,8 +1067,6 @@ https://ice66.securenetsystems.net/MUTHAMIL
 https://playerservices.streamtheworld.com/api/livestream-redirect/NAKSHATRA_S01AAC_SC
 #EXTINF:-1,tamil tv_669
 https://s3.voscast.com:10527/stream?type=.mp3
-#EXTINF:-1,tamil tv_670
-https://usa3.fastcast4u.com/proxy/natpunet?mp=/;
 #EXTINF:-1,tamil tv_671
 https://centova32.instainternet.com/proxy/sasi?mp=/1
 #EXTINF:-1,tamil tv_672
@@ -1370,12 +1077,6 @@ https://njsunrise.out.airtime.pro/njsunrise_a
 https://22393.live.streamtheworld.com/OLI968FMAAC.aac
 #EXTINF:-1,tamil tv_675
 https://s2.radio.co/sd4968cb05/listen
-#EXTINF:-1,tamil tv_676
-https://node-28.zeno.fm/z4chuxksn7zuv?rj-ttl=5&rj-tok=AAABd5FO3jQAkLWMEegrPGcX7g
-#EXTINF:-1,tamil tv_677
-https://node-08.zeno.fm/nkb65rhqbrzuv?rj-ttl=5&rj-tok=AAABd5FBSRYAlIsRD3m6s40VGQ
-#EXTINF:-1,tamil tv_678
-https://node-08.zeno.fm/f29eh57d3qzuv?rj-ttl=5&rj-tok=AAABd5EuC4wAp1c8goDpJSGQUg
 #EXTINF:-1,tamil tv_679
 https://prclive4.listenon.in/Tamil
 #EXTINF:-1,tamil tv_680
@@ -1386,12 +1087,8 @@ https://vpmurugun.radioca.st/stream
 https://streamingv2.shoutcast.com/radiothamil-hd-1059
 #EXTINF:-1,tamil tv_683
 https://sathees.radioca.st/;
-#EXTINF:-1,tamil tv_684
-https://saharafm.radioca.st/stream
 #EXTINF:-1,tamil tv_685
 https://eu2.fastcast4u.com/proxy/sangamum?mp=/1
-#EXTINF:-1,tamil tv_686
-https://node-18.zeno.fm/qzx5zxn0bg0uv?rj-ttl=5&rj-tok=AAABd5Yej-4AjjvKrisNphi_5w
 #EXTINF:-1,tamil tv_687
 https://node-24.zeno.fm/7dqtawdfmzzuv.aac?rj-ttl=5&rj-tok=AAABd5EswyAAlwWCSugmdZkoxg
 #EXTINF:-1,tamil tv_688
@@ -1408,24 +1105,12 @@ https://node-35.zeno.fm/a0p77fqym7zuv?rj-ttl=5&rj-tok=AAABd5EOJYgAiRZtvfZ_si7kfw
 https://tamilakaram.radioca.st/stream
 #EXTINF:-1,tamil tv_694
 https://ssl.aloncast.com:1466/stream
-#EXTINF:-1,tamil tv_695
-https://node-20.zeno.fm/w006vfqa4qzuv?rj-ttl=5&rj-tok=AAABd5Em_LwA7_l3wnRfLHHfAw
 #EXTINF:-1,tamil tv_696
 https://tamilmurasam.radioca.st/stream
 #EXTINF:-1,tamil tv_697
 https://usa15.fastcast4u.com/proxy/tamilosaifm?mp=/;
-#EXTINF:-1,tamil tv_698
-https://node-34.zeno.fm/bvz3qwqa4qzuv?rj-ttl=5&rj-tok=AAABd5Ej5NkAZDauvHxlAJkFUw
-#EXTINF:-1,tamil tv_699
-https://usa2.fastcast4u.com/proxy/tamilsun?mp=/;
 #EXTINF:-1,tamil tv_700
 https://radio.massstream.net/8010/stream
-#EXTINF:-1,tamil tv_701
-https://eu9.fastcast4u.com/proxy/tamizhvaanoli?mp=/;
-#EXTINF:-1,tamil tv_702
-https://node-15.zeno.fm/sb0zvu436qzuv?rj-ttl=5&rj-tok=AAABd5EvUdUAudR13W95IBdB5w
-#EXTINF:-1,tamil tv_703
-https://node-31.zeno.fm/eru5qfb26qzuv?rj-ttl=5&rj-tok=AAABd5EuqWQAwD3vBbqU94cmkg
 #EXTINF:-1,tamil tv_704
 https://node-07.zeno.fm/88cuqz816qzuv?rj-ttl=5&rj-tok=AAABd5FJXzYA9E9SI_KYnWJNnw
 #EXTINF:-1,tamil tv_705
@@ -1434,24 +1119,16 @@ https://s3.yesstreaming.net:17045/stream
 https://eu2.fastcast4u.com/proxy/theentamil?mp=/1
 #EXTINF:-1,tamil tv_707
 https://neramfm.com:8000/stream
-#EXTINF:-1,tamil tv_708
-https://node-18.zeno.fm/qt4tvqqqbrzuv?rj-ttl=5&rj-tok=AAABd5FIukIANqA43GZFrtiytw
 #EXTINF:-1,tamil tv_709
 https://fm.radio882.com/radio/8010/tamil.mp3
 #EXTINF:-1,tamil tv_710
 https://streaming.radio.co/s0cfc93915/listen
 #EXTINF:-1,tamil tv_711
 https://cors.bitwize.com.lb/http://europa.shoutca.st:8106/stream
-#EXTINF:-1,tamil tv_712
-https://node-27.zeno.fm/7aswfbpx25quv?rj-ttl=5&rj-tok=AAABd5E1hBMAHPoHX9bURYCvKg
 #EXTINF:-1,tamil tv_713
 https://cp12.serverse.com/proxy/vasanthamfm?mp=/stream
-#EXTINF:-1,tamil tv_714
-https://node-28.zeno.fm/vmm16gt0etzuv?rj-ttl=5&rj-tok=AAABd5FXog8AoVgXSGZuLkZoTA
 #EXTINF:-1,tamil tv_715
 https://s6.yesstreaming.net:19012/stream;
-#EXTINF:-1,tamil tv_716
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1,tamil tv_717
 http://cdn.samtv.ca/ptv24/index.m3u8
 #EXTINF:-1,tamil tv_718
@@ -1468,519 +1145,269 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 http://cdn.samtv.ca/tvpunjab/index.m3u8
 #EXTINF:-1,tamil tv_724
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
-#EXTINF:-1,tamil tv_72g
-http://p5.giffy.be:8080/play/live.php?mac=00:1A:79:36:17:74&stream=20572&extension=ts&play_token=dQOjNqh9C
-#EXTINF:-1,tamil tv_73hdjd
-http://opplex.tv:8080/121212/121212/244622
-#EXTINF:-1,tamil tv_73hdjdghjd
-http://starshare.live:8080/live/12345678/87654321/72569.m3u8
-#EXTINF:-1,tamil tv_73hdstarmov
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1,group-title="SAARA LOCAL HD", SKY TV
-
-
+#EXTINF:-1 group-title="SAARA LOCAL HD",SKY TV
 http://stream.singamcloud.in/skytv/skytv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="SAARA LOCAL HD", VINAYAGA TV
+#EXTINF:-1 group-title="SAARA LOCAL HD",VINAYAGA TV
 http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8
-#EXTINF:-1,group-title="SAARA LOCAL HD", VINAYAGA MUSIC TV
+#EXTINF:-1 group-title="SAARA LOCAL HD",VINAYAGA MUSIC TV
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
-#EXTINF:-1,group-title="SAARA LOCAL HD", RIO TV
+#EXTINF:-1 group-title="SAARA LOCAL HD",RIO TV
 http://stream.singamcloud.in/riotv/riotv/index.m3u8
-#EXTINF:-1,group-title="SAARA LOCAL HD", DHARANI TV
+#EXTINF:-1 group-title="SAARA LOCAL HD",DHARANI TV
 http://stream.singamcloud.in/dharanitv/dharanitv/index.m3u8
-#EXTINF:-1,group-title="SAARA LOCAL HD", 7 HILLS TV
+#EXTINF:-1 group-title="SAARA LOCAL HD",7 HILLS TV
 http://live.singamcloud.in:1935/7hilstv/7hilstv/playlist.m3u8
-#EXTINF:-1,group-title="SAARA LOCAL HD", ASHOKA TV
+#EXTINF:-1 group-title="SAARA LOCAL HD",ASHOKA TV
 http://stream.singamcloud.in/asokatvcbe/asokatvcbe/index.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 group-title="Music and comedy",IBC Comedy
-https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8 
-
-#EXTINF:-1 group-title="Music and comedy",mk six
+#EXTINF:-1 group-title="Music and comedyMusic and comedy",IBC Comedymk six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
-
-#EXTINF:-1,group-title="Music and comedy", siripoli
+#EXTINF:-1 group-title="Music and comedy",siripoli
 http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
-
-
-#EXTINF:-1 group-title="Music and comedy",Dan comedy low 
+#EXTINF:-1 group-title="Music and comedy",Dan comedy low
 https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="Music and comedy",Sana plus
-http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8 
-
-#EXTINF:-1 tvg-id="1" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG57807.png" group-title="Music and comedy",Isai Aruvi
+#EXTINF:-1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG57807.png" group-title="Music and comedyMusic and comedy",Sana plusIsai Aruvi
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
-
-#EXTINF:-1 group-title="Music and comedy",Mk tunes
-
-http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8 
-
-#EXTINF:-1 group-title="Music and comedy",KALAI isai
+#EXTINF:-1 group-title="Music and comedyMusic and comedy",Mk tunesKALAI isai
 http://singamcloud.in/kalai/kalaiisai/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200724-WA0034.jpg" group-title="Music and comedy",Acn music
+#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200724-WA0034.jpg" group-title="Music and comedy",Acn music
 http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
-
-#EXTINF:-1 tvg-id="1" tvg-logo="http://nammaoorutv.com/dashboard/upicons/MS LOGO.png" group-title="Music and comedy",Music star tv 
+#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/MS LOGO.png" group-title="Music and comedy",Music star tv
 http://198.144.149.82:8080/NOTV/MUSICSTARTV/index.m3u8?token=GTR
-
-
-
 #EXTINF:-1 group-title="Music and comedy",MN MUSIC
 https://mntv.livebox.co.in/musichls/live.m3u8
-
-
-#EXTINF:-1 group-title="Music and comedy",sr musix
-http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8 
-
-#EXTINF:-1 group-title="Music and comedy",IBC ISAI(INTL)
-https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
-
-#EXTINF:-1,group-title="Music and comedy", SKY TV
+#EXTINF:-1 group-title="Music and comedy",SKY TV
 http://stream.singamcloud.in/skytv/skytv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,group-title="Music and comedy", VINAYAGA TV 
+#EXTINF:-1 group-title="Music and comedy",VINAYAGA TV
 http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8
-
-#EXTINF:-1,group-title="Music and comedy", VINAYAGA MUSIC TV 
+#EXTINF:-1 group-title="Music and comedy",VINAYAGA MUSIC TV
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
-
-#EXTINF:-1,group-title="Music and comedy", RIO TV 
+#EXTINF:-1 group-title="Music and comedy",RIO TV
 http://stream.singamcloud.in/riotv/riotv/index.m3u8
-
-#EXTINF:-1,group-title="Music and comedy", DHARANI TV 
+#EXTINF:-1 group-title="Music and comedy",DHARANI TV
 http://stream.singamcloud.in/dharanitv/dharanitv/index.m3u8
-
-#EXTINF:-1,group-title="Music and comedy", 7 HILLS TV 
+#EXTINF:-1 group-title="Music and comedy",7 HILLS TV
 http://live.singamcloud.in:1935/7hilstv/7hilstv/playlist.m3u8
-
-#EXTINF:-1,group-title="Music and comedy", ASHOKA TV 
+#EXTINF:-1 group-title="Music and comedy",ASHOKA TV
 http://stream.singamcloud.in/asokatvcbe/asokatvcbe/index.m3u8
-
-
-
-#EXTINF:-1 group-title="IBC",comedy
-https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="IBC",Music
-https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="IBC",IBC
-https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="IBC",IBC CANADA
-https://tx1.ibctamil.tv/CDN_IBC_Canada/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="IBC",IBC SRILANKA
-https://tx1.ibctamil.tv/CDN_IBC_Srilanka/tracks-v1a1/mono.m3u8
-
-
-
-
 #EXTINF:-1 group-title="RASI Group",RASI TV
 http://singamcloud.in:80/rasinetworks/rasitv/index.m3u8
-
-
-#EXTINF:-1 group-title="RASI Group",RASI Hollywood
-http://singamcloud.in/rasinetworks/rasihollywood/index.m3u8 
-
-
-#EXTINF:-1 group-title="RASI Group",RASI Movies
+#EXTINF:-1 group-title="RASI GroupRASI Group",RASI HollywoodRASI Movies
 http://singamcloud.in/rasinetworks/rasimovies/index.m3u8
-
-
-#EXTINF:-1 group-title="RASI Group",RASI Music
-http://singamcloud.in/rasinetworks/rasimusic/index.m3u8 
-
-
-
-#EXTINF:-1 group-title="RASI Group",RASI Tamil 
+#EXTINF:-1 group-title="RASI GroupRASI Group",RASI MusicRASI Tamil
 http://singamcloud.in/rasinetworks/rasitamil/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Movie", AUS TAMIL low volume not24/7
+#EXTINF:-1 group-title="Movie",AUS TAMIL low volume not24/7
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://secureservercdn.net/192.169.221.188/108.2ed.myftpupload.com/wp-content/uploads/2020/06/montamilwhite_599x98v1.png"group-title="Movie",Mon Tamil TV
+#EXTINF:-1 tvg-logo="https://secureservercdn.net/192.169.221.188/108.2ed.myftpupload.com/wp-content/uploads/2020/06/montamilwhite_599x98v1.png" group-title="Movie",Mon Tamil TV
 http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
-
-#EXTINF:-1  tvg-logo="http://gtavideo.com/wp-content/uploads/2021/03/GTA-Tamil-Logo.png"group-title="Movie",GTA Tamil
+#EXTINF:-1 tvg-logo="http://gtavideo.com/wp-content/uploads/2021/03/GTA-Tamil-Logo.png" group-title="Movie",GTA Tamil
 http://142.44.213.115:8888/gta_tamil/index.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://analaiexpress.ca/wp-content/themes/aenew/assets/images/logo.png"group-title="Movie",Analai Express TV
+#EXTINF:-1 tvg-logo="https://analaiexpress.ca/wp-content/themes/aenew/assets/images/logo.png" group-title="Movie",Analai Express TV
 http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
-
-#EXTINF:-1 group-title="Movie", mullai tv
-http://bmlive.net:8000/Raja/rajacbe/bms.m3u8
-
-#EXTINF:-1 group-title="Movie",Jawahar tv
-http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/chunklist_w1329828768.m3u8 
-
-#EXTINF:-1 group-title="Movie",7Star TV
+#EXTINF:-1 group-title="MovieMovie",Jawahar tv7Star TV
 http://51.79.158.179:1935/live/7star/mono.m3u8
-
 #EXTINF:-1 group-title="Movie",Hari TV
 http://51.79.158.179:1935/harimedia/haritv/mono.m3u8
-
-#EXTINF:-1  tvg-logo="http://7startv.in/aarishvfx_00082.png"group-title="Movie",Udhayam TV 
+#EXTINF:-1 tvg-logo="http://7startv.in/aarishvfx_00082.png" group-title="Movie",Udhayam TV
 http://media.7starcloud.com:1935/harimedia/live3/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Movie", SOORIYAN TV
+#EXTINF:-1 group-title="Movie",SOORIYAN TV
 http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
-
-#EXTINF:-1group-title="Movie",MP TV TAMIL(Local)
-http://nextgeninfotech.ddns.net:8080/mptv/mptv.m3u8  
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png"group-title="Movie",POLIMER TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MovieMovie",MP TV TAMIL(Local)POLIMER TV
 http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8
 #EXTINF:-1 group-title="Movie",3 TAMIL
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png"group-title="Movie",ASHOKA TV
-http://hdserver.7starcloud.com:1935/ashoka/channel/playlist.m3u8 
-
-
-#EXTINF:-1 group-title="Movie",SANA TV hd
-http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8 
-
-
-#EXTINF:-1 group-title="Movie",CTN
-http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8 
-
-
-#EXTINF:-1 group-title="Movie",SS varma
-http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8 
-
-#EXTINF:-1 group-title="Movie",Suriya tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MovieMovieMovieMovieMovie",ASHOKA TVSANA TV hdCTNSS varmaSuriya tv
 http://nextgeninfotech.ddns.net:8080/suriya/suriya.m3u8
- #EXTINF:-1 group-title="Movie",udhayam
+#EXTINF:-1 group-title="Movie",udhayam
 http://nextgeninfotech.ddns.net:8080/udhayam/udhayam.m3u8
-#EXTINF:-1  tvg-logo="http://nammaoorutv.com/dashboard/upicons/Screenshot_20200908-234711~2.png"group-title="Movie",Tamilan tv
+#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/Screenshot_20200908-234711~2.png" group-title="Movie",Tamilan tv
 http://media.7starcloud.com:1935/harimedia/live1/playlist.m3u8
- 
-#EXTINF:-1 group-title="Movie",utv
-http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8 
-#EXTINF:-1 group-title="Movie",Jayam
-http://103.147.60.4:1935/live/jayamtv/playlist.m3u8 
-
-
-#EXTM3U
-#EXTINF:-1 group-title="SAARA MUSIC",ACN MUSIC 
+#EXTINF:-1 group-title="MovieMovieSAARA MUSIC",utvJayamACN MUSIC
 http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
-#EXTINF:-1 group-title="SAARA MUSIC",SS TV 
+#EXTINF:-1 group-title="SAARA MUSIC",SS TV
 http://hdserver.7starcloud.com:1935/live/ss/playlist.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC", ADHVIKA 
-http://bmlive.net:8000/paulveernan/advika/bms.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC", SREE SARAVANA
-http://bmlive.net:8000/BALATV/sreesaravanaa/bms.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC",YATRA TV 
+#EXTINF:-1 group-title="SAARA MUSIC",YATRA TV
 http://media.7starcloud.com:1935//harimedia/yatratv/playlist.m3u8
-#EXTINF:-1,group-title=" SAARA MUSIC", VINAYAGA MUSIC TV 
+#EXTINF:-1 group-title="SAARA MUSIC",VINAYAGA MUSIC TV
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC",SLS TV 
+#EXTINF:-1 group-title="SAARA MUSIC",SLS TV
 http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
-#EXTINF:-1,group-title=" SAARA MUSIC", SKY TV 
+#EXTINF:-1 group-title="SAARA MUSIC",SKY TV
 http://stream.singamcloud.in/skytv/skytv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC",APPLE TV 
-http://bmlive.net:8000/appletv/appletv/bms.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC",G TV
+#EXTINF:-1 group-title="SAARA MUSIC",G TV
 http://live.singamcloud.in:1935/gtv/gtv/playlist.m3u8
-#EXTINF:-1 group-title="SAARA LOCAL 1",BLUEMOON TV 
-http://bmlive.net:8000/bms/bmtv/bms.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",N MUSIC 
-http://198.144.149.82:8080/NOTV/NTV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="SAARA MUSIC",SR MUSIX 
+#EXTINF:-1 group-title="SAARA MUSIC",SR MUSIX
 http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",ISAI SARAL 
-http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC",SS VARMA 
+#EXTINF:-1 group-title="SAARA MUSIC",SS VARMA
 http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC",SMCV 
+#EXTINF:-1 group-title="SAARA MUSIC",SMCV
 http://singamcloud.in/smcvtv/smcvtv/index.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC",MM TV 
+#EXTINF:-1 group-title="SAARA MUSIC",MM TV
 http://198.144.149.82:8080/NOTV/MMTV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="SAARA MUSIC",DAN MUSIC 
-https://askmedia.livebox.co.in/DanMusichls/2.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC",SELFIE TV 
-http://bmlive.net:8000/selfeetv/selfeetv/bms.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC",SKY TV 
+#EXTINF:-1 group-title="SAARA MUSIC",SKY TV
 http://nextgeninfotech.ddns.net:8080/skylink/skylink.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",IBC MUSIC 
-https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",THENDRAL 
-https://iptelevision.in/hls/thendral.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",SINGAM TV 
+#EXTINF:-1 group-title="SAARA MUSIC",SINGAM TV
 http://singamcloud.in/singamtv/singamtv/index.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",KALAI ISAI 
+#EXTINF:-1 group-title="SAARA MUSIC",KALAI ISAI
 http://singamcloud.in/kalai/kalaiisai/index.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",ABHINAYA TV 
+#EXTINF:-1 group-title="SAARA MUSIC",ABHINAYA TV
 http://singamcloud.in/purpletv/purpletv/index.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",RASI MUSIC 
+#EXTINF:-1 group-title="SAARA MUSIC",RASI MUSIC
 http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",SUN MUSIC 
+#EXTINF:-1 group-title="SAARA MUSIC",SUN MUSIC
 http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",KAPPA TV 
+#EXTINF:-1 group-title="SAARA MUSIC",KAPPA TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",MK TUNES 
+#EXTINF:-1 group-title="SAARA MUSIC",MK TUNES
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",M MUSIC 
+#EXTINF:-1 group-title="SAARA MUSIC",M MUSIC
 https://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",AUS TAMIL 
+#EXTINF:-1 group-title="SAARA MUSIC",AUS TAMIL
 http://198.144.149.82:8080/AUS_TAMIL/index.m3u8?token=GTR
-
-
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/ItegRAT.png" tvg-id="", Polimer News (பாலிமர் செய்திகள்)
-https://utube.arapurayil.com/stream/UC8Z-VjXBtDJTvq6aqkIskPg/master.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/d1Zp4iW.png" tvg-id="", Thanthi TV (தந்தி டிவி)
-https://utube.arapurayil.com/stream/UC-JFyL0zDFOsPMpuWu39rPA/master.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/MulgNRs.jpg" tvg-id="", Puthiya Thalaimurai (புதிய தலைமுறை)
-https://utube.arapurayil.com/stream/UCmyKnNRH0wH-r8I-ceP-dsg/master.m3u8
-
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/AzIEYXU.png" tvg-id="", NewsTamil 24x7 (நியூஸ் தமிழ் தொலைக்காட்சி)
-https://utube.arapurayil.com/stream/UCtbo6_eDG7zEtaOtcSltJkA/master.m3u8
-
-
-
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/gpYwU6U.png" tvg-id="", News7 Tamil (நியூஸ்7 தமிழ் தொலைக்காட்சி)
-https://utube.arapurayil.com/stream/UC2f4w_ppqHplvjiNaoTAK9w/master.m3u8
-
-EXTINF:-1 group-title="NEWS" tvg-id=""tvg-name=""tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/News18_tamilnadu_logo.png,News18 TamilNadu
- 
-https://utube.arapurayil.com/stream/UCat88i6_rELqI_prwvjspRA/master.m3u8
-
-
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/d1Zp4iW.png" tvg-id="", Thanthi TV backup
-https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="SL-TAM: Vasantham TV" tvg-logo="https://www.vasantham.lk/wp-content/uploads/2016/07/vasantham_logo_224x187.png" group-title="SriLanka Tamil TV",SL-TAM: Vasantham TV
-https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SL-TAM: IBC Tamil TV" tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/ibc.png" group-title="SriLanka Tamil TV",SL-TAM: IBC Tamil TV
-https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SL-TAM: IBC Tamil Srilanka TV" tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/srilanka.png" group-title="SriLanka Tamil TV",SL-TAM: IBC Tamil Srilanka TV
-https://tx1.ibctamil.tv/CDN_IBC_Srilanka/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SL-TAM: IBC Bhakthi TV" tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/bakthi.png" group-title="SriLanka Tamil TV",SL-TAM: IBC Bhakthi TV
-https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SL-TAM: IBC Isai TV" tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/music.png" group-title="SriLanka Tamil TV",SL-TAM: IBC Isai TV
-https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SL-TAM: IBC Siluvai TV" tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/siluvai.png" group-title="SriLanka Tamil TV",SL-TAM: IBC Siluvai TV
-https://tx1.ibctamil.tv/CDN_IBC_Siluvai/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SL-TAM: IBC Pakidi TV" tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/comedy.png" group-title="SriLanka Tamil TV",SL-TAM: IBC Pakidi TV
-https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND-TAM: Vaagai TV" tvg-logo="https://www.vaigaitv.com/images/source/images/vaigaitv-logo-01.png" group-title="Indian Tamil TV",IND-TAM: Vaagai TV
+#EXTINF:-1 tvg-logo="https://www.vaigaitv.com/images/source/images/vaigaitv-logo-01.png" group-title="Indian Tamil TV",IND-TAM: Vaagai TV
 http://198.144.149.82:8080/NOTV/VAGAITV/index.m3u8?token=GTR
-#EXTINF:-1 tvg-id="" tvg-name="IND-TAM: Mullai TV" tvg-logo="https://play-lh.googleusercontent.com/wfADwsL_Py771w_iaMVZNMa83w8JAhIAIrnRjMCoW8lN-6ip-F5jE4gvvJkMf3u7BA=rw-w250" group-title="Indian Tamil TV",IND-TAM: Mullai TV
-http://bmlive.net:8000/Raja/rajacbe/bms.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND-TAM: J Vision TV" tvg-logo="https://play-lh.googleusercontent.com/hBgzFgh1RGcaSk2dEd6u_cSrzVlwV7etKMr3rLImLdImnDci5dyAp_Aj352QuRTIaw" group-title="Indian Tamil TV",IND-TAM: J Vision TV
-http://198.144.149.82:8080/DINESH/JVISION/index.m3u8?token=GTR
-#EXTINF:-1 tvg-id="" tvg-name="IND-TAM: Vaanavil TV" tvg-logo="https://vaanaviltelevision.com/wp-content/uploads/elementor/thumbs/Vaanavil-Logo-Corrected-o58uocv0sgtdls8vsduusi0wtlknknkhnmv4x1uv6o.png" group-title="Indian Tamil TV",IND-TAM: Vaanavil TV
+#EXTINF:-1 tvg-logo="https://vaanaviltelevision.com/wp-content/uploads/elementor/thumbs/Vaanavil-Logo-Corrected-o58uocv0sgtdls8vsduusi0wtlknknkhnmv4x1uv6o.png" group-title="Indian Tamil TV",IND-TAM: Vaanavil TV
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND-TAM: Peppers TV" tvg-logo="http://pepperstv.com/support/images/peppers-logo.png" group-title="Indian Tamil TV",IND-TAM: Peppers TV
+#EXTINF:-1 tvg-logo="http://pepperstv.com/support/images/peppers-logo.png" group-title="Indian Tamil TV",IND-TAM: Peppers TV
 http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND-TAM: Peppers TV" tvg-logo="http://pepperstv.com/support/images/peppers-logo.png" group-title="Indian Tamil TV",IND-TAM: Peppers TV
-#EXTINF:-1 tvg-id="" tvg-name="IND-TAM: MK TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/MKTV.png/revision/latest?cb=20191225171218" group-title="Indian Tamil TV",IND-TAM: MK TV
+#EXTINF:-1 tvg-logo="http://pepperstv.com/support/images/peppers-logo.pnghttps://static.wikia.nocookie.net/logopedia/images/7/72/MKTV.png/revision/latest?cb=20191225171218" group-title="Indian Tamil TVIndian Tamil TV",IND-TAM: Peppers TVIND-TAM: MK TV
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND-TAM: Sivan TV" tvg-logo="http://sivantv.com/wp-content/uploads/2017/10/Logo-site.png" group-title="Indian Tamil TV",IND-TAM: Sivan TV
+#EXTINF:-1 tvg-logo="http://sivantv.com/wp-content/uploads/2017/10/Logo-site.png" group-title="Indian Tamil TV",IND-TAM: Sivan TV
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND-TAM: Athavan HD TV" tvg-logo="http://2.bp.blogspot.com/-SSnVNy1B2DQ/VYAqbL8L_oI/AAAAAAAAGVE/2y3A5jJhboY/s640/Athavan%2BTV.jpg" group-title="Indian Tamil TV",IND-TAM: Athavan HD TV
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-SSnVNy1B2DQ/VYAqbL8L_oI/AAAAAAAAGVE/2y3A5jJhboY/s640/Athavan%2BTV.jpg" group-title="Indian Tamil TV",IND-TAM: Athavan HD TV
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND-TAM: Polimer TV" tvg-logo="https://www.polimernews.com/assets/images/dimg/2.png" group-title="Indian Tamil TV",IND-TAM: Polimer TV
+#EXTINF:-1 tvg-logo="https://www.polimernews.com/assets/images/dimg/2.png" group-title="Indian Tamil TV",IND-TAM: Polimer TV
 http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND-TAM: Analai Express TV" tvg-logo="http://img.new.livestream.com/accounts/00000000001a62be/85fd0acd-a0aa-46e3-a24a-e078cc805b04.png" group-title="Indian Tamil TV",IND-TAM: Analai Express TV
+#EXTINF:-1 tvg-logo="http://img.new.livestream.com/accounts/00000000001a62be/85fd0acd-a0aa-46e3-a24a-e078cc805b04.png" group-title="Indian Tamil TV",IND-TAM: Analai Express TV
 http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
-#EXTINF:-1 tvg-id="" tvg-name="AUS-TAM: AUS Tamil TV" tvg-logo="https://austamil.tv/wp-content/uploads/2022/05/Aus-Logo.png" group-title="Australia Tamil TV",AUS-TAM: AUS Tamil TV
+#EXTINF:-1 tvg-logo="https://austamil.tv/wp-content/uploads/2022/05/Aus-Logo.png" group-title="Australia Tamil TV",AUS-TAM: AUS Tamil TV
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA-TAM: Sooriyan TV" tvg-logo="http://4.bp.blogspot.com/-NrERiata954/YEBS8j5r78I/AAAAAAAABU4/1BNo8cCPdwQyutq0D6Z7G1Ew21WAeZzhwCK4BGAYYCw/s1600/Sooriyantv%2BNews%2Blogo_1.png" group-title="Canada Tamil TV",CA-TAM: Sooriyan TV
-https://castor.streamthatvideo.co:8081/sooriyantv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SL-TAM: IBC Tamil Canada TV" tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/canada.png" group-title="SriLanka Tamil TV",SL-TAM: IBC Tamil Canada TV
-https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",ACN MUSIC 
+#EXTINF:-1 group-title="SAARA MUSIC",ACN MUSIC
 http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
-#EXTINF:-1 group-title="SAARA MUSIC",MALAR TV UHD 
+#EXTINF:-1 group-title="SAARA MUSIC",MALAR TV UHD
 http://malartv.phoenixcreations.online:5080/live/streams/malartv.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC", ADHVIKA 
-http://bmlive.net:8000/paulveernan/advika/bms.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC", SREE SARAVANA
-http://bmlive.net:8000/BALATV/sreesaravanaa/bms.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC",YATRA TV 
+#EXTINF:-1 group-title="SAARA MUSIC",YATRA TV
 http://media.7starcloud.com:1935//harimedia/yatratv/playlist.m3u8
-#EXTINF:-1,group-title=" SAARA MUSIC", VINAYAGA MUSIC TV 
+#EXTINF:-1 group-title="SAARA MUSIC",VINAYAGA MUSIC TV
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC",SLS TV 
+#EXTINF:-1 group-title="SAARA MUSIC",SLS TV
 http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
-#EXTINF:-1,group-title=" SAARA MUSIC", SKY TV 
+#EXTINF:-1 group-title="SAARA MUSIC",SKY TV
 http://stream.singamcloud.in/skytv/skytv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC",APPLE TV 
-http://bmlive.net:8000/appletv/appletv/bms.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC",G TV
+#EXTINF:-1 group-title="SAARA MUSIC",G TV
 http://live.singamcloud.in:1935/gtv/gtv/playlist.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",N MUSIC 
-http://198.144.149.82:8080/NOTV/NTV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="SAARA MUSIC",SR MUSIX 
+#EXTINF:-1 group-title="SAARA MUSIC",SR MUSIX
 http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",ISAI SARAL 
-http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC",SS VARMA 
+#EXTINF:-1 group-title="SAARA MUSIC",SS VARMA
 http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC",SMCV 
+#EXTINF:-1 group-title="SAARA MUSIC",SMCV
 http://singamcloud.in/smcvtv/smcvtv/index.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC",MM TV 
+#EXTINF:-1 group-title="SAARA MUSIC",MM TV
 http://198.144.149.82:8080/NOTV/MMTV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="SAARA MUSIC",DAN MUSIC 
-https://askmedia.livebox.co.in/DanMusichls/2.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC",SELFIE TV 
-http://bmlive.net:8000/selfeetv/selfeetv/bms.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC",SKY TV 
+#EXTINF:-1 group-title="SAARA MUSIC",SKY TV
 http://nextgeninfotech.ddns.net:8080/skylink/skylink.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",IBC MUSIC 
-https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",THENDRAL 
-https://iptelevision.in/hls/thendral.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",SINGAM TV 
+#EXTINF:-1 group-title="SAARA MUSIC",SINGAM TV
 http://singamcloud.in/singamtv/singamtv/index.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",KALAI ISAI 
+#EXTINF:-1 group-title="SAARA MUSIC",KALAI ISAI
 http://singamcloud.in/kalai/kalaiisai/index.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",ABHINAYA TV 
+#EXTINF:-1 group-title="SAARA MUSIC",ABHINAYA TV
 http://singamcloud.in/purpletv/purpletv/index.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",RASI MUSIC 
+#EXTINF:-1 group-title="SAARA MUSIC",RASI MUSIC
 http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",KAPPA TV 
+#EXTINF:-1 group-title="SAARA MUSIC",KAPPA TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",MK TUNES 
+#EXTINF:-1 group-title="SAARA MUSIC",MK TUNES
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",M MUSIC 
+#EXTINF:-1 group-title="SAARA MUSIC",M MUSIC
 https://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",AUS TAMIL 
+#EXTINF:-1 group-title="SAARA MUSIC",AUS TAMIL
 http://198.144.149.82:8080/AUS_TAMIL/index.m3u8?token=GTR#EXTM3U
-#EXTINF:-1 group-title="SAARA MUSIC",SS TV 
+#EXTINF:-1 group-title="SAARA MUSIC",SS TV
 http://hdserver.7starcloud.com:1935/live/ss/playlist.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC", ADHVIKA 
-http://bmlive.net:8000/paulveernan/advika/bms.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC", SREE SARAVANA
-http://bmlive.net:8000/BALATV/sreesaravanaa/bms.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC",YATRA TV 
+#EXTINF:-1 group-title="SAARA MUSIC",YATRA TV
 http://media.7starcloud.com:1935//harimedia/yatratv/playlist.m3u8
-#EXTINF:-1,group-title=" SAARA MUSIC", VINAYAGA MUSIC TV 
+#EXTINF:-1 group-title="SAARA MUSIC",VINAYAGA MUSIC TV
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC",SLS TV 
+#EXTINF:-1 group-title="SAARA MUSIC",SLS TV
 http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
-#EXTINF:-1,group-title=" SAARA MUSIC", SKY TV 
+#EXTINF:-1 group-title="SAARA MUSIC",SKY TV
 http://stream.singamcloud.in/skytv/skytv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" SAARA MUSIC",APPLE TV 
-http://bmlive.net:8000/appletv/appletv/bms.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",ABHINAYA TV 
+#EXTINF:-1 group-title="SAARA MUSIC",ABHINAYA TV
 http://singamcloud.in/purpletv/purpletv/index.m3u8
-#EXTINF:-1 group-title="SAARA MUSIC",RASI MUSIC 
+#EXTINF:-1 group-title="SAARA MUSIC",RASI MUSIC
 http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
-
-#EXTINF:-1,group-title="SAARA LOCAL HD", SKY TV 
+#EXTINF:-1 group-title="SAARA LOCAL HD",SKY TV
 http://stream.singamcloud.in/skytv/skytv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="SAARA LOCAL HD", VINAYAGA TV 
+#EXTINF:-1 group-title="SAARA LOCAL HD",VINAYAGA TV
 http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8
-#EXTINF:-1,group-title="SAARA LOCAL HD", VINAYAGA MUSIC TV 
+#EXTINF:-1 group-title="SAARA LOCAL HD",VINAYAGA MUSIC TV
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
-#EXTINF:-1,group-title="SAARA LOCAL HD", RIO TV 
+#EXTINF:-1 group-title="SAARA LOCAL HD",RIO TV
 http://stream.singamcloud.in/riotv/riotv/index.m3u8
-#EXTINF:-1,group-title="SAARA LOCAL HD", DHARANI TV 
+#EXTINF:-1 group-title="SAARA LOCAL HD",DHARANI TV
 http://stream.singamcloud.in/dharanitv/dharanitv/index.m3u8
-#EXTINF:-1,group-title="SAARA LOCAL HD", 7 HILLS TV 
+#EXTINF:-1 group-title="SAARA LOCAL HD",7 HILLS TV
 http://live.singamcloud.in:1935/7hilstv/7hilstv/playlist.m3u8
-#EXTINF:-1,group-title="SAARA LOCAL HD", ASHOKA TV 
+#EXTINF:-1 group-title="SAARA LOCAL HD",ASHOKA TV
 http://stream.singamcloud.in/asokatvcbe/asokatvcbe/index.m3u8#EXTM3U
-#EXTINF:-1,group-title="SAARA LOCAL HD", G MUSIC TV 
+#EXTINF:-1 group-title="SAARA LOCAL HD",G MUSIC TV
 https://rasi.iptelevision.in/hls/gmusic.m3u8
-#EXTINF:-1 group-title="SAARA LOCAL HD",LOTUS TV 
+#EXTINF:-1 group-title="SAARA LOCAL HD",LOTUS TV
 http://139.99.96.85:1935/lotustv/live/playlist.m3u8
-#EXTINF:-1 group-title="SAARA LOCAL HD",DEVADHAI TV 
+#EXTINF:-1 group-title="SAARA LOCAL HD",DEVADHAI TV
 http://singamcloud.in/Deavathaitv/Deavathaitv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SAARA LOCAL HD",7 STAR 
+#EXTINF:-1 group-title="SAARA LOCAL HD",7 STAR
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
-#EXTINF:-1 group-title="SAARA LOCAL HD",PHOENIX 
+#EXTINF:-1 group-title="SAARA LOCAL HD",PHOENIX
 http://103.88.77.238:8081/phoenix/phoenix.m3u8
-#EXTINF:-1,group-title="SAARA LOCAL HD", ARUL TV 
+#EXTINF:-1 group-title="SAARA LOCAL HD",ARUL TV
 https://eagle.iptelevision.in/hls/arultv.m3u8
-#EXTINF:-1,group-title="SAARA LOCAL HD", KARTHI TV 
-http://bmlive.net:8000/karnan/karthitv/bms.m3u8?hls_ctx=35x53733
-#EXTINF:-1,group-title="SAARA LOCAL HD", G TV 
+#EXTINF:-1 group-title="SAARA LOCAL HD",G TV
 http://7starcloud.com:1935/gtv/studiogtn/playlist.m3u8
-#EXTINF:-1,group-title="SAARA LOCAL HD", PR TV 
+#EXTINF:-1 group-title="SAARA LOCAL HD",PR TV
 http://51.79.250.111/live/prtv.m3u8
-#EXTINF:-1,group-title="SAARA LOCAL HD", RPK TV 
+#EXTINF:-1 group-title="SAARA LOCAL HD",RPK TV
 http://183.87.51.10/hls/rpktv.m3u8
-#EXTINF:-1 group-title="SAARA LOCAL HD",NSK TV 
+#EXTINF:-1 group-title="SAARA LOCAL HD",NSK TV
 https://iptelevision.in/hls/nsktv.m3u8
-#EXTINF:-1 group-title="SAARA LOCAL HD",SRI TV 
+#EXTINF:-1 group-title="SAARA LOCAL HD",SRI TV
 https://server3.iptelevision.in/hls/sritv.m3u8
-#EXTINF:-1 group-title="SAARA LOCAL HD",NAGARAM TV 
+#EXTINF:-1 group-title="SAARA LOCAL HD",NAGARAM TV
 https://iptelevision.in/hls/nagaramtv.m3u8
-#EXTINF:-1,group-title="SAARA LOCAL HD", AJANTHA TV 
+#EXTINF:-1 group-title="SAARA LOCAL HD",AJANTHA TV
 https://server1.iptelevision.in/hls/ajithatv.m3u8
-#EXTINF:-1,group-title="SAARA LOCAL HD", SMART TV 
+#EXTINF:-1 group-title="SAARA LOCAL HD",SMART TV
 https://server.iptelevision.in/hls/sunsmart.m3u8
-#EXTINF:-1,group-title="SAARA LOCAL HD", TAMIL PLUS 
+#EXTINF:-1 group-title="SAARA LOCAL HD",TAMIL PLUS
 http://hdserver.7starcloud.com:1935/tamil/plus/playlist.m3u8
-#EXTINF:-1,group-title="SAARA LOCAL HD", KUMARI TV 
-http://bmlive.net:8000/kumaritvthly/kumaritvthly/bms.m3u8?hls_ctx=64fdg988
-#EXTINF:-1,group-title="SAARA LOCAL HD", SAMAR TV 
+#EXTINF:-1 group-title="SAARA LOCAL HD",SAMAR TV
 http://51.79.250.111/live/kstartv.m3u8
-#EXTINF:-1 group-title="SAARA LOCAL HD",SRI KRISHNA 1 
+#EXTINF:-1 group-title="SAARA LOCAL HD",SRI KRISHNA 1
 http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
 #EXTINF:-1 group-title="SAARA LOCAL HD",SRI KRISHNA 2
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
-#EXTINF:-1  group-title="SAARA LOCAL HD", 7 HILLS
+#EXTINF:-1 group-title="SAARA LOCAL HD",7 HILLS
 http://139.99.96.93:1935/7hilstv/7hilstv/playlist.m3u8
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="Saara Tamil LCO", KUMARI TV 
+#EXTINF:-1 group-title="Saara Tamil LCO",KUMARI TV
 http://indiamatrix.in/kumaritvnow/kumaritvnow.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO",MCV TV 
-http://shinestream.in:1935/mcvtv/mcvtv/chunklist_w1339989872.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO", lee tv 
+#EXTINF:-1 group-title="Saara Tamil LCO",lee tv
 http://nextgeninfotech.ddns.net:8080/leetv/leetv.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO", VIP TV 
+#EXTINF:-1 group-title="Saara Tamil LCO",VIP TV
 http://media.7starcloud.com:1935/harimedia/vip/playlist.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO",S FLIX HD 
-http://bmlive.net:8000/appletv/sflixtv/bms.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO",YESMAN TV 
+#EXTINF:-1 group-title="Saara Tamil LCO",YESMAN TV
 http://198.144.149.82:8080/NOTV/YESMANTV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="Saara Tamil LCO", KANGAROO TV 
-http://198.144.149.82:8080/NOTV/KANGARUTV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="Saara Tamil LCO",STAR TV 
-http://bmlive.net:8000/appletv/startv/bms.m3u8
 #EXTINF:-1 group-title="Saara Tamil LCO",LEAF VIJAY TV
 http://nextgeninfotech.ddns.net:8080/leaf/leaf.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO", GALAXY
+#EXTINF:-1 group-title="Saara Tamil LCO",GALAXY
 http://shinestream.in:1935/galaxytv/galaxytv/chunklist_w39078625.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO",ATN HD TV 
+#EXTINF:-1 group-title="Saara Tamil LCO",ATN HD TV
 http://hdserver.7starcloud.com:1935/atntv/live/playlist.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO",SURIYAN TV HD 
+#EXTINF:-1 group-title="Saara Tamil LCO",SURIYAN TV HD
 http://172.105.55.47:5080/live/streams/suriyantv.m3u8
 #EXTINF:-1 group-title="Saara Tamil LCO",Sky media TV
 http://skymedia.phoenixcreations.online:5080/live/streams/skymedia.m3u8
 #EXTINF:-1 group-title="Saara Tamil LCO",Jose TV
 http://josetv.phoenixcreations.online:5080/live/streams/josetv.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO", PHEONIX HD 
+#EXTINF:-1 group-title="Saara Tamil LCO",PHEONIX HD
 http://172.105.55.47:5080/live/streams/phoenixtv.m3u8
 #EXTINF:-1 group-title="Saara Tamil LCO",SUKRA TV
 http://sukratv.phoenixcreations.online:5080/live/streams/sukratv.m3u8
@@ -1988,10 +1415,8 @@ http://sukratv.phoenixcreations.online:5080/live/streams/sukratv.m3u8
 http://jenifertv.phoenixcreations.online:5080/live/streams/raghultv.m3u8
 #EXTINF:-1 group-title="Saara Tamil LCO",JENIFER Tv
 http://jenifertv.phoenixcreations.online:5080/live/streams/jenifertv.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO",Rasi Hollywood 
+#EXTINF:-1 group-title="Saara Tamil LCO",Rasi Hollywood
 http://singamcloud.in:80/rasinetworks/rasihollywood/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO",TPTamilan
-http://media.7starcloud.com:1935/harimedia/tpttamilantv/chunklist_w1332879050.m3u8
 #EXTINF:-1 group-title="Saara Tamil LCO",Sunstar
 http://nextgeninfotech.ddns.net:8080/sunstar/sunstar.m3u8
 #EXTINF:-1 group-title="Saara Tamil LCO",Mullai
@@ -2000,219 +1425,163 @@ http://live.singamcloud.in:1935/mullaitv/mullaitv/playlist.m3u8
 http://183.87.51.10:80/hls/ammatv.m3u8
 #EXTINF:-1 group-title="Saara Tamil LCO",Bhavani Sangmam TV
 http://7starcloud.com:1935/bhavanitv/livestream/chunklist_w2024503718.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO",JCV TV
-http://bmlive.net:8000/jcvtv/jcvtv/bms.m3u8
 #EXTINF:-1 group-title="Saara Tamil LCO",KingStar TV
 http://51.79.250.111:80/live/kstartv.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO",Ladhee TV
-http://bmlive.net:8000/ladheetv/ladheetv/bms.m3u8?hls_ctx=4u8jqsk5
-#EXTINF:-1 group-title="Saara Tamil LCO" , VEL TV 
+#EXTINF:-1 group-title="Saara Tamil LCO",VEL TV
 http://live.singamcloud.in:1935/veltv/veltv/playlist.m3u8
-
-#EXTINF:-1  group-title="Saara Tamil LCO" , JEYAM TV 
+#EXTINF:-1 group-title="Saara Tamil LCO",JEYAM TV
 http://hdserver.singamcloud.in:1935/jayamtvs/jayamtv/playlist.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO", KRM TV 
+#EXTINF:-1 group-title="Saara Tamil LCO",KRM TV
 http://media.7starcloud.com:1935/harimedia/krmtv/playlist.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO", ASAI TV 
+#EXTINF:-1 group-title="Saara Tamil LCO",ASAI TV
 http://osaitv.livebox.co.in/aasaihls/live.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO", JJ TV 
+#EXTINF:-1 group-title="Saara Tamil LCO",JJ TV
 http://jaaltv.livebox.co.in/jjtvhls/live.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO", THULIR HD 
-http://bmlive.net:8000/penguintv/penguintv/bms.m3u8
-#EXTINF:-1  group-title="Saara Tamil LCO", SAR TV 
+#EXTINF:-1 group-title="Saara Tamil LCO",SAR TV
 http://livematrix.in:80/sartv/sartv.m3u8
 #EXTINF:-1 group-title="Saara Tamil LCO",Maa Tv
 http://172.105.55.47:5080/live/streams/maatv.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO", RED TV MALAYALAM 
+#EXTINF:-1 group-title="Saara Tamil LCO",RED TV MALAYALAM
 http://nextgeninfotech.ddns.net:8080/red/red.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO", SAKTHI TV HD 
+#EXTINF:-1 group-title="Saara Tamil LCO",SAKTHI TV HD
 http://nextgeninfotech.ddns.net:8080/sakthi/sakthi.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO", ANNAI TV 
+#EXTINF:-1 group-title="Saara Tamil LCO",ANNAI TV
 http://nextgeninfotech.ddns.net:8080/annai/annai.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO", GD TV 
-http://nextgeninfotech.ddns.net:8080/gdtv/gdtv.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO", SMILE TV HD 
+#EXTINF:-1 group-title="Saara Tamil LCO",SMILE TV HD
 http://hdserver.7starcloud.com:1935/smile/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO", 3StarHLS
-http://jaaltv.livebox.co.in:80/3startvhls/live.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO", Dinesh TV 
+#EXTINF:-1 group-title="Saara Tamil LCO",Dinesh TV
 http://hdserver.7starcloud.com:1935/dinesh/tv/playlist.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO", JAYAAM TV
+#EXTINF:-1 group-title="Saara Tamil LCO",JAYAAM TV
 http://hdserver.7starcloud.com:1935/jayaamtv/jayaamtv/playlist.m3u8
-#EXTINF:-1 group-title="Saara Tamil LCO",AADHAVAN TV 
+#EXTINF:-1 group-title="Saara Tamil LCO",AADHAVAN TV
 http://7starcloud.com:1935/adhavantv/myStream/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",ACN MUSIC 
+#EXTINF:-1 group-title="MUSIC",ACN MUSIC
 http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
-#EXTINF:-1 group-title="MUSIC",SS TV 
+#EXTINF:-1 group-title="MUSIC",SS TV
 http://hdserver.7starcloud.com:1935/live/ss/playlist.m3u8
-#EXTINF:-1 group-title=" MUSIC", ADHVIKA 
-http://bmlive.net:8000/paulveernan/advika/bms.m3u8
-#EXTINF:-1 group-title=" MUSIC", SREE SARAVANA
-http://bmlive.net:8000/BALATV/sreesaravanaa/bms.m3u8
-#EXTINF:-1 group-title=" MUSIC",YATRA TV 
+#EXTINF:-1 group-title="MUSIC",YATRA TV
 http://media.7starcloud.com:1935//harimedia/yatratv/playlist.m3u8
-#EXTINF:-1,group-title=" MUSIC", VINAYAGA MUSIC TV 
+#EXTINF:-1 group-title="MUSIC",VINAYAGA MUSIC TV
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
-#EXTINF:-1 group-title=" MUSIC",SLS TV 
+#EXTINF:-1 group-title="MUSIC",SLS TV
 http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
-#EXTINF:-1,group-title=" MUSIC", SKY TV 
+#EXTINF:-1 group-title="MUSIC",SKY TV
 http://stream.singamcloud.in/skytv/skytv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" MUSIC",APPLE TV 
-http://bmlive.net:8000/appletv/appletv/bms.m3u8
-#EXTINF:-1 group-title=" MUSIC",G TV
+#EXTINF:-1 group-title="MUSIC",G TV
 http://live.singamcloud.in:1935/gtv/gtv/playlist.m3u8
-#EXTINF:-1 group-title="SAARA LOCAL 1",BLUEMOON TV 
-http://bmlive.net:8000/bms/bmtv/bms.m3u8
-#EXTINF:-1 group-title="MUSIC",N MUSIC 
-http://198.144.149.82:8080/NOTV/NTV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="MUSIC",SR MUSIX 
+#EXTINF:-1 group-title="MUSIC",SR MUSIX
 http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",ISAI SARAL 
-http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
-#EXTINF:-1 group-title=" MUSIC",SS VARMA 
+#EXTINF:-1 group-title="MUSIC",SS VARMA
 http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
-#EXTINF:-1 group-title=" MUSIC",SMCV 
+#EXTINF:-1 group-title="MUSIC",SMCV
 http://singamcloud.in/smcvtv/smcvtv/index.m3u8
-#EXTINF:-1 group-title=" MUSIC",MM TV 
+#EXTINF:-1 group-title="MUSIC",MM TV
 http://198.144.149.82:8080/NOTV/MMTV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="MUSIC",DAN MUSIC 
-https://askmedia.livebox.co.in/DanMusichls/2.m3u8
-#EXTINF:-1 group-title=" MUSIC",SELFIE TV 
-http://bmlive.net:8000/selfeetv/selfeetv/bms.m3u8
-#EXTINF:-1 group-title=" MUSIC",SKY TV 
+#EXTINF:-1 group-title="MUSIC",SKY TV
 http://nextgeninfotech.ddns.net:8080/skylink/skylink.m3u8
-#EXTINF:-1 group-title="MUSIC",IBC MUSIC 
-https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MUSIC",THENDRAL 
-https://iptelevision.in/hls/thendral.m3u8
-#EXTINF:-1 group-title="MUSIC",SINGAM TV 
+#EXTINF:-1 group-title="MUSIC",SINGAM TV
 http://singamcloud.in/singamtv/singamtv/index.m3u8
-#EXTINF:-1 group-title="MUSIC",KALAI ISAI 
+#EXTINF:-1 group-title="MUSIC",KALAI ISAI
 http://singamcloud.in/kalai/kalaiisai/index.m3u8
-#EXTINF:-1 group-title="MUSIC",ABHINAYA TV 
+#EXTINF:-1 group-title="MUSIC",ABHINAYA TV
 http://singamcloud.in/purpletv/purpletv/index.m3u8
-#EXTINF:-1 group-title="MUSIC",RASI MUSIC 
+#EXTINF:-1 group-title="MUSIC",RASI MUSIC
 http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
-#EXTINF:-1 group-title="MUSIC",SUN MUSIC 
+#EXTINF:-1 group-title="MUSIC",SUN MUSIC
 http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
-#EXTINF:-1 group-title="MUSIC",KAPPA TV 
+#EXTINF:-1 group-title="MUSIC",KAPPA TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
-#EXTINF:-1 group-title="MUSIC",MK TUNES 
+#EXTINF:-1 group-title="MUSIC",MK TUNES
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
-#EXTINF:-1 group-title="MUSIC",M MUSIC 
+#EXTINF:-1 group-title="MUSIC",M MUSIC
 https://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:-1 group-title="MUSIC",AUS TAMIL 
+#EXTINF:-1 group-title="MUSIC",AUS TAMIL
 http://198.144.149.82:8080/AUS_TAMIL/index.m3u8?token=GTR#EXTM3U
-#EXTINF:-1,group-title="LOCAL", SKY TV 
+#EXTINF:-1 group-title="LOCAL",SKY TV
 http://stream.singamcloud.in/skytv/skytv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="LOCAL", VINAYAGA TV 
+#EXTINF:-1 group-title="LOCAL",VINAYAGA TV
 http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8
-#EXTINF:-1,group-title="LOCAL", VINAYAGA MUSIC TV 
+#EXTINF:-1 group-title="LOCAL",VINAYAGA MUSIC TV
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
-#EXTINF:-1,group-title="LOCAL", RIO TV 
+#EXTINF:-1 group-title="LOCAL",RIO TV
 http://stream.singamcloud.in/riotv/riotv/index.m3u8
-#EXTINF:-1,group-title="LOCAL", DHARANI TV 
+#EXTINF:-1 group-title="LOCAL",DHARANI TV
 http://stream.singamcloud.in/dharanitv/dharanitv/index.m3u8
-#EXTINF:-1,group-title="LOCAL", 7 HILLS TV 
+#EXTINF:-1 group-title="LOCAL",7 HILLS TV
 http://live.singamcloud.in:1935/7hilstv/7hilstv/playlist.m3u8
-#EXTINF:-1,group-title="LOCAL", ASHOKA TV 
+#EXTINF:-1 group-title="LOCAL",ASHOKA TV
 http://stream.singamcloud.in/asokatvcbe/asokatvcbe/index.m3u8#EXTM3U
-#EXTINF:-1,group-title="LOCAL", G MUSIC TV 
+#EXTINF:-1 group-title="LOCAL",G MUSIC TV
 https://rasi.iptelevision.in/hls/gmusic.m3u8
-#EXTINF:-1,group-title="LOCAL", THALAPATHY TV 
-http://183.87.51.10/hls/thalapathyvjtv.m3u8
-#EXTM3U
-#EXTINF:-1,group-title="LOCAL",CHO TV  Devotional 
+#EXTINF:-1 group-title="LOCAL",CHO TV  Devotional
 http://198.144.149.82:8080/NOTV/CHOTV/index.m3u8?token=GTR
-#EXTINF:-1,group-title="LOCAL", THALAPATHY TV 
-http://183.87.51.10/hls/thalapathyvjtv.m3u8
-#EXTINF:-1 group-title="MUSIC",SS TV 
+#EXTINF:-1 group-title="MUSIC",SS TV
 http://hdserver.7starcloud.com:1935/live/ss/playlist.m3u8
-#EXTINF:-1 group-title=" MUSIC", ADHVIKA 
-http://bmlive.net:8000/paulveernan/advika/bms.m3u8
-#EXTINF:-1 group-title=" MUSIC", SREE SARAVANA
-http://bmlive.net:8000/BALATV/sreesaravanaa/bms.m3u8
-#EXTINF:-1 group-title=" MUSIC",YATRA TV 
+#EXTINF:-1 group-title="MUSIC",YATRA TV
 http://media.7starcloud.com:1935//harimedia/yatratv/playlist.m3u8
-#EXTINF:-1,group-title=" MUSIC", VINAYAGA MUSIC TV 
+#EXTINF:-1 group-title="MUSIC",VINAYAGA MUSIC TV
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
-#EXTINF:-1 group-title=" MUSIC",SLS TV 
+#EXTINF:-1 group-title="MUSIC",SLS TV
 http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
-#EXTINF:-1,group-title=" MUSIC", SKY TV 
+#EXTINF:-1 group-title="MUSIC",SKY TV
 http://stream.singamcloud.in/skytv/skytv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" MUSIC",APPLE TV 
-http://bmlive.net:8000/appletv/appletv/bms.m3u8
-#EXTINF:-1 group-title="MUSIC",ABHINAYA TV 
+#EXTINF:-1 group-title="MUSIC",ABHINAYA TV
 http://singamcloud.in/purpletv/purpletv/index.m3u8
-#EXTINF:-1 group-title="MUSIC",RASI MUSIC 
+#EXTINF:-1 group-title="MUSIC",RASI MUSIC
 http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
-#EXTINF:-1,group-title="LOCAL", G MUSIC TV 
+#EXTINF:-1 group-title="LOCAL",G MUSIC TV
 https://rasi.iptelevision.in/hls/gmusic.m3u8
-#EXTINF:-1 group-title="LOCAL",LOTUS TV 
+#EXTINF:-1 group-title="LOCAL",LOTUS TV
 http://139.99.96.85:1935/lotustv/live/playlist.m3u8
-#EXTINF:-1 group-title="LOCAL",DEVADHAI TV 
+#EXTINF:-1 group-title="LOCAL",DEVADHAI TV
 http://singamcloud.in/Deavathaitv/Deavathaitv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="LOCAL", RIO TV 
+#EXTINF:-1 group-title="LOCAL",RIO TV
 http://stream.singamcloud.in/riotv/riotv/index.m3u8
-#EXTINF:-1,group-title="LOCAL", DHARANI TV 
+#EXTINF:-1 group-title="LOCAL",DHARANI TV
 http://stream.singamcloud.in/dharanitv/dharanitv/index.m3u8
-
-#EXTINF:-1 group-title="LOCAL",7 STAR 
+#EXTINF:-1 group-title="LOCAL",7 STAR
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
-#EXTINF:-1 group-title="LOCAL",PHOENIX 
+#EXTINF:-1 group-title="LOCAL",PHOENIX
 http://103.88.77.238:8081/phoenix/phoenix.m3u8
-#EXTINF:-1,group-title="LOCAL", ARUL TV 
+#EXTINF:-1 group-title="LOCAL",ARUL TV
 https://eagle.iptelevision.in/hls/arultv.m3u8
-#EXTINF:-1,group-title="LOCAL", KARTHI TV 
-http://bmlive.net:8000/karnan/karthitv/bms.m3u8?hls_ctx=35x53733
-#EXTINF:-1,group-title="LOCAL", G TV 
+#EXTINF:-1 group-title="LOCAL",G TV
 http://7starcloud.com:1935/gtv/studiogtn/playlist.m3u8
-#EXTINF:-1,group-title="LOCAL", PR TV 
+#EXTINF:-1 group-title="LOCAL",PR TV
 http://51.79.250.111/live/prtv.m3u8
-#EXTINF:-1,group-title="LOCAL", RPK TV 
+#EXTINF:-1 group-title="LOCAL",RPK TV
 http://183.87.51.10/hls/rpktv.m3u8
-#EXTINF:-1 group-title="LOCAL",NSK TV 
+#EXTINF:-1 group-title="LOCAL",NSK TV
 https://iptelevision.in/hls/nsktv.m3u8
-#EXTINF:-1 group-title="LOCAL",SRI TV 
+#EXTINF:-1 group-title="LOCAL",SRI TV
 https://server3.iptelevision.in/hls/sritv.m3u8
-#EXTINF:-1 group-title="LOCAL",NAGARAM TV 
+#EXTINF:-1 group-title="LOCAL",NAGARAM TV
 https://iptelevision.in/hls/nagaramtv.m3u8
-#EXTINF:-1,group-title="LOCAL", AJANTHA TV 
+#EXTINF:-1 group-title="LOCAL",AJANTHA TV
 https://server1.iptelevision.in/hls/ajithatv.m3u8
-#EXTINF:-1,group-title="LOCAL", SMART TV 
+#EXTINF:-1 group-title="LOCAL",SMART TV
 https://server.iptelevision.in/hls/sunsmart.m3u8
-#EXTINF:-1,group-title="LOCAL", TAMIL PLUS 
+#EXTINF:-1 group-title="LOCAL",TAMIL PLUS
 http://hdserver.7starcloud.com:1935/tamil/plus/playlist.m3u8
-#EXTINF:-1,group-title="LOCAL", KUMARI TV 
-http://bmlive.net:8000/kumaritvthly/kumaritvthly/bms.m3u8?hls_ctx=64fdg988
-#EXTINF:-1,group-title="LOCAL", SAMAR TV 
+#EXTINF:-1 group-title="LOCAL",SAMAR TV
 http://51.79.250.111/live/kstartv.m3u8
-#EXTINF:-1 group-title="LOCAL",SRI KRISHNA 1 
+#EXTINF:-1 group-title="LOCAL",SRI KRISHNA 1
 http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
 #EXTINF:-1 group-title="LOCAL",SRI KRISHNA 2
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="LOCAL",ATN HD TV 
+#EXTINF:-1 group-title="LOCAL",ATN HD TV
 http://hdserver.7starcloud.com:1935/atntv/live/playlist.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="LOCAL", KUMARI TV 
+#EXTINF:-1 group-title="LOCAL",KUMARI TV
 http://indiamatrix.in/kumaritvnow/kumaritvnow.m3u8
-#EXTINF:-1 group-title="LOCAL",MCV TV 
-http://shinestream.in:1935/mcvtv/mcvtv/chunklist_w1339989872.m3u8
-#EXTINF:-1 , lee tv 
+#EXTINF:-1,lee tv
 http://nextgeninfotech.ddns.net:8080/leetv/leetv.m3u8
-#EXTINF:-1 , VIP TV 
+#EXTINF:-1,VIP TV
 http://media.7starcloud.com:1935/harimedia/vip/playlist.m3u8
-#EXTINF:-1 ,S FLIX HD 
-http://bmlive.net:8000/appletv/sflixtv/bms.m3u8
-#EXTINF:-1 ,YESMAN TV 
+#EXTINF:-1,YESMAN TV
 http://198.144.149.82:8080/NOTV/YESMANTV/index.m3u8?token=GTR
-#EXTINF:-1 , KANGAROO TV 
-http://198.144.149.82:8080/NOTV/KANGARUTV/index.m3u8?token=GTR
-#EXTINF:-1 ,STAR TV 
-http://bmlive.net:8000/appletv/startv/bms.m3u8
 #EXTINF:-1 group-title="LOCAL",LEAF VIJAY TV
 http://nextgeninfotech.ddns.net:8080/leaf/leaf.m3u8
-#EXTINF:-1 , GALAXY
+#EXTINF:-1,GALAXY
 http://shinestream.in:1935/galaxytv/galaxytv/chunklist_w39078625.m3u8
 #EXTINF:-1 group-title="LOCAL",Maa Tv
 http://172.105.55.47:5080/live/streams/maatv.m3u8
@@ -2232,10 +1601,8 @@ http://sukratv.phoenixcreations.online:5080/live/streams/sukratv.m3u8
 http://jenifertv.phoenixcreations.online:5080/live/streams/raghultv.m3u8
 #EXTINF:-1 group-title="LOCAL",Jeni Tv
 http://jenifertv.phoenixcreations.online:5080/live/streams/jenifertv.m3u8
-#EXTINF:-1 group-title="LOCAL",Rasi Hollywood 
+#EXTINF:-1 group-title="LOCAL",Rasi Hollywood
 http://singamcloud.in:80/rasinetworks/rasihollywood/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="LOCAL",TPTamilan
-http://media.7starcloud.com:1935/harimedia/tpttamilantv/chunklist_w1332879050.m3u8
 #EXTINF:-1 group-title="LOCAL",Sunstar
 http://nextgeninfotech.ddns.net:8080/sunstar/sunstar.m3u8
 #EXTINF:-1 group-title="LOCAL",Mullai
@@ -2244,165 +1611,129 @@ http://live.singamcloud.in:1935/mullaitv/mullaitv/playlist.m3u8
 http://183.87.51.10:80/hls/ammatv.m3u8
 #EXTINF:-1 group-title="LOCAL",Bhavani Sangmam TV
 http://7starcloud.com:1935/bhavanitv/livestream/chunklist_w2024503718.m3u8
-#EXTINF:-1 group-title="LOCAL",JCV TV
-http://bmlive.net:8000/jcvtv/jcvtv/bms.m3u8
 #EXTINF:-1 group-title="LOCAL",KingStar TV
 http://51.79.250.111:80/live/kstartv.m3u8
-#EXTINF:-1 group-title="LOCAL",Apple TV HD
-http://bmlive.net:8000/appletv/appletv/bms.m3u8?hls_ctx=57yw2y46
-#EXTINF:-1 group-title="LOCAL",Ladhee TV
-http://bmlive.net:8000/ladheetv/ladheetv/bms.m3u8?hls_ctx=4u8jqsk5
-#EXTM3U
-#EXTINF:-1 group-title="TLL MUSIC",ACN MUSIC 
+#EXTINF:-1 group-title="TLL MUSIC",ACN MUSIC
 http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
-#EXTINF:-1 group-title="TLL MUSIC",MALAR TV UHD 
+#EXTINF:-1 group-title="TLL MUSIC",MALAR TV UHD
 http://malartv.phoenixcreations.online:5080/live/streams/malartv.m3u8
-#EXTINF:-1,group-title=" TLL MUSIC", VINAYAGA MUSIC TV 
+#EXTINF:-1 group-title="TLL MUSIC",VINAYAGA MUSIC TV
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
-#EXTINF:-1,group-title=" TLL MUSIC", BONUS HD TV 
+#EXTINF:-1 group-title="TLL MUSIC",BONUS HD TV
 http://singamcloud.in:80/bonushd/bonushd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TLL MUSIC",SAFFRON HD
 http://139.99.96.93:1935/saffrontv/saffrontv/chunklist_w1829280668.m3u8
 #EXTINF:-1 group-title="TLL MUSIC",EVEERGREEN TV
 http://shinestream.in:1935/evergreen/evergreen/chunklist_w90394648.m3u8
-#EXTINF:-1,group-title="TLL MUSIC", G MUSIC TV 
+#EXTINF:-1 group-title="TLL MUSIC",G MUSIC TV
 https://rasi.iptelevision.in/hls/gmusic.m3u8
-#EXTINF:-1 group-title="TLL MUSIC",JCV TV
-http://bmlive.net:8000/jcvtv/jcvtv/bms.m3u8
-#EXTINF:-1 group-title="TLL MUSIC",AUS TAMIL 
+#EXTINF:-1 group-title="TLL MUSIC",AUS TAMIL
 http://198.144.149.82:8080/AUS_TAMIL/index.m3u8?token=GTR#EXTM3U
-#EXTINF:-1 group-title=" TLL MUSIC", ADHVIKA 
-http://bmlive.net:8000/paulveernan/advika/bms.m3u8
-#EXTINF:-1 group-title=" TLL MUSIC", SREE SARAVANA
-http://bmlive.net:8000/BALATV/sreesaravanaa/bms.m3u8
-#EXTINF:-1 group-title=" TLL MUSIC",YATRA TV 
+#EXTINF:-1 group-title="TLL MUSIC",YATRA TV
 http://media.7starcloud.com:1935//harimedia/yatratv/playlist.m3u8
-#EXTINF:-1 group-title=" TLL MUSIC",SLS TV 
+#EXTINF:-1 group-title="TLL MUSIC",SLS TV
 http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
-#EXTINF:-1,group-title=" TLL MUSIC", SKY TV 
+#EXTINF:-1 group-title="TLL MUSIC",SKY TV
 http://stream.singamcloud.in/skytv/skytv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" TLL MUSIC",APPLE TV 
-http://bmlive.net:8000/appletv/appletv/bms.m3u8
-#EXTINF:-1 group-title=" TLL MUSIC",G TV
+#EXTINF:-1 group-title="TLL MUSIC",G TV
 http://live.singamcloud.in:1935/gtv/gtv/playlist.m3u8
-#EXTINF:-1 group-title="TLL MUSIC",N MUSIC 
-http://198.144.149.82:8080/NOTV/NTV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="TLL MUSIC",SR MUSIX 
+#EXTINF:-1 group-title="TLL MUSIC",SR MUSIX
 http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
-#EXTINF:-1 group-title="TLL MUSIC",ISAI SARAL 
-http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
-#EXTINF:-1 group-title=" TLL MUSIC",SS VARMA 
+#EXTINF:-1 group-title="TLL MUSIC",SS VARMA
 http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
-#EXTINF:-1 group-title=" TLL MUSIC",SMCV 
+#EXTINF:-1 group-title="TLL MUSIC",SMCV
 http://singamcloud.in/smcvtv/smcvtv/index.m3u8
-#EXTINF:-1 group-title=" TLL MUSIC",MM TV 
+#EXTINF:-1 group-title="TLL MUSIC",MM TV
 http://198.144.149.82:8080/NOTV/MMTV/index.m3u8?token=GTR
-#EXTINF:-1 group-title=" TLL MUSIC",SELFIE TV 
-http://bmlive.net:8000/selfeetv/selfeetv/bms.m3u8
-#EXTINF:-1 group-title=" TLL MUSIC",SKY TV 
+#EXTINF:-1 group-title="TLL MUSIC",SKY TV
 http://nextgeninfotech.ddns.net:8080/skylink/skylink.m3u8
-#EXTINF:-1 group-title="TLL MUSIC",THENDRAL 
-https://iptelevision.in/hls/thendral.m3u8
-#EXTINF:-1 group-title="TLL MUSIC",SINGAM TV 
+#EXTINF:-1 group-title="TLL MUSIC",SINGAM TV
 http://singamcloud.in/singamtv/singamtv/index.m3u8
-#EXTINF:-1 group-title="TLL MUSIC",KALAI ISAI 
+#EXTINF:-1 group-title="TLL MUSIC",KALAI ISAI
 http://singamcloud.in/kalai/kalaiisai/index.m3u8
-#EXTINF:-1 group-title="TLL MUSIC",ABHINAYA TV 
+#EXTINF:-1 group-title="TLL MUSIC",ABHINAYA TV
 http://singamcloud.in/purpletv/purpletv/index.m3u8
-#EXTINF:-1 group-title="TLL MUSIC",RASI MUSIC 
+#EXTINF:-1 group-title="TLL MUSIC",RASI MUSIC
 http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
-#EXTINF:-1 group-title="TLL MUSIC",KAPPA TV 
+#EXTINF:-1 group-title="TLL MUSIC",KAPPA TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
-#EXTINF:-1 group-title="TLL MUSIC",M MUSIC 
+#EXTINF:-1 group-title="TLL MUSIC",M MUSIC
 https://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:-1 group-title="TLL MUSIC",SS TV 
+#EXTINF:-1 group-title="TLL MUSIC",SS TV
 http://hdserver.7starcloud.com:1935/live/ss/playlist.m3u8
-#EXTINF:-1 group-title=" TLL MUSIC", ADHVIKA 
-http://bmlive.net:8000/paulveernan/advika/bms.m3u8
-#EXTINF:-1 group-title=" TLL MUSIC", SREE SARAVANA
-http://bmlive.net:8000/BALATV/sreesaravanaa/bms.m3u8
-#EXTINF:-1 group-title=" TLL MUSIC",YATRA TV 
+#EXTINF:-1 group-title="TLL MUSIC",YATRA TV
 http://media.7starcloud.com:1935//harimedia/yatratv/playlist.m3u8
-#EXTINF:-1,group-title=" TLL MUSIC", VINAYAGA MUSIC TV 
+#EXTINF:-1 group-title="TLL MUSIC",VINAYAGA MUSIC TV
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
-#EXTINF:-1 group-title=" TLL MUSIC",SLS TV 
+#EXTINF:-1 group-title="TLL MUSIC",SLS TV
 http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
-
-
-#EXTINF:-1,group-title="TLL LOCAL HD", RIO TV 
+#EXTINF:-1 group-title="TLL LOCAL HD",RIO TV
 http://stream.singamcloud.in/riotv/riotv/index.m3u8
-#EXTINF:-1,group-title="TLL LOCAL HD", DHARANI TV 
+#EXTINF:-1 group-title="TLL LOCAL HD",DHARANI TV
 http://stream.singamcloud.in/dharanitv/dharanitv/index.m3u8
-#EXTINF:-1,group-title="TLL LOCAL HD", 7 HILLS TV
+#EXTINF:-1 group-title="TLL LOCAL HD",7 HILLS TV
 http://live.singamcloud.in:1935/7hilstv/7hilstv/playlist.m3u8
-#EXTINF:-1,group-title="TLL LOCAL HD", ASHOKA TV 
+#EXTINF:-1 group-title="TLL LOCAL HD",ASHOKA TV
 http://stream.singamcloud.in/asokatvcbe/asokatvcbe/index.m3u8#EXTM3U
-#EXTINF:-1 group-title="TLL LOCAL HD",LOTUS TV 
+#EXTINF:-1 group-title="TLL LOCAL HD",LOTUS TV
 http://139.99.96.85:1935/lotustv/live/playlist.m3u8
-#EXTINF:-1 group-title="TLL LOCAL HD",DEVADHAI TV 
+#EXTINF:-1 group-title="TLL LOCAL HD",DEVADHAI TV
 http://singamcloud.in/Deavathaitv/Deavathaitv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TLL LOCAL HD",7 STAR 
+#EXTINF:-1 group-title="TLL LOCAL HD",7 STAR
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
-#EXTINF:-1 group-title="TLL LOCAL HD",PHOENIX 
+#EXTINF:-1 group-title="TLL LOCAL HD",PHOENIX
 http://103.88.77.238:8081/phoenix/phoenix.m3u8
-#EXTINF:-1,group-title="TLL LOCAL HD", ARUL TV 
+#EXTINF:-1 group-title="TLL LOCAL HD",ARUL TV
 https://eagle.iptelevision.in/hls/arultv.m3u8
-#EXTINF:-1,group-title="TLL LOCAL HD", KARTHI TV 
-http://bmlive.net:8000/karnan/karthitv/bms.m3u8?hls_ctx=35x53733
-#EXTINF:-1,group-title="TLL LOCAL HD", G TV 
+#EXTINF:-1 group-title="TLL LOCAL HD",G TV
 http://7starcloud.com:1935/gtv/studiogtn/playlist.m3u8
-#EXTINF:-1,group-title="TLL LOCAL HD", PR TV 
+#EXTINF:-1 group-title="TLL LOCAL HD",PR TV
 http://51.79.250.111/live/prtv.m3u8
-#EXTINF:-1,group-title="TLL LOCAL HD", RPK TV 
+#EXTINF:-1 group-title="TLL LOCAL HD",RPK TV
 http://183.87.51.10/hls/rpktv.m3u8
-#EXTINF:-1 group-title="TLL LOCAL HD",NSK TV 
+#EXTINF:-1 group-title="TLL LOCAL HD",NSK TV
 https://iptelevision.in/hls/nsktv.m3u8
-#EXTINF:-1 group-title="TLL LOCAL HD",SRI TV 
+#EXTINF:-1 group-title="TLL LOCAL HD",SRI TV
 https://server3.iptelevision.in/hls/sritv.m3u8
-#EXTINF:-1 group-title="TLL LOCAL HD",NAGARAM TV 
+#EXTINF:-1 group-title="TLL LOCAL HD",NAGARAM TV
 https://iptelevision.in/hls/nagaramtv.m3u8
-#EXTINF:-1,group-title="TLL LOCAL HD", AJANTHA TV 
+#EXTINF:-1 group-title="TLL LOCAL HD",AJANTHA TV
 https://server1.iptelevision.in/hls/ajithatv.m3u8
-#EXTINF:-1,group-title="TLL LOCAL HD", SMART TV 
+#EXTINF:-1 group-title="TLL LOCAL HD",SMART TV
 https://server.iptelevision.in/hls/sunsmart.m3u8
-#EXTINF:-1,group-title="TLL LOCAL HD", TAMIL PLUS 
+#EXTINF:-1 group-title="TLL LOCAL HD",TAMIL PLUS
 http://hdserver.7starcloud.com:1935/tamil/plus/playlist.m3u8
-#EXTINF:-1,group-title="TLL LOCAL HD", KUMARI TV 
-http://bmlive.net:8000/kumaritvthly/kumaritvthly/bms.m3u8?hls_ctx=64fdg988
-#EXTINF:-1,group-title="TLL LOCAL HD", SAMAR TV 
+#EXTINF:-1 group-title="TLL LOCAL HD",SAMAR TV
 http://51.79.250.111/live/kstartv.m3u8
-#EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA 1 
+#EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA 1
 http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA 2
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
-#EXTINF:-1  group-title="TLL LOCAL HD", 7 HILLS
+#EXTINF:-1 group-title="TLL LOCAL HD",7 HILLS
 http://139.99.96.93:1935/7hilstv/7hilstv/playlist.m3u8
-#EXTINF:-1  group-title="TLL LOCAL HD", RAM TV
+#EXTINF:-1 group-title="TLL LOCAL HD",RAM TV
 http://media.7starcloud.com:1935/harimedia/live5/chunklist_w325080359.m3u8
-#EXTINF:-1  group-title="TLL LOCAL HD", VIP TV
+#EXTINF:-1 group-title="TLL LOCAL HD",VIP TV
 http://media.7starcloud.com:1935/harimedia/vip/chunklist_w653932600.m3u8
-#EXTINF:-1  group-title="TLL LOCAL HD", UDHAYAM TV
+#EXTINF:-1 group-title="TLL LOCAL HD",UDHAYAM TV
 http://media.7starcloud.com:1935/harimedia/live3/chunklist_w1300385731.m3u8
-#EXTINF:-1  group-title="TLL LOCAL HD", ANNAI TV
+#EXTINF:-1 group-title="TLL LOCAL HD",ANNAI TV
 http://198.144.149.82:8080/NOTV/ANNAITV/index.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 group-title="TLL Tamil LCO", KUMARI TV 
+#EXTINF:-1 group-title="TLL Tamil LCO",KUMARI TV
 http://indiamatrix.in/kumaritvnow/kumaritvnow.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",TTV KANCHI 
+#EXTINF:-1 group-title="TLL Tamil LCO",TTV KANCHI
 http://198.144.149.82:8080/NOTV/TTV/index.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",KRISHNA 4K TV
 http://198.144.149.82:8080/NOTV/KRISHNATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",Bhavani Sangmam TV
 http://7starcloud.com:1935/bhavanitv/livestream/chunklist_w2024503718.m3u8
-#EXTINF:-1,group-title="TLL Tamil LCO", VINAYAGA TV 
+#EXTINF:-1 group-title="TLL Tamil LCO",VINAYAGA TV
 http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",BOSS TV
 http://183.87.51.10:80/hls/vasantv.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",Jose TV
 http://josetv.phoenixcreations.online:5080/live/streams/josetv.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", PHEONIX HD 
+#EXTINF:-1 group-title="TLL Tamil LCO",PHEONIX HD
 http://172.105.55.47:5080/live/streams/phoenixtv.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",SUKRA TV
 http://sukratv.phoenixcreations.online:5080/live/streams/sukratv.m3u8
@@ -2410,42 +1741,30 @@ http://sukratv.phoenixcreations.online:5080/live/streams/sukratv.m3u8
 http://jenifertv.phoenixcreations.online:5080/live/streams/raghultv.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",JENIFER Tv
 http://jenifertv.phoenixcreations.online:5080/live/streams/jenifertv.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",MCV TV 
-http://shinestream.in:1935/mcvtv/mcvtv/chunklist_w1339989872.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", lee tv 
+#EXTINF:-1 group-title="TLL Tamil LCO",lee tv
 http://nextgeninfotech.ddns.net:8080/leetv/leetv.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", VIP TV 
+#EXTINF:-1 group-title="TLL Tamil LCO",VIP TV
 http://media.7starcloud.com:1935/harimedia/vip/playlist.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",S FLIX HD 
-http://bmlive.net:8000/appletv/sflixtv/bms.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",YESMAN TV 
+#EXTINF:-1 group-title="TLL Tamil LCO",YESMAN TV
 http://198.144.149.82:8080/NOTV/YESMANTV/index.m3u8?token=GTR
 #EXTINF:-1 group-title="TLL Tamil LCO",ANANDHA 4K TV
 http://198.144.149.82:8080/NOTV/ANANDHATV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",VASANTH TV
-http://bmlive.net:8000/vasanthtvngl/vasanthtvngl/bms.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",RPK TVHD
 http://183.87.51.10:80/hls/rpktv.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", KANGAROO TV 
-http://198.144.149.82:8080/NOTV/KANGARUTV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="TLL Tamil LCO",STAR TV 
-http://bmlive.net:8000/appletv/startv/bms.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",LEAF VIJAY TV
 http://nextgeninfotech.ddns.net:8080/leaf/leaf.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", GALAXY
+#EXTINF:-1 group-title="TLL Tamil LCO",GALAXY
 http://shinestream.in:1935/galaxytv/galaxytv/chunklist_w39078625.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",ATN HD TV 
+#EXTINF:-1 group-title="TLL Tamil LCO",ATN HD TV
 http://hdserver.7starcloud.com:1935/atntv/live/playlist.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",SURIYAN TV HD 
+#EXTINF:-1 group-title="TLL Tamil LCO",SURIYAN TV HD
 http://172.105.55.47:5080/live/streams/suriyantv.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",Sky media TV
 http://skymedia.phoenixcreations.online:5080/live/streams/skymedia.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",THARUN MOVIES
 http://secure.ultramaxnet.com:80/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",Rasi Hollywood 
+#EXTINF:-1 group-title="TLL Tamil LCO",Rasi Hollywood
 http://singamcloud.in:80/rasinetworks/rasihollywood/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",TPTamilan
-http://media.7starcloud.com:1935/harimedia/tpttamilantv/chunklist_w1332879050.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",Sunstar
 http://nextgeninfotech.ddns.net:8080/sunstar/sunstar.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",Mullai
@@ -2454,46 +1773,34 @@ http://live.singamcloud.in:1935/mullaitv/mullaitv/playlist.m3u8
 http://183.87.51.10:80/hls/ammatv.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",KingStar TV
 http://51.79.250.111:80/live/kstartv.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",Ladhee TV
-http://bmlive.net:8000/ladheetv/ladheetv/bms.m3u8?hls_ctx=4u8jqsk5
-#EXTINF:-1 group-title="TLL Tamil LCO" , VEL TV 
+#EXTINF:-1 group-title="TLL Tamil LCO",VEL TV
 http://live.singamcloud.in:1935/veltv/veltv/playlist.m3u8
-#EXTINF:-1  group-title="TLL Tamil LCO" , JEYAM TV 
+#EXTINF:-1 group-title="TLL Tamil LCO",JEYAM TV
 http://hdserver.singamcloud.in:1935/jayamtvs/jayamtv/playlist.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", KRM TV 
+#EXTINF:-1 group-title="TLL Tamil LCO",KRM TV
 http://media.7starcloud.com:1935/harimedia/krmtv/playlist.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", ASAI TV 
+#EXTINF:-1 group-title="TLL Tamil LCO",ASAI TV
 http://osaitv.livebox.co.in/aasaihls/live.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", JJ TV 
+#EXTINF:-1 group-title="TLL Tamil LCO",JJ TV
 http://jaaltv.livebox.co.in/jjtvhls/live.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", THULIR HD 
-http://bmlive.net:8000/penguintv/penguintv/bms.m3u8
-#EXTINF:-1  group-title="TLL Tamil LCO", SAR TV 
+#EXTINF:-1 group-title="TLL Tamil LCO",SAR TV
 http://livematrix.in:80/sartv/sartv.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",Maa Tv
 http://nextgeninfotech.ddns.net:8080/red/red.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", SAKTHI TV HD 
+#EXTINF:-1 group-title="TLL Tamil LCO",SAKTHI TV HD
 http://nextgeninfotech.ddns.net:8080/sakthi/sakthi.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", ANNAI TV 
+#EXTINF:-1 group-title="TLL Tamil LCO",ANNAI TV
 http://nextgeninfotech.ddns.net:8080/annai/annai.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", GD TV 
-http://nextgeninfotech.ddns.net:8080/gdtv/gdtv.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", SMILE TV HD 
-http://hdserver.7starcloud.com:1935/smile/livestream/playlist.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", 3StarHLS
-http://jaaltv.livebox.co.in:80/3startvhls/live.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", Dinesh TV 
+#EXTINF:-1 group-title="TLL Tamil LCO",Dinesh TV
 http://hdserver.7starcloud.com:1935/dinesh/tv/playlist.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", JAYAAM TV
+#EXTINF:-1 group-title="TLL Tamil LCO",JAYAAM TV
 http://hdserver.7starcloud.com:1935/jayaamtv/jayaamtv/playlist.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",AADHAVAN TV 
+#EXTINF:-1 group-title="TLL Tamil LCO",AADHAVAN TV
 http://7starcloud.com:1935/adhavantv/myStream/playlist.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",SANGAMAM TV
 http://livematrix.in:80/sangamamtv/sangamamtv.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",SSTV
 http://68.183.82.116:8080/ssTV/ft86Iv8l.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",RJTV 
-http://bmlive.net:8000/sureshpoondi/rjtvtamil/bms.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",KVM
 http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/kvmtv321_low/index.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",NILA TV
