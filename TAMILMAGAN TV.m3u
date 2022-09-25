@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
+#EXTINF:-1 tvg-id="1" group-title="TAMIL " tvg-logo="https://1.bp.blogspot.com/-hOQJF0AviXI/XabyEn-otgI/AAAAAAAAAO0/EIr3i2cfciM62njA4c0YDitlBnia8Lv1QCPcBGAYYCw/w640-h256/venkat_00104.png",TAMILMAGAN TV
+https://secure.streamplanet.tv/hls/tamilmagantvhd/master.m3u8
