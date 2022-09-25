@@ -17,6 +17,7 @@ http://singamcloud.in/rasinetworks/rasihollywood/tracks-v1a1/mono.m3u8
 http://singamcloud.in/rasinetwork/cookings/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG80573.png" group-title="Tamil Cloud",7Star TVtamil tv_1
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTM3U #Credits Goto = https://t.me/livetvtamil1 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TV http://singamcloud.in/rasinetworks/rasitv/index.m3u8 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TAMIL http://singamcloud.in/rasinetworks/rasitamil/index.m3u8 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI MUSIC http://singamcloud.in/rasinetworks/rasimusic/index.m3u8 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI MOVIES http://singamcloud.in/rasinetworks/rasimovies/index.m3u8 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI HOLLYWOOD http://singamcloud.in/rasinetworks/rasihollywood/index.m3u8
 #EXTINF:-1,tamil tv_2
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 #EXTINF:-1,tamil tv_3
