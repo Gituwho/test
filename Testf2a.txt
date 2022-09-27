@@ -1689,3 +1689,5 @@ http://indiamatrix.in:80/atn/atn.m3u8
 http://livematrix.in:80/bamahd/bamahd.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",KCHANNEL TV
 http://indiamatrix.in:80/kchannel/kchannel.m3u8
+#EXTINF:-1 group-title="TLL Tamil LCO",BAMA HD TVggghgg
+http://media.7starcloud.com:1935/harimedia/mkptv/playlist.m3u8
