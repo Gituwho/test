@@ -421,6 +421,39 @@ http://198.144.149.82:8080/NOTV/JEYAMTVCOVAI/index.m3u8?token=GTR
 http://198.144.149.82:8080/NOTV/DJEYAM/index.m3u8?token=GTR
 #EXTINF:-1 group-title="TLL Tamil LCO",GEM TV 
 https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8
+#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
+#EXTINF:-1 tvg-logo="" group-title=" group-title=" group-title=" group-title="RASI NETWORKSRASI NETWORKSRASI NETWORKS",RASI TVRASI TAMILRASI MUSIC
+http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title="RASI NETWORKS",RASI MOVIES
+http://singamcloud.in/rasinetworks/rasimovies/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title="RASI NETWORKS",RASI HOLLYWOOD
+http://singamcloud.in/rasinetworks/rasihollywood/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",RASI HOLLYWOOD
+http://singamcloud.in:80/rasinetworks/rasihollywood/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",RASI cookingRASI cookinggg
+http://singamcloud.in/rasinetworks/rasitamil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",RASI hchc
+http://singamcloud.in/rasinetworks/rasihollywood/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",RASI cookinggsj
+http://singamcloud.in/rasinetwork/cookings/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG80573.png" group-title="Tamil Cloud",7Star TVtamil tv_1
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title="RASI NETWORKS",RASI TV
+http://singamcloud.in/rasinetworks/rasitv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title=" group-title="RASI NETWORKSRASI NETWORKS",RASI TAMILRASI MUSIC
+http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title="RASI NETWORKS",RASI MOVIES
+http://singamcloud.in/rasinetworks/rasimovies/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title="RASI NETWORKS",RASI HOLLYWOOD
+http://singamcloud.in/rasinetworks/rasihollywood/index.m3u8
+#EXTINF:-1,tamil tv_rasitamil
+http://singamcloud.in/rasinetworks/rasitamil/index.m3u8
+#EXTINF:-1,tamil tv_rasi
+http://singamcloud.in/rasinetworks/rasitv/index.m3u8
+#EXTINF:-1,tamil tv_rasimovies
+http://singamcloud.in/rasinetworks/rasimovies/index.m3u8
+#EXTINF:-1,tamil tv_2
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="http://cineosai.xyz/uploads/system_logo/logo_633197bb7b1a8.png" group-title="TLL Tamil LCO",CineOsai HD TV
 rtmp://nazking.dscloud.me:1935/livestream/stream
