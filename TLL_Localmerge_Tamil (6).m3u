@@ -3713,4 +3713,18 @@ https://m-c010-j2apps.s.llnwi.net/hls/7099.NewsFirstKannada.in.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Ftv5Kannada.jpg?alt=media&token=2661edee-25ac-4abb-851c-3b505e93843d" " group-title="Others", TV5 Kannada
 http://5giptv.me:8880/live/70124378/53182954/324973.ts
 
+#EXTINF:-1 tvg-logo="" group-title=" group-title=" group-title=" group-title="RASI NETWORKSRASI NETWORKSRASI NETWORKS",RASI TVRASI TAMILRASI MUSIC
+http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title="RASI NETWORKS",RASI MOVIES
+http://singamcloud.in/rasinetworks/rasimovies/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title="RASI NETWORKS",RASI HOLLYWOOD
+http://singamcloud.in/rasinetworks/rasihollywood/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",RASI HOLLYWOOD
+http://singamcloud.in:80/rasinetworks/rasihollywood/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",RASI cookingRASI cookinggg
+http://singamcloud.in/rasinetworks/rasitamil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",RASI hchc
+http://singamcloud.in/rasinetworks/rasihollywood/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",RASI cookinggsj
+http://singamcloud.in/rasinetwork/cookings/tracks-v1a1/mono.m3u8
 
