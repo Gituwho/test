@@ -3728,3 +3728,1736 @@ http://singamcloud.in/rasinetworks/rasihollywood/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",RASI cookinggsj
 http://singamcloud.in/rasinetwork/cookings/tracks-v1a1/mono.m3u8
 
+#EXTM3U
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/americantamilradio.jpg" " group-title="Tamil FM Radios", Amercian Tamil Radio
+http://69.46.24.226:7188/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/olifm.jpg" " group-title="WORLD  RADIOS", OLI FM 96.8 (சிங்கப்பூர்)
+http://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/thirukural.jpg" " group-title="Talking Radios", Thirukural
+http://stream.zenolive.com/ehthqswavhruv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqOxHwDZul6GOn1xrlEXeZRgzSGZ0eigFybBisaKuBZy6UTOXZ&s" " group-title="DEVOTIONAL", இசைமுரசு FM
+http://198.27.127.246:26004/;play
+
+
+#EXTINF:-1, tvg-logo="https://drive.google.com/uc?id=1_Cb1wYYsf2s3jVakG6rFP0OGrX1a8-w9&export=&confirm=t" " group-title="DEVOTIONAL", Muslim Vanoli (Hadees)
+http://s2.voscast.com:9356/stream
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSReniM7Zk8e-VUwPDZYU7Pe1SywC-KFL6wLQ5z6_x0gFtbc7Y&s" " group-title="WORLD  RADIOS", Swiss Tamil FM
+https://usa19.fastcast4u.com/swiss
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY_FLgXrKR5sKOpKJ68-jlJ9msSU68Fs1NntWF_6fAJBdXQM63&s" " group-title="DEVOTIONAL", பிஸ்மி ரேடியோ Bisme Radio
+https://stream.rcs.revma.com/pcr8x50uty8uv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKtR4rFpJOfZBifFoSzD-xKyc9xW0mRosPT0cDp_4gK-94GKI&s" " group-title="Musical  Special", Nesaganam (Karaikal)
+http://192.95.39.65:5206/;p
+
+
+#EXTINF:-1, tvg-logo="https://drive.google.com/uc?id=1m3EMMEvyQWSNwQrnfvqwWTeIIuvuSwDZ&export=&confirm=t" " group-title="LOCAL  RADIOS", Star FM
+https://s1.voscast.com:8735/stream
+
+
+#EXTINF:-1, tvg-logo="https://drive.google.com/uc?id=1uzlh5R1Z5i-1sf71d0mUMPSrCfyqNTEU&export=&confirm=t" " group-title="DEVOTIONAL", Sanganatha FM
+http://perseverance.shoutca.st:8494/;p
+
+
+#EXTINF:-1, tvg-logo="https://drive.google.com/uc?id=1xQ9p3NjN_dDURCNPtAHPCvrpxW22uaql&export=&confirm=t" " group-title="LOCAL  RADIOS", Cakara FM
+http://perseverance.shoutca.st:8498/;p
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/vasanthamfm1.jpg" " group-title="WORLD  RADIOS", ►Vasantham FM (▼ ஸ்ரீலங்கா)
+http://108.61.34.50:7229/stream
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwhXZKluI_d7TxkGBqweN9fOF0AdthCyQeASdC8fGmQ5FLKUU&s" " group-title="DEVOTIONAL", Tamil Quran Live
+https://server03.quran.com.kw:7002/;p
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/slbctamil.jpg" " group-title="Tamil FM Radios", SLBC Tamil
+http://220.247.227.6:8000/Tnsstream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/yaalfm.jpg" " group-title="Tamil FM Radios", SLBC Yaal FM
+http://220.247.227.6:8000/Yaalstream
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSymFkQI8g7iKndCxy74l2BWASCg_JglGcvXLHbbnHQqglGQ4w&s" " group-title="WORLD  RADIOS", Thendral FM SLBC தென்றல் 104.7
+http://220.247.227.20:8000/Threndralstream
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxwwNrgqKly1DDvy_JwhZAOMS0aNcq87sh5bM2JmwAyaNNaR5y&s" " group-title="POPULAR  RADIOS", Shakthi FM (LK)
+http://live.trusl.com:1160/;p
+
+
+#EXTINF:-1, tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FIPN18d2B8r0GK4aNuJqlTjeW1nx0R5BuRcL2AoonqGc%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2ViYzY4YzgzLTA5ZWItNDc3Yi1iYmM2LWEzYTUyZDI5MGJjYi9pbWFnZS8_cmVzaXplPTI0MHgyNDAmdXBkYXRlZD0xNjY2NzIwMDgyMDAw.webp&w=828&q=75" " group-title="WORLD  RADIOS", Global Thamizha FM
+http://stream.zeno.fm/yepfwngfvnttv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/samugam-fm.jpg" " group-title="Tamil FM Radios", Samugam FM
+https://usa19.fastcast4u.com/eftphimk
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU_LqShoPRki2wxbY1xC5Xrkzog7-AQ_rQnEMeUDOG_fe2lLk&s" " group-title="POPULAR  RADIOS", Evergreen  Tamil  (Hungama)
+http://103.16.47.70:9000/;p
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9elUEQW3tbkBHlKHqbm9C0p_LIShw3eAHhqv_DPdu0AIg0QjB&s" " group-title="Musical  Special", Tamil Kuyil 🐥 Live
+http://live.tamilkuyilradio.com:8095/;stream/2
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/thendralfm.jpg" " group-title="WORLD  RADIOS", Thendral iroppa தென்றல் உலக வானொலி 1
+http://37.187.79.93:9116/;p
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl2Mrb-HFipPyrUVtyaU5A6oVqfvVyFjplHSvlVw358R7wk_I&s" " group-title="WORLD  RADIOS", Athavan  Radio (லண்டன்)
+http://38.96.148.18:6150/stream.mp3
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT98roNC8pzcx4y1V5yWJ5sfUvP7V7m38MGhRZeOJJNmH5BJrdi&s" " group-title="POPULAR  RADIOS", Radio City (Love Guru)
+https://prclive4.listenon.in/Tamil
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJYecLR3BHvepzzLnNagppOsG4Xxvly1LJyRQDm_HAbgfZ9BI&s" " group-title="WORLD  RADIOS", Tube Tamil  (UK)
+http://s2.voscast.com:12084/;p
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhrc5P90Y0NxsLu9wjMCn6ZdHEx6Bs2y6mM99MdTXImT17zFN&s" " group-title="WORLD  RADIOS", Sooriyan FM (LK2)
+http://209.133.216.3:7071/;p
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK_Fivf6OvT02t9wf9Jyef4nLJzqpDK_7aOTTpCmVxwU7fEjrE&s" " group-title="WORLD  RADIOS", ATBC (Australia)
+http://s7.viastreaming.net:7920/;stream.mp3
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/osaifm.jpg" " group-title="WORLD  RADIOS", Osai FM (Malaysia Only)
+http://astro4.rastream.com/osai
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/slbcasia.jpg" " group-title="Tamil FM Radios", SLBC Asia
+http://220.247.227.6:8000/Asiastream
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3uC6vgVQyX06eindSYSE8h6u_w6En4a_selkTDsn54hBxs33G&s" " group-title="WORLD  RADIOS", Lankasri FM - UK
+http://5984.cloudrad.io:8032/;p
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/ibctamil1.jpg" " group-title="WORLD  RADIOS", IBC Tamil (Britain)
+http://fm.ibctamil.com:6176/stream
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiTXAepj4jeFAVeDQmVii0R3pnFQon0go4OE9XoKCr9hbLk3WJ&s" " group-title="WORLD  RADIOS", IBC Tamil (UK-2)
+http://fm.ibctamil.com/;stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/eastfm.jpg" " group-title="WORLD  RADIOS", East FM 102.7 (Canada)
+http://174.142.215.249:9966/;p
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/jaffnatamilradio.jpg" " group-title="WORLD  RADIOS", Jaffna News (ஸ்ரீலங்கா)
+http://jtrfm.ddnss.de:8000/;stream.mp3
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/athavan.png" " group-title="WORLD  RADIOS", Athavan Radio (Canada)
+http://s1.voscast.com:9038/stream
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0O6iMC4DdVgwM4Qf8NC8OS2dnC74tT_V3929JnYFecVPr4VESXdO-fYI" " group-title="Tamil FM Radios", Thayagam Radio
+http://s3.yesstreaming.net:17045/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/yugamradio.jpg" " group-title="Tamil FM Radios", Yugam Radio
+http://s6.yesstreaming.net:19012/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/ctr24.jpg" " group-title="WORLD  RADIOS", CTR 24 (Canada)
+http://198.27.66.225:8498/stream.mp3
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM5CByIGfMqPvoFOnDQDBIokwu8XpGIzbFO3pOCZvLYtH7DD8&s" " group-title="LOCAL  RADIOS", Then Tamil (திருப்பூர்)
+http://192.95.39.65:5187/;p
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/thaalamfm3.jpg" " group-title="WORLD  RADIOS", Thaalam FM (Canada)
+http://ice66.securenetsystems.net/MUTHAMIL
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWco5ATguqEO1YQLgGKXr1maDCXPEB41p82hrnIWk6Ipb4y4g&s" " group-title="POPULAR  RADIOS", Latest Song (Hungama)
+http://103.16.47.70:9555/;p
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7P3z2VvUF2PEHdgJd3qUtt-bctEysfdmlab6opkr1QqO4vxE&s" " group-title="POPULAR  RADIOS", Tamil  Romantic  (Hungama)
+http://103.16.47.70:6230/live
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTACLlzPe3a0QUjUg-MuuODP1ED-d-QXepl85UePrbuSJdsw&s" " group-title="WORLD  RADIOS", Tamil Panpalai India ~128
+http://opportunity.shoutca.st:8140/ind
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/tamilpanpalainew.jpg" " group-title="WORLD  RADIOS", Tamil Panpalai New Zealand ~128
+http://opportunity.shoutca.st:8140/stream
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqDl2NOQs6M63Yyqw0LvFZmGHUF1bs2oUQmryTrhmgO2BqnvNd&s" " group-title="WORLD  RADIOS", Tamil Panpalai Africa ~128
+http://opportunity.shoutca.st:8140/afr
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/pasangafm.jpg" " group-title="Musical  Special", Pasanga FM (Kumari FM)
+http://198.178.123.20:10864/;p
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/ilctamil.jpg" " group-title="WORLD  RADIOS", ILC Tamil (UK)
+http://s2.voscast.com:9370/;p
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/timefm.jpg" " group-title="WORLD  RADIOS", Time FM (Canada)
+http://neramfm.com:8000/stream
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcSADwzRHAu1BvXBGCw1aSQamiUHkYQdZ4ZxkurL6_YCoxJAb&s" " group-title="WORLD  RADIOS", Inbathamil Oli - News (ஆஸ்திரேலியா)
+http://192.99.17.12:4626/inbathamil
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr4Cd5fcPhrSAGqNBHncBu8XiIF4o4GLZeFKectaxui5bj7So&s" " group-title="Tamil FM Radios", Akaram FM
+http://ourfile.info/akaram.mp3
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/tamilakaram.jpg" " group-title="Tamil FM Radios", Tamil Akaram
+http://144.217.195.24:8026/stream
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTMhus3sjSxQnJb0GaqHTB3vyh8DH6modzrjafUZH7DXes2t8&s" " group-title="WORLD  RADIOS", MTR Tamil FM
+http://192.184.9.158:8864/;p
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/gtcfm.jpg" " group-title="WORLD  RADIOS", GTC FM
+http://192.99.41.102:5419/stream
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRE8DslDjgxrQWaMPP9b1_kTj9E6-cflX_GbsNdaK-3zA-V4w&s" " group-title="WORLD  RADIOS", CTR Radio (Canada)
+http://87.98.219.178:8416/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/gtrfm.jpg" " group-title="Tamil FM Radios", GTR FM
+http://178.32.146.184:5250/;p
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/ctbcradio.jpg" " group-title="WORLD  RADIOS", CTBC Radio (Canada)
+http://ctbcfmradio.primcast.com:4086/;p
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/britishindiantamilradio.jpg" " group-title="WORLD  RADIOS", Indian Tamil FM (British)
+http://radio.citrus3.com:8856/;stream.ogg
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/adaceylonfm.jpg" " group-title="WORLD  RADIOS", Ada Ceylon FM (Lanka)
+http://stream.zenolive.com/c32gn1eas2zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/russiatamilradio.jpg" " group-title="WORLD  RADIOS", Tamil radio (Russia)
+http://stream.zenolive.com/r2ff41404k8uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/olifmlanka.jpg" " group-title="WORLD  RADIOS", Oli FM (Lanka) #
+http://stream.zenolive.com/1gwks8nf7tzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/reelsradio.jpg" " group-title="Musical  Special", Reels Radio
+http://stream.radiojar.com/6edv42tu6k8uv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlM4XtaeAIp7rTPPedg-W4kYs0jGs7VDWhTCzqDNXNgi3FMy2Y&s" " group-title="WORLD  RADIOS", CMR HD
+http://live.cmr24.net:8081/CMR/CMR-HQ/icecast.audio
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/nattupurapattu.jpg" " group-title="Musical  Special", Nattupura Pattu
+http://stream.zenolive.com/t7wmtudgthruv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJsIIOqQRMmv6h9hA1y0ehZYbdm3R5-pCxX5sRvD2qSSZ2eLo7&s" " group-title="ARTIST  SPECIAL", Tamil Comedy
+http://stream.zeno.fm/w006vfqa4qzuv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwkVsTKLgSkvTihBV_x_zbxuM3AftOVK9WKVXFGN4pF7Bz15lh&s" " group-title="POPULAR  RADIOS", Evergreen  Hindi Bollywood (Hungama)
+http://103.16.47.70:7666/;p
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2XlNiS4gTizhJFgWY_8o7ZifWQvK-h1e5OGRqTlPWuSIFqhvK&s" " group-title="Musical  Special", Tamilsun FM + HiFi
+http://192.99.4.210:3596/;p
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM7fQuuQ1jvGP_ta5rzJeIaVlwNfslbh55aZihN3i24KG0k7ss&s" " group-title="WORLD  RADIOS", A9 Radio
+http://a9radio1-a9media.radioca.st/stream
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJ7BxARxJgLRS6HCaSWES5WkRgyKTaoislqG-VUlf0fpHOoM&s" " group-title="WORLD  RADIOS", A9 Radio (Old Hits)
+http://195.154.217.103:8398/;p
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJqteAZZiYSBfshWI9rIqJFMjFETWyIoBqCINJOEcFIFrl9Es&s" " group-title="WORLD  RADIOS", A9 Radio (Latest Hits)
+http://195.154.217.103:8343/stream
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEcEmjh80u9lWNl14DfeHKYblUrpp0CtLY6YuRdr_U1I99y_AR&s" " group-title="WORLD  RADIOS", A9 Radio (Eelam Hits) 128bit
+http://195.154.217.103:8428/;p
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_SrvXPqStT1UFruR07q-DPpGz0hJOls8A-yXxNmntnAw56CI4&s" " group-title="LOCAL  RADIOS", Radio Gethu
+http://198.50.156.92:8902/;p
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrM1Ss2qYU55ea2gafCMkkOfURWfmgPxCCKpc_mZxRXqYg3eTq&s" " group-title="WORLD  RADIOS", Iyalisai Vanoli
+https://iyalisai.radioca.st/mp64?type=http&nocache=53314
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM2aB58YXJOBBkw-XNra8u16_iCWiCqADkteJ8ASpeJ5_0LuOH&s" " group-title="WORLD  RADIOS", Thayagam Vanoli (48k)
+http://s3.yesstreaming.net:7019/thayagam48K
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/adraifm.jpg" " group-title="Tamil FM Radios", Adirai FM
+http://listen.radioking.com/radio/188161/stream/230320
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWQDSfQyHxpcx8SjfuWJnQ_k8awRIM53x2HS0OhBlWbFIejrc&s" " group-title="WORLD  RADIOS", US Tamil FM (US)
+http://streaming.radio.co/s0cfc93915/listen
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDF-nlEdLGHhs4XqdoRnxTkUW0AqQ6asJI35GayVOodqe3TA0&s" " group-title="WORLD  RADIOS", Vettri Oli FM (Rock)
+http://s2.voscast.com:12136/;p
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGZsy23lGFFxHVZdHcOCcpXwfkhH6pafvUWU5EDbJfUOtEjqTU&s" " group-title="WORLD  RADIOS", Varnam Radio 90.4 (Lanka)
+http://s3.voscast.com:8402/;p
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnMTKQOcpw8GCD2kE01JMW_Pn85AHjMw_lCRmB4jPlBY56Tw4&s" " group-title="WORLD  RADIOS", Athiradi Tamil (USA)
+http://streamer.radio.co/s688f110d0/listen
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgUpFy--CdyrjBfJBMUk7zuMlPAun_tWGYHJjw_gAqJI1ThX4&s" " group-title="POPULAR  RADIOS", Pullingo Radio (Gaana songs)
+http://stream.zeno.fm/rademrq2kwzuv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF8Ib9wgIheArnw95UlvzIJql6b3mv0rc0M0gQkzoFbyJToeWq&s" " group-title="ARTIST  SPECIAL", Vadivelu Comedy #
+http://stream.zeno.fm/02n962ezyp8uv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVAw2ICBNmW-rcb60ycfUKMP8-GQEo7nft_wLwvig9HI-bQ1o&s" " group-title="ARTIST  SPECIAL", AR.Rahman #
+http://stream.zeno.fm/p7b0e3ms97zuv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt04x5lVld2oGQq-9XSYzKmsPTVjfjEogz5hZJamSW8GavWAI&s" " group-title="ARTIST  SPECIAL", AR Rahman HD (128bit) #
+http://stream.zeno.fm/3z615n343d0uv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDUniCGUYTDhml7ZRtW8NovZXQlDDcNkel0A4JWc-1zxq6Do&s" " group-title="ARTIST  SPECIAL", ARR Hits HD (128bit) #
+http://stream.zeno.fm/xk3g6h1vsa0uv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_LK5Kt5duRgzgvqkwir7j-acCVNspyQU1kVJU-yTjwvgnLp1N&s" " group-title="ARTIST  SPECIAL", Ilayaraja FM (~128b)
+http://stream.zeno.fm/pwm9y3eud5zuv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNFeJ3lynLeweFd0wyFtPsXAst6jOGj56e5XfA4_N0hVqq30eu&s" " group-title="ARTIST  SPECIAL", IlayaRaja HD (128b) #
+http://stream.zeno.fm/uayzbqr53d0uv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr7qLdQvZVq2-xyYdHbShaMqxbmG7Xcf1fymwhRqOXilA-xnr_&s" " group-title="ARTIST  SPECIAL", IlayaRaja Voice (128bit) #
+http://stream.zeno.fm/6uu92upp07zuv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHKyYu_AmP5CcRkh8y6NBqy1WPc3iDGSViM_1xE4VrT_1p71c&s" " group-title="ARTIST  SPECIAL", Raja FM Duet (128bit) #
+http://stream.zeno.fm/476bw00re5zuv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4yZZLQjKn_PUeKW2bjq9F3wlAE153g1NWLupTqG8BEuBGYv3y&s" " group-title="ARTIST  SPECIAL", Maestro Hits (320bit) #
+http://stream.zeno.fm/zngnvwy9bm8uv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYdp3PUe6uRmp-WgBVTGbcDLNYP0zTQZ-Cf9OkO_jlj8--4nw&s" " group-title="ARTIST  SPECIAL", YSR Radio #
+http://stream.zenolive.com/s0zmttxun7zuv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBVXbF4OlS6_iKY8Ex9btSBWXPkNTEa39URwbr1gBcLS13hJh-&s" " group-title="ARTIST  SPECIAL", Yuvan Shankar Raja
+http://stream.zeno.fm/28pezsqn5a0uv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj0Ud8L6FNYHPKnSs3oZTUhdgYOFTZF9h1yZ3t-xMWuseouu4&s" " group-title="ARTIST  SPECIAL", Deva Radio (128bit) #
+http://stream.zeno.fm/ax0k40z8vp8uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/devaganahits.jpg" " group-title="ARTIST  SPECIAL", Deva Hits Gana Songs #
+http://stream.zenolive.com/3gxchu7xs4zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/sarajkumar.jpg" " group-title="ARTIST  SPECIAL", SA Rajkumar Radio #
+http://stream.zenolive.com/f072hbrf17zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/shama1.jpg" " group-title="ARTIST  SPECIAL", Shankar Mahadevan Radio #
+http://stream.zenolive.com/raqnafk3138uv
+
+
+#EXTINF:-1, tvg-logo="https://drive.google.com/u/0/uc?id=12Oa91UYRtu3MqRqNbzWzOQir8mBWpFPM" " group-title="ARTIST  SPECIAL", D Imman Hits #
+http://stream.zenolive.com/hshybuuf17zuv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy0JSzTEbTy9hPgCdMHca3uaJtAmkQDFqEPZkz89XOWkGB22Qe&s" " group-title="ARTIST  SPECIAL", KJ Yesudas Radio #
+http://stream.zenolive.com/cm41kq2trg0uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/kjyesudas.jpg" " group-title="ARTIST  SPECIAL", KJ Yesudas Carnatic Radio #
+http://stream.zenolive.com/870vywh3a5zuv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWzol7kIm_-1GKZ0PoWGQNNqlBLiN_ejDMFIioo2A5ULmajkM&s" " group-title="ARTIST  SPECIAL", Harris Jayaraj FM (128bit) #
+http://stream.zeno.fm/8wkrrzewqp8uv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCbqqLRt8C9cbrJuQ9Cf8kZixfrGxtuLr6V3f9yWq5GzfXrwD0&s" " group-title="ARTIST  SPECIAL", Harris Jayaraj Hits (128bit) #
+http://stream.zeno.fm/0bhsthssutzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/sivaji.jpg" " group-title="ARTIST  SPECIAL", Sivaji Songs
+http://stream.zenolive.com/7pv7wc6nzmruv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Ob9zcAN6ieixU6JVeRQ5etPNXvZAj-f9d-jsyD0W76kzwJY&s" " group-title="ARTIST  SPECIAL", MS Vishwanathan Hits
+http://node-32.zeno.fm/axc31zbdswzuv.aac
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4TPcQvEDHCaREeKr2QBOEfjKZj0j7Ap7Fsl-Ju-LWl-vzWoY&s" " group-title="ARTIST  SPECIAL", JP Chandrababu Hits
+http://stream.zeno.fm/knuruqv62d0uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/ajithfm.jpg" " group-title="ARTIST  SPECIAL", Ajith FM
+http://stream.zenolive.com/ntkhu40k17zuv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRncOW7Zc7_L-PCIwiGf0JuXHMQBWD5s_eCURHsQqLbMQcqViJm&s" " group-title="ARTIST  SPECIAL", Dhanush Radio
+http://stream.zenolive.com/kxq01bv7hqzuv
+
+
+#EXTINF:-1, tvg-logo="https: //encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTLa9iPalj73W8shL1Ks3H5tqmqGLvxs6PAENW2mlXlXYa0LxG&s" " group-title="undefined", GV Prakash Hits
+http://node-15.zeno.fm/d5skwct7hqzuv.aac
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5-rkCzjUQ0hZTBv-p0gMED7xWY1hObjqSd0c3s388Uk-_261l&s" " group-title="ARTIST  SPECIAL", Mohan Hits Radio
+http://stream.zeno.fm/tx3pwp1k7mzuv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqp4XMnfLrEekFNgP_FueKdqrz_nT-fB1gIoTxPxFq18MN9j4-&s" " group-title="ARTIST  SPECIAL", Hip Hop Tamizha
+http://node-15.zeno.fm/yhu9x9s7hqzuv.aac
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/vijayantony.jpg" " group-title="ARTIST  SPECIAL", Vijay Antony Radio
+http://stream.zenolive.com/7w4w5kt7hqzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/vairamuthu.jpg" " group-title="ARTIST  SPECIAL", Vairamuthu Hits#
+http://stream.zenolive.com/d387hdn5rs8uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/vaalihits.jpg" " group-title="ARTIST  SPECIAL", Vaali Hits #
+http://stream.zenolive.com/2bg8k2w5rs8uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/muthukumar.jpg" " group-title="ARTIST  SPECIAL", Naa Muthukumar Hits #
+http://stream.zenolive.com/7a4x04fgdq8uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/janaki.jpg" " group-title="ARTIST  SPECIAL", S Janaki Hits Radio#
+http://stream.zenolive.com/um4xu89qz7zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/santhosh.jpg" " group-title="ARTIST  SPECIAL", Santhosh Narayanan Radio #
+http://stream.zenolive.com/rhpmaqvtzv8uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/kschitra.jpg" " group-title="ARTIST  SPECIAL", Chitra Hits Radio#
+http://stream.zenolive.com/aad4e51qz7zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/shreyaghosal.jpg" " group-title="ARTIST  SPECIAL", Shreya Ghosal Radio #
+http://stream.zenolive.com/77xb0vhtzv8uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/psusheela.jpg" " group-title="ARTIST  SPECIAL", P Susheela Radio#
+http://stream.zenolive.com/tmq9kydsy7zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/anuradhasriram.jpg" " group-title="ARTIST  SPECIAL", Anuradha Sriram #
+http://stream.zenolive.com/vcn3hvqpad0uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/sidsriram.jpg" " group-title="ARTIST  SPECIAL", Sid Sri Ram Radio7 #
+http://stream.zenolive.com/mdyd8bvm7zquv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/mano.jpg" " group-title="ARTIST  SPECIAL", Mano Hits Radio #
+http://stream.zenolive.com/1k13vschknzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/sujatha.jpg" " group-title="ARTIST  SPECIAL", Sujatha Radio #
+http://stream.zenolive.com/r56fx9v7hqzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/swarnalatha.jpg" " group-title="ARTIST  SPECIAL", Swarnalatha Hits Radio #
+http://stream.zenolive.com/07ys8tp6hqzuv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbRJ7UVvbKRdv6qblpGGp1TXv97eUdgM9vlaKE69ZqYgipI-I&s" " group-title="ALL  INDIA  RADIOS", AIR Chennai B (AM~1017~kHz) (FM~103.4) 56'bit
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio020/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbRJ7UVvbKRdv6qblpGGp1TXv97eUdgM9vlaKE69ZqYgipI-I&s" " group-title="ALL  INDIA  RADIOS", Chennai FM Gold AIR (FM 100.1/102.3) 96'bit
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio021/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbRJ7UVvbKRdv6qblpGGp1TXv97eUdgM9vlaKE69ZqYgipI-I&s" " group-title="ALL  INDIA  RADIOS", Chennai FM Rainbow AIR (FM 101.4) 48'bit
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio022/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbRJ7UVvbKRdv6qblpGGp1TXv97eUdgM9vlaKE69ZqYgipI-I&s" " group-title="ALL  INDIA  RADIOS", Chennai PC (96'bit) A 720 kHz
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio023/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdYKYeStVP5_rtG847kgYfRD64W3g8fV5zNDuCT3KcgNqvJ4&s" " group-title="ALL  INDIA  RADIOS", Chennai VBS (100.5)
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio024/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdYKYeStVP5_rtG847kgYfRD64W3g8fV5zNDuCT3KcgNqvJ4&s" " group-title="ALL  INDIA  RADIOS", Vivid  Barathi
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdYKYeStVP5_rtG847kgYfRD64W3g8fV5zNDuCT3KcgNqvJ4&s" " group-title="ALL  INDIA  RADIOS", Karaikal AIR (FM 100.3)
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio050/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdYKYeStVP5_rtG847kgYfRD64W3g8fV5zNDuCT3KcgNqvJ4&s" " group-title="ALL  INDIA  RADIOS", Kodaikanal AIR (FM 100.5)
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio051/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH_KeqlY-HAs0DFFPS8xN_gag4uWT6ZL2x_07vFgzNhnhBA6w&s" " group-title="ALL  INDIA  RADIOS", Madurai  (FM Rainbow 103.3)
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio126/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH_KeqlY-HAs0DFFPS8xN_gag4uWT6ZL2x_07vFgzNhnhBA6w&s" " group-title="ALL  INDIA  RADIOS", Madurai PC AIR (AM~1269 kHz)
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio127/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH_KeqlY-HAs0DFFPS8xN_gag4uWT6ZL2x_07vFgzNhnhBA6w&s" " group-title="ALL  INDIA  RADIOS", Ooty AIR (FM 101.8) 96'bit
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio207/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH_KeqlY-HAs0DFFPS8xN_gag4uWT6ZL2x_07vFgzNhnhBA6w&s" " group-title="ALL  INDIA  RADIOS", Coimbatore AIR (AM~999kHz) 96'bit
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio016/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrrT-efJMv3Bdbox4o1lFJISdnnynJhySfG2NqH0sXj2t_6ZA&s" " group-title="ALL  INDIA  RADIOS", Coimbatore FM Rainbow AIR (FM~103) 96'bit
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio017/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrrT-efJMv3Bdbox4o1lFJISdnnynJhySfG2NqH0sXj2t_6ZA&s" " group-title="ALL  INDIA  RADIOS", Tiruchirappalli AIR (FM~102.1) Trichy 96'bit
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio040/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrrT-efJMv3Bdbox4o1lFJISdnnynJhySfG2NqH0sXj2t_6ZA&s" " group-title="ALL  INDIA  RADIOS", Tiruchirappalli AIR (AM~936'kHz) 56'bit
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio041/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrrT-efJMv3Bdbox4o1lFJISdnnynJhySfG2NqH0sXj2t_6ZA&s" " group-title="ALL  INDIA  RADIOS", Tirunelveli AIR (AM~1197'kHz) 96'bit
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio061/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm3dhlYwGzDsvYm0nyHK2wVrGZ-NrIul5osYoElqupVDh4-Q&s" " group-title="ALL  INDIA  RADIOS", Tirunelveli Rainbow AIR (FM~102.6) 96'bit
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio062/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm3dhlYwGzDsvYm0nyHK2wVrGZ-NrIul5osYoElqupVDh4-Q&s" " group-title="ALL  INDIA  RADIOS", Dharmapuri AIR (FM~102.5) 56'bit
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio078/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm3dhlYwGzDsvYm0nyHK2wVrGZ-NrIul5osYoElqupVDh4-Q&s" " group-title="ALL  INDIA  RADIOS", Kumari FM Nagercoil AIR (FM~101.0) 96'bit
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio129/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm3dhlYwGzDsvYm0nyHK2wVrGZ-NrIul5osYoElqupVDh4-Q&s" " group-title="ALL  INDIA  RADIOS", Thoothukodi AIR
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio121/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbRJ7UVvbKRdv6qblpGGp1TXv97eUdgM9vlaKE69ZqYgipI-I&s" " group-title="ALL  INDIA  RADIOS", Puducherry PC AIR (AM~1215kHz) 96'bit
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio097/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbRJ7UVvbKRdv6qblpGGp1TXv97eUdgM9vlaKE69ZqYgipI-I&s" " group-title="ALL  INDIA  RADIOS", Puducherry Rainbow AIR (FM~102.8) 96'bit
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio098/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/404.jpg" " group-title="LOCAL  RADIOS", Thendral FM 6 (Vilathikulam)
+http://stream.zenolive.com/ubw5g9v6hrruv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJNdMGH5Nhu510Of4ac9PC8_xSHXELPh-ch8EbxnfI13bBt8BG&s" " group-title="WORLD  RADIOS", Thendral Zeno
+http://stream.zeno.fm/xzt706p3h2zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/radioparamankurichi.jpg" " group-title="LOCAL  RADIOS", Radio Paramankurichi
+http://vpmurugun.radioca.st/stream
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE9juuYIASgNXJ9Pt_2eaI2OVtb-0WdcBLzL1jFyYnLvf7jJA&s" " group-title="DEVOTIONAL", Live Tamil QURAN
+http://stream.zeno.fm/u0b1h7upzhhvv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3aUANYKfrUMMfeEO0PVvSyA2WRqiT7tZLfw" " group-title="GPM  RADIOS", இஸ்லாமிய கீதம் @ Islamiya Keetham
+http://stream.zeno.fm/mufat3agzhhvv
+
+
+#EXTINF:-1, tvg-logo="https://drive.google.com/u/0/uc?id=1UYc40Kq8TAHMeQFcdMiME65AVgrlmTar" " group-title="DEVOTIONAL", Muslim Murasu - முஸ்லிம் முரசு
+http://stream.zeno.fm/f9kabf1cwnhvv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI3iZ6Dw4P4HeCj9pY4CbkgJ6cqBGqJtVOLCMas3DYgx61_ZFN&s" " group-title="DEVOTIONAL", Online PJ Radio (NTF)
+http://stream.zeno.fm/f55869v4ynhvv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg0AlFlQ3HK26vpObC0VaX9W9glkmSrlR50k6_hCjEutXH_Dw&s" " group-title="DEVOTIONAL", Tamil Quran Live
+https://server03.quran.com.kw:7002/;p
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqOxHwDZul6GOn1xrlEXeZRgzSGZ0eigFybBisaKuBZy6UTOXZ&s" " group-title="DEVOTIONAL", Isaimurasu FM
+http://198.27.127.246:26004/;play
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpt3S8nVM3dEnlpovEFMwlotcMDc_1lmjkER6BKvF1C8vGElu8&s" " group-title="DEVOTIONAL", Muslim Radio (Hadees)
+http://s2.voscast.com:9356/stream
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY_FLgXrKR5sKOpKJ68-jlJ9msSU68Fs1NntWF_6fAJBdXQM63&s" " group-title="DEVOTIONAL", பிஸ்மி ரேடியோ
+https://stream.rcs.revma.com/pcr8x50uty8uv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEK7lOHryXewS4gfDZprMMQwtp8kUCFzolLzlZ-CdxoqDAjlw&s" " group-title="DEVOTIONAL", நிகழ்வுமேடை
+http://stream.zenolive.com/3ktt3e8dazzuv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyBoZWss_-gVcvDFtzKmjUTI-PFme9jdKZH5ImzJ9uEUO9PXQ&s" " group-title="DEVOTIONAL", Thowheed FM (TNTJ)
+http://stream.zeno.fm/1ke9f6hshm8uv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIFF6G3QJ6CqRoEBqpnOmOdUhBEfI1Nf-o0HeikPQ--eEgkt4&s" " group-title="DEVOTIONAL", Quran Kalvi Radio
+http://stream.zenolive.com/pa5d76hk6tzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/tunefm.jpg" " group-title="DEVOTIONAL", Muslim Tune FM
+http://stream.zenolive.com/d9peqk1rpwzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/thasbeehradio.jpg" " group-title="DEVOTIONAL", Thasbeeh Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3735772_SC
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/barakathradio1.jpg" " group-title="DEVOTIONAL", Barakath Radio
+http://stream.rcs.revma.com/cy0s94xf268uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/islamicradiotamil.jpg" " group-title="DEVOTIONAL", Islamic Radio
+http://stream.zenolive.com/eeaw632er2zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/ahst.jpg" " group-title="DEVOTIONAL", Ahlus Sunnah
+http://stream.zenolive.com/ph2n04r9k5zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/dheenosairadio.jpg" " group-title="DEVOTIONAL", Dheen Osai Radio
+http://stream.zenolive.com/1q8nqmk8fwzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/hashmathradio.jpg" " group-title="DEVOTIONAL", Hashmath Radio
+http://stream.zenolive.com/0kd7076vfzzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/thafseerfm.jpg" " group-title="DEVOTIONAL", Thafseer FM
+http://stream.zenolive.com/eyqha1ncazzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/seerahfm.jpg" " group-title="DEVOTIONAL", Seerah FM
+http://stream.zenolive.com/ef8zpvp4nzzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/pottuvilfm1.jpg" " group-title="DEVOTIONAL", Pottuvil FM
+http://stream.zenolive.com/t4repqqzxwzuv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwfLs7isTe5leHKfd0M26XnP_MFD_h_Kp4QxIgCWcLBypz11s&s" " group-title="DEVOTIONAL", Inbam FM (Christian)
+http://stream.radio.co/sf55ced545/listen
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfRaUGl-RqnG4EKKJ1RJmPdgRc5lJ8Vp5JbAdRl6QhboFlE3Q&s" " group-title="DEVOTIONAL", Kirubai FM (Christian)
+http://s4.voscast.com:7110/;p
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ10OuPCr1WO8a-EpvUHNjf_Gjs1s_bZ81Y3D-agf9s9CIRrcI&s" " group-title="DEVOTIONAL", Luminous Radio (TVR)
+http://patmos.cdnstream.com:8602/live
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBECFOREQffZl1Y31c4w0kNw4OV5PiC-lEZNRidNarrSIj1e8&s" " group-title="DEVOTIONAL", Devaprasannam
+http://195.154.217.103:8013/;p
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSralcEmWgbaAgu8TefUrEMqW3ew5IfB6tbO6a9Kr-EMt58DO9g&s" " group-title="DEVOTIONAL", Jesus Coming (Erode)
+http://live.jesuscomingfm.com:8230/;p
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjvh5EzYYz_LRzENNoaXl6CZuxyFL48BoON3cOqQbHWiMU4c4&s" " group-title="DEVOTIONAL", God Blessing (Christian)
+http://s2.voscast.com:10438/;p
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlPWpYYii339699wUMQe-6F8PpaKBMVxU7uKl2Vrsnnl4wL1s&s" " group-title="DEVOTIONAL", Bakthi FM (Hindus)
+http://listen.shoutcast.com/bakthi
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/murugan.jpg" " group-title="DEVOTIONAL", Murugan FM
+http://stream.zenolive.com/mw3stp2hhnzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/murugan2.jpg" " group-title="DEVOTIONAL", Murugan FM 2
+http://stream.zenolive.com/wc7p0yct5yzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/vaariyaar.jpg" " group-title="DEVOTIONAL", Vaariyaar Radio
+http://stream.zenolive.com/su1uch6mb2zuv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9nEfsFbz9I4V4aNYpo0-t9gvhGBp4tIEXyaek5iRpJikZaW0i&s" " group-title="DEVOTIONAL", Swasthik TamilBhajans
+http://listen.radionomy.com/SwastikTamilBhajanGeetham
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCO3HwBGP2aYYq6rhFbE5YfZqfKK1Hizp6JRWcyLqIB0Yo7-M&s" " group-title="DEVOTIONAL", Iyalisai  Bakthi
+http://curiosity.shoutca.st:9655/mp48
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMs83IyvIl8I6hz4cukjnHKTaBBih-br1bMNIhyzxcSI5BQ7o&s" " group-title="DEVOTIONAL", Periyava Radio
+http://samcloud.spacial.com/api/listen?sid=71234&m=sc
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPhsjdGEviPczb0Bv7cum2jVAF36MwkK3UlhfAshwtQnvGya8&s" " group-title="DEVOTIONAL", Vanavil Bakthi
+https://ec1.yesstreaming.net:1810/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/radiogilli.png" " group-title="Tamil FM Radios", Radio Gilli
+http://live.rcast.net:8694/;stream.mp3
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/shakthifm.jpg" " group-title="Tamil FM Radios", Shakthi FM 
+http://live.trusl.com:1160/;
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/sooriyanfm1a.png" " group-title="Tamil FM Radios", Sooriyan FM
+http://209.133.216.3:7071/;
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/tamilfm1.jpg" " group-title="Tamil FM Radios", Tamil FM
+http://shaincast.caster.fm:47814/listen.mp3
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/trttamiloli.jpg" " group-title="Tamil FM Radios", TRT Tamil Oli
+http://91.121.165.41:9035/stream.mp3
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/arasanfm.jpg" " group-title="Tamil FM Radios", Arasan FM Radio
+http://curiosity.shoutca.st:6020/live
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/startamilradio.jpg" " group-title="Tamil FM Radios", Star Tamil Radio
+http://198.178.123.8:8402/;stream.mp3
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSmwOAKP76zPz4_c7VcLo-qkK1YCXEBbJ8upd2m4XGij7Rwqw&s" " group-title="GPM  RADIOS", GPM Song
+https://drive.google.com/uc?id=1KPX2pHbz4x7lFk-HieElL9V9J1p50e2U
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/ttrfm.jpg" " group-title="Tamil FM Radios", Tamil Thai FM
+http://radio.massstream.net/8010/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/japantamilradio.jpg" " group-title="Tamil FM Radios", Japan Tamil Radio
+http://sg.radiocastvps.com/radio/8010/radio.mp3
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/etrfm.jpg" " group-title="Tamil FM Radios", ETR Clubhouse
+http://37.187.93.104:8054/;p
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/ustamilfm.jpg" " group-title="Tamil FM Radios", US Tamil FM
+http://streaming.radio.co/s0cfc93915/listen
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/inbathamiloli.jpg" " group-title="Tamil FM Radios", Inba thamil oli
+http://192.99.17.12:4626/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/omgtamilradio.jpg" " group-title="Tamil FM Radios", OMG Tamil Radio
+http://streaming.radio.co/s483b182c4/listen
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/radiolime.jpg" " group-title="Tamil FM Radios", Radio Lime
+http://s5.radio.co/sa8b2e14b5/listen
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/tamilmrtfm.jpg" " group-title="Tamil FM Radios", Tamil MRT FM
+http://server.unicast2u.com/radio/8320/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/tamilisaifm.jpg" " group-title="Tamil FM Radios", Tamil Isai FM
+http://s2.free-shoutcast.com:18244/;stream.mp3
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/radiomadurai.jpg" " group-title="Tamil FM Radios", Radio Madurai
+http://192.95.39.65:5328/;p
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/maduraitamillanradio.jpg" " group-title="Tamil FM Radios", Madurai Tamilan
+http://161.97.135.229:8150/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/timezradio1.jpg" " group-title="Tamil FM Radios", Timez Radio
+http://server.timezmedia.com/proxy/angalai1?mp=/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/tamilfocus.jpg" " group-title="Tamil FM Radios", Focus Thamil Radio
+http://s1.voscast.com:10264/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/karaifm.jpg" " group-title="Tamil FM Radios", Karai FM
+http://server.unicast2u.com/radio/8360/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/hosurfm.jpg" " group-title="Tamil FM Radios", Hosur FM
+http://hosurfm-spiritualfm2.radioca.st/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/thenkasiradio.jpg" " group-title="Tamil FM Radios", Thenkasi Radio
+http://stream.zenolive.com/v7uvsebz6k0uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/tamilan-vanoli.jpg" " group-title="Tamil FM Radios", Tamilan Vanoli
+http://strw1.openstream.co/2377
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/radiothamillk.jpg" " group-title="Tamil FM Radios", Radio Thamil LK
+http://s5.voscast.com:10117/source
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/evarestradio1.jpg" " group-title="Tamil FM Radios", Evarest Radio
+http://strw1.openstream.co/1655
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/kodaicity.jpg" " group-title="Tamil FM Radios", Kodai City FM 64b
+http://161.97.135.229:8290/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/arnicityfm.jpg" " group-title="Tamil FM Radios", Arni City FM
+http://192.95.39.65:5018/;
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/tamilosaifm.jpg" " group-title="Tamil FM Radios", Tamil Osai FM
+http://usa15.fastcast4u.com:4566/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/instrumental.jpg" " group-title="Tamil FM Radios", Instrumental Music Radio
+http://azuracast.vibesounds.in:8030/radio.mp3
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/canadatamilradio.jpg" " group-title="Tamil FM Radios", Canada Tamil Radio CA
+http://87.98.219.178:8412/;stream/1
+
+
+#EXTINF:-1, tvg-logo="http://shortfilmsite.com/images/roobamfm.jpg" " group-title="Tamil FM Radios", Roobam FM
+http://s3.radio.co/sadfae7495/listen
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/airtamizha.jpg" " group-title="Tamil FM Radios", Air Tamizha (Zeno)
+http://stream.zenolive.com/mwr7s5x7ma0uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/itamilradio.jpg" " group-title="Tamil FM Radios", Eye Tamil Radio CA
+http://streams.radio.co/s937ac5492/listen
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/covaifm.jpg" " group-title="Tamil FM Radios", Covai FM (Zeno)
+http://stream.zenolive.com/kzd2e3tx24zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/radiomistooty.png" " group-title="Tamil FM Radios", Radio Mist Ooty
+http://stream.zenolive.com/81gn28sbna0uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/suwasamfm.jpg" " group-title="Tamil FM Radios", Suwasamfm FM (Zeno)
+http://stream.zenolive.com/q3mzyh3m17zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/itr.jpg" " group-title="Tamil FM Radios", ITR FM
+http://91.121.77.43:9000/stream/1/
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/itrfmswiss.jpg" " group-title="Tamil FM Radios", ITR FM Swiss
+http://198.178.123.8:9018/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/pollachifm.jpg" " group-title="Tamil FM Radios", Pollachi FM
+http://104.200.16.182:8000/;
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/radiogethu1.jpg" " group-title="Tamil FM Radios", Radio Gethu
+http://198.50.156.92:8902/;stream.mp3
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/radiosunotamil.jpg" " group-title="Tamil FM Radios", Radio Suno Tamil
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_TAMIL_S01.mp3
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/thamilesai.jpg" " group-title="Tamil FM Radios", Tamil Isai Radio
+http://s33.myradiostream.com:14390/;stream.mp3
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/mellisaifm.jpg" " group-title="Tamil FM Radios", Mellisai FM Radio
+http://stream.zenolive.com/8zf3hbbey4zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/onetownfm.jpg" " group-title="Tamil FM Radios", One Town FM (தென்காசி)
+http://live.tamilkuyilradio.com:8000/onetownfm
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/swedentamilsfm.jpg" " group-title="Tamil FM Radios", Sweden Tamils FM
+http://listen.radioking.com/radio/355330/stream/404626
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/eaglefm.jpg" " group-title="Tamil FM Radios", Eagle FM
+http://streaming.radio.co/sf833cd785/listen
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/tamilmurasam.jpg" " group-title="Tamil FM Radios", Tamil Murasam
+http://tamilmurasam.radioca.st/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/settaifm.jpg" " group-title="Tamil FM Radios", Settai FM
+http://stream.zenolive.com/402pwrp884zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/mazhaifm2.jpg" " group-title="Tamil FM Radios", Mazhai FM
+http://pollux.shoutca.st:9999/;stream.mp3
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/maduraimallifm.jpg" " group-title="Tamil FM Radios", Madurai Malli FM
+http://live.tamilkuyilradio.com:8030/maduramallifm
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/thentamilfm.jpg" " group-title="Tamil FM Radios", Then Tamil Radio Tirupur
+http://192.95.39.65:5187/;
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/ssradionatham.jpg" " group-title="Tamil FM Radios", SS Radio Natham
+http://server.unicast2u.com/radio/8350/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/thetamilradio.jpg" " group-title="Tamil FM Radios", The Tamil Radio Bahrain
+http://listen.radioking.com/radio/378484/stream/429241
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/404.jpg" " group-title="Tamil FM Radios", Hosur FM
+http://dione.shoutca.st:8476/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/lifefmkarur.jpg" " group-title="Tamil FM Radios", Life Fm Karur
+http://stream.zenolive.com/k0qrmtts91zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/asosafm.jpg" " group-title="Tamil FM Radios", Asosa FM
+http://stream.zenolive.com/m8z792ydeq8uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/nellaitamilfm.jpg" " group-title="Tamil FM Radios", Nellai Tamil FM
+http://stream.zenolive.com/5nu139840tzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/sudarfm.jpg" " group-title="Tamil FM Radios", Sudar FM
+http://stream.zeno.fm/r7a6hvh2yf8uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/sstamilradio.jpg" " group-title="Tamil FM Radios", SS Tamil Radio UK
+http://198.50.156.92:8276/;stream/1
+
+
+#EXTINF:-1, tvg-logo="http://shortfilmsite.com/images/yarlsrifm.jpg" " group-title="Tamil FM Radios", Yarl Sri FM
+http://s9.voscast.com:8958/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/raagafm.jpg" " group-title="Tamil FM Radios", Raaga FM ( Malaysia Only)
+http://astro3.rastream.com/raaga
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/vaagaifm.jpg" " group-title="Tamil FM Radios", Vaagai Panpalai
+http://198.50.158.92:8884/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/kalaifm1.jpg" " group-title="Tamil FM Radios", Kalai FM
+http://stream.zenolive.com/2vghnwshsqzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/staradsradio.jpg" " group-title="Tamil FM Radios", Star Ads Radio
+http://s2.free-shoutcast.com/stream/18104/;stream.mp3
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/srstamilradio.jpg" " group-title="Tamil FM Radios", SRS Tamil Radio
+http://stream.zenolive.com/gzn28dwq01zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/thetamilradio.jpg" " group-title="Tamil FM Radios", The Tamil Radio Qatar
+http://listen.radioking.com/radio/378487/stream/429250
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/aadhifm.jpg" " group-title="Tamil FM Radios", Aadhi FM
+http://stream.zenolive.com/8hdekc2tpwzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/echofm.jpg" " group-title="Tamil FM Radios", Echo FM Madurai
+http://stream.zenolive.com/re81azywy1zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/starradiotamil.jpg" " group-title="Tamil FM Radios", Star Radio Tamil
+http://stream.radiojar.com/7pzbvyzb7a0uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/tamilamauthuradio.jpg" " group-title="Tamil FM Radios", Tamil Amuthu Radio
+http://stream.zenolive.com/p88vvwd0gm0uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/mjoyfm.jpg" " group-title="Tamil FM Radios", Mjoy FM
+http://stream.zenolive.com/e7yqb8fe84zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/radiob3india.jpg" " group-title="Tamil FM Radios", Radio B3
+http://stream.zenolive.com/rfg9e5mxdzzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/vellurfm.jpg" " group-title="Tamil FM Radios", Vellur FM
+http://stream.zenolive.com/z394fckpzwzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/kanchifm.jpg" " group-title="Tamil FM Radios", Kanchi FM
+http://stream.zenolive.com/5axyng2g838uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/theleaderfm.jpg" " group-title="Tamil FM Radios", The Leader FM
+http://stream.zenolive.com/whwy245c2wzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/dheepamfm.jpg" " group-title="Tamil FM Radios", Dheepam FM
+http://stream.zenolive.com/hszf3agf0k8uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/dheepambeatz.jpg" " group-title="Tamil FM Radios", Dheepam Beatz FM
+http://stream.zenolive.com/ny9t55p6cm8uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/aalayamfm.jpg" " group-title="Tamil FM Radios", Aalayam FM
+http://stream.zenolive.com/rc0zvhnbkbruv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/istarradio.jpg" " group-title="Tamil FM Radios", I Star Radio
+http://stream.zenolive.com/pxbce2cm4gruv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/nadodifm.jpg" " group-title="Tamil FM Radios", Nadodi FM
+http://stream.zenolive.com/6hv2bbm1rzzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/anbufm.jpg" " group-title="Tamil FM Radios", Anbu FM
+http://stream.zenolive.com/c2p4f1np4bruv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/arumbufm.jpg" " group-title="LOCAL  RADIOS", Arumbu FM (அருப்புக்கோட்டை)
+http://stream.zenolive.com/22db1xmde2zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/mazhaifm2.jpg" " group-title="Tamil FM Radios", Mazhai FM
+http://stream.zenolive.com/mecddtq0rzzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/muthamizhfm.jpg" " group-title="Tamil FM Radios", Muthamizh FM
+http://stream.zenolive.com/vgsk3a0pb2zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/flashbacktamilfm.jpg" " group-title="Tamil FM Radios", Flash Back Tamil FM
+http://stream.zenolive.com/aehwx1t2wwzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/senthamilfm.jpg" " group-title="Tamil FM Radios", Senthamil FM
+http://stream.zenolive.com/5yf5swm7u7zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/rumilus.jpg" " group-title="Tamil FM Radios", Rumilus Music FM
+http://stream.zenolive.com/3pr8rhem6tzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/rumilus.jpg" " group-title="Tamil FM Radios", Rumilus Retro FM
+http://stream.zenolive.com/szbp1xq5ctzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/rockyfm.jpg" " group-title="Tamil FM Radios", Rocky FM
+http://stream.zenolive.com/mcp5F168h7yzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/thambifm.jpg" " group-title="Tamil FM Radios", Thambi FM
+http://stream.zenolive.com/zsmqq429e2zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/deltafm.jpg" " group-title="Tamil FM Radios", Delta FM
+http://stream.zenolive.com/zp16r96rgzzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/sangeethfm.jpg" " group-title="Tamil FM Radios", Sangeeth FM
+http://stream.zenolive.com/2npurhbtu4zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/peoplesfm.jpg" " group-title="Tamil FM Radios", Peoples FM
+http://stream.zenolive.com/hpugtk3gr2zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/starfmonline.jpg" " group-title="Tamil FM Radios", Star FM Online
+http://stream.zenolive.com/zpqkfze5bnzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/kenieradio.jpg" " group-title="Tamil FM Radios", Kenie Radio
+http://stream.zenolive.com/sgksxe0hzeruv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/donfm.jpg" " group-title="Tamil FM Radios", Don FM
+http://stream.zenolive.com/xngfrrbtzwzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/rixradio.jpg" " group-title="Tamil FM Radios", Rix Tamil Radio
+http://stream.zenolive.com/028bx59n0wzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/minifm.jpg" " group-title="Tamil FM Radios", Mini FM
+http://stream.zenolive.com/km1nxdsbxzzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/anthathifm.jpg" " group-title="Tamil FM Radios", Anthathi FM
+http://stream.zenolive.com/u1fapvzyrzzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/sentamilfm.jpg" " group-title="Tamil FM Radios", Sen Tamil FM
+http://stream.zenolive.com/z4nsy4dv5yzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/supremefm.jpg" " group-title="Tamil FM Radios", Supreme FM
+http://stream.zenolive.com/g7sx7w7dmzzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/trendsfm.jpg" " group-title="Tamil FM Radios", Trends FM
+http://stream.zenolive.com/em284h52wwzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/magizhchi.jpg" " group-title="Tamil FM Radios", Magizhchi
+http://stream.zenolive.com/rfnpp9yhhzzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/provifm.jpg" " group-title="Tamil FM Radios", Provi FM
+http://stream.zenolive.com/syzuavk9xzzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/consolefmradio.jpg" " group-title="Tamil FM Radios", Console FM Radio
+http://stream.zenolive.com/70vhq8mh8yzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/dapparadio.jpg" " group-title="Tamil FM Radios", Dappa Radio
+http://stream.zenolive.com/3edyxbyvywzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/saralvanoli.jpg" " group-title="Tamil FM Radios", Saral Vanoli
+http://stream.zenolive.com/c6rbgapghzzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/deltafm.jpg" " group-title="Tamil FM Radios", Delta FM
+http://stream.zenolive.com/zp16r96rgzzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/hotfmtamil.jpg" " group-title="Tamil FM Radios", Hot FM Tamil
+http://stream.zenolive.com/knf23sxrtzzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/maatramfm.jpg" " group-title="Tamil FM Radios", Maatram FM
+http://stream.zenolive.com/4fvebsdxxwzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/nadhifm.jpg" " group-title="Tamil FM Radios", Nadhi FM
+http://stream.zenolive.com/ykw5dmubazzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/emptysattifm.jpg" " group-title="Tamil FM Radios", Empty Satti FM
+http://stream.zenolive.com/c268x7m1qzzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/mtor.jpg" " group-title="Tamil FM Radios", Maldives Radio
+http://stream.zenolive.com/2ys840qr1qzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/pugazhvanifm.jpg" " group-title="Tamil FM Radios", Pugazh Vani FM
+http://stream.zenolive.com/cbnc7s0pp2zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/nilasaral.jpg" " group-title="Tamil FM Radios", Nilasaral FM
+http://stream.zenolive.com/ens4ekkw7druv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/talkingfm.jpg" " group-title="Tamil FM Radios", Talking FM Thamizhan
+http://stream.zenolive.com/030af9nq0wzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/maruthaniradio.jpg" " group-title="Tamil FM Radios", Maruthani Radio
+http://stream.zenolive.com/90n9qb1pn2zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/asalfm.jpg" " group-title="Tamil FM Radios", Asal FM
+http://stream.zenolive.com/pzgws1kc41zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/valasufm.jpg" " group-title="Tamil FM Radios", Valasu FM
+http://stream.zenolive.com/d0f0ass2qzzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/thalirfm.jpg" " group-title="Tamil FM Radios", Thalir FM
+http://stream.zenolive.com/uxh26v2m1wzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/velinifm.jpg" " group-title="Tamil FM Radios", Velini FM
+http://stream.zenolive.com/w2v3m8bs01zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/madrasfm1.jpg" " group-title="Tamil FM Radios", Madras FM
+http://stream.zenolive.com/1kxnmb7u4yzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/vaanamfm2.jpg" " group-title="Musical  Special", Vaanam FM HD
+http://europa.shoutca.st:8106/;p
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/amudhamfma.jpg" " group-title="Musical  Special", Amudham FM HQ
+http://161.97.135.229:8090/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/kodairagam1.jpg" " group-title="Musical  Special", Kodai Ragam
+http://161.97.135.229:8300/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/abinayamfm.jpg" " group-title="Musical  Special", Abinayam FM
+http://192.99.170.8:5756/;
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/friendstamilfm.jpg" " group-title="Musical  Special", Friends Tamil FM
+http://149.56.157.81:8487/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/mashup.jpg" " group-title="Musical  Special", Mashup Songs Radio
+http://158.69.4.171:8511/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/aranfm.jpg" " group-title="Musical  Special", Aran FM
+http://cast1.asurahosting.com/proxy/aranfm/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/thamizhachifm.jpg" " group-title="Musical  Special", Thamizhachi FM
+http://eu10.fastcast4u.com:6220/;
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/pattas-radio.jpg" " group-title="Musical  Special", Pattas Radio
+http://listen.radioking.com/radio/355459/stream/404740
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/sirpifm.jpg" " group-title="Musical  Special", Sirpi FM
+http://161.97.135.229:8040/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/asathalamudham1.jpg" " group-title="Musical  Special", Asathal Amudham FM
+http://161.97.135.229:8220/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/tamillatesthits.jpg" " group-title="Musical  Special", Tamil Latest Hits
+http://stream.zeno.fm/dkxftg6k7tzuv
+
+
+#EXTINF:-1, tvg-logo="http://shortfilmsite.com/images/radiobeatthaalam.jpg" " group-title="Musical  Special", Radio Beat Thaalam
+http://live.exertion.in:8050/radio.mp3
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/radiobeatlove.jpg" " group-title="Musical  Special", Radio Beat Love
+http://live.exertion.in:8020/radio.mp3
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/kathalfm.jpg" " group-title="Musical  Special", Kathal FM
+http://s1.voscast.com:7262/;
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/kadhalamudham1.jpg" " group-title="Musical  Special", Kadhal Amudham
+http://161.97.135.229:8210/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/hotnowtamil.jpg" " group-title="Musical  Special", Hot Now Tamil
+http://103.16.47.70:9555/;
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/thenaruvifm.jpg" " group-title="Musical  Special", Thenaruvi FM
+http://51.255.235.165:5656/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/aruvivanoli.jpg" " group-title="Musical  Special", Aruvi Vanoli
+http://161.97.135.229:8260/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/hiradio.jpg" " group-title="Musical  Special", Hi Radio
+http://radio.thehiradio.com/radio/8000/radio.mp3
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/thozhafm.jpg" " group-title="Musical  Special", Thozha FM
+http://103.215.168.169:8000/thozhafm
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/dancetamizharadio.jpg" " group-title="Musical  Special", Dance Tamizha Radio
+http://strw1.openstream.co/791
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/djtamilremix.jpg" " group-title="Musical  Special", Tamil Remix SB
+http://5.135.154.91:8302/;
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/arafm.jpg" " group-title="Musical  Special", Ara FM
+http://161.97.135.229:8190/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/anandhamfmhd.jpg" " group-title="Musical  Special", Anandham FM HD
+http://stream.zeno.fm/1ddxnnrg0d0uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/a1-vaanoli.jpg" " group-title="Musical  Special", A1 Tamil Radio
+http://ec3.yesstreaming.net:1190/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/djtamilremix.jpg" " group-title="Musical  Special", DJ Tamil Remix
+http://stream.zeno.fm/xtmd1gawdg0uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/saifm.jpg" " group-title="Musical  Special", Sai FM
+http://s2.voscast.com:9742/;p
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/90stamilsb.jpg" " group-title="Musical  Special", 90S Hits SB
+http://91.121.205.70:7024/;
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/paaddu.jpg" " group-title="Musical  Special", Paaddu
+http://37.59.28.208:8338/;stream/1
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/abctamil.jpg" " group-title="Musical  Special", ABC Tamil FM
+http://51.255.235.165:5745/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/akaramradio.jpg" " group-title="Musical  Special", Akaram Radio
+http://ourfile.info/akaram.mp3
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/mathinilafm.jpg" " group-title="Musical  Special", Mathinila FM
+http://161.97.135.229:8250/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/tamilromanticradio.jpg" " group-title="Musical  Special", Romantic Radio
+http://103.16.47.70:6230/live
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/100sadsongs.jpg" " group-title="Musical  Special", 100% Sad Songs
+http://stream.zenolive.com/xbmq57gqvtzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/100loveradio.jpg" " group-title="Musical  Special", 100% Love Radio
+http://stream.zeno.fm/027dtnhuutzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/magizhchifm.jpg" " group-title="Musical  Special", Magizhchi FM
+http://149.56.157.81:20047/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/isaiyaruvifm.jpg" " group-title="Musical  Special", Isaiyaruvi FM
+http://isaiyaruvifm.com:8910/;
+
+
+#EXTINF:-1, tvg-logo="http://shortfilmsite.com/images/thaalamfm1.jpg" " group-title="Musical  Special", Thaalam FM
+http://54.39.247.236:2110/;
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/vaanambadivaanoli.jpg" " group-title="Musical  Special", Vaanambadi Vaanoli
+http://192.95.39.65:25189/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/iyalfm.jpg" " group-title="Musical  Special", Iyal FM
+http://radio.openwayfm.com/radio/8000/radio.mp3
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/magizhasia.jpg" " group-title="Musical  Special", Magizh Asia
+http://stream.zenolive.com/vqq7av4d8yzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/radiobeat.jpg" " group-title="Musical  Special", Radio Beat
+http://95.217.206.78:8044/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/beatsradio.jpg" " group-title="Musical  Special", Beats Radio 
+http://n05.radiojar.com/8yx6spzrv4zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/sathiyamradio.jpg" " group-title="Musical  Special", Sathiyam Radio 
+http://s9.voscast.com:9144/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/thamilarradio.jpg" " group-title="Musical  Special", Thamilar Radio
+http://s1.voscast.com:10559/live
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/easybuyradio.jpg" " group-title="Musical  Special", Easy Buy Radio
+http://live.tamilkuyilradio.com:8000/easybuyradio
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/namathufm.jpg" " group-title="Musical  Special", Namathu FM
+http://s3.voscast.com:10527/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/soupfm.jpg" " group-title="Musical  Special", Soup FM
+http://usa7.fastcast4u.com:8808/soupfm
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/kummalamradio.jpg" " group-title="Musical  Special", Kummalam Radio
+http://kummalam.stream.laut.fm/kummalam
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/iyalisairadio.jpg" " group-title="Musical  Special", Iyalisai Radio (Lanka)
+http://andromeda.shoutca.st:9350/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/yuwaveradio.jpg" " group-title="Musical  Special", Yuwave Radio
+http://144.217.203.184:8004/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/lockdownfm.jpg" " group-title="Musical  Special", Lockdown FM
+http://178.32.62.167:8408/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/maruthamfm.jpg" " group-title="Musical  Special", Marutham FM
+http://streaming.radio.co/sa89212019/listen
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/nakshatraradio.jpg" " group-title="Musical  Special", Nakshatra Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/NAKSHATRA_S01AAC_SC
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/natpufm.jpg" " group-title="Musical  Special", Natpu FM
+http://167.114.131.90:5014/;stream.mp3
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/suntamilradio.jpg" " group-title="Musical  Special", Sun Tamil Radio
+http://stream.zenolive.com/yavek61461zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/charityradio.jpg" " group-title="Musical  Special", Charity Radio
+http://streams.radio.co/sbd36225b4/listen
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/etrmusic.jpg" " group-title="Musical  Special", ETR Music
+http://212.83.138.48:8079/;
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/gtamilfm.jpg" " group-title="Musical  Special", G Tamil FM
+http://s5.voscast.com:9990/;stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/avchatsfm.jpg" " group-title="Musical  Special", AV Chats Radio
+http://radio.avchats.com/radio/8040/radio.mp3
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/isaifm.jpg" " group-title="Musical  Special", Isai FM
+http://stream.zenolive.com/7b78sdv2x1zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/404.jpg" " group-title="Musical  Special", YOGT FM
+http://s5.voscast.com:9860/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/tamilflashfm.jpg" " group-title="Musical  Special", Tamil Flash FM
+http://stream.zenolive.com/89r9sk97gwzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/thisaiwebradio.jpg" " group-title="Musical  Special", Thisaigal Radio
+http://192.95.39.65:5000/;
+
+
+#EXTINF:-1, tvg-logo="http://shortfilmsite.com/images/satamilfm.jpg" " group-title="Musical  Special", SA Tamil FM
+http://live.tamilkuyilradio.com:9010/satamilfm
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/ctr24.jpg" " group-title="Musical  Special", Beyond Roots
+http://87.98.219.178:8180/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/jeifm.jpg" " group-title="Musical  Special", Jei FM
+http://167.114.131.90:8808/jeifm
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/siruthaifm.jpg" " group-title="Musical  Special", Siruthai FM
+http://eu3.fastcast4u.com/proxy/skajanee?mp=/;
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/dsrfm.jpg" " group-title="Musical  Special", Dream Share FM
+http://stream.zenolive.com/3b88garm268uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/dsrfm.jpg" " group-title="Musical  Special", Dream Share FM 2
+http://stream.zenolive.com/5k3r78yurreuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/theentamilosai.jpg" " group-title="Musical  Special", Theen Tamil Osai
+http://178.33.135.245:3616/;stream/1
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/ftcfm.jpg" " group-title="Musical  Special", FTC FM
+http://167.114.131.90:5750/;p
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/varnalaifm.jpg" " group-title="Musical  Special", Vernalai FM
+http://stream.zenolive.com/h0d3sdqz3mzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/manavaifm.jpg" " group-title="Musical  Special", Manavai FM
+http://stream.zenolive.com/vh2zn434krruv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/visairadio.jpg" " group-title="Musical  Special", Visai Tamil Vanolli
+http://c7.radioboss.fm:18019/autodj
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/dopetamil.jpg" " group-title="Musical  Special", Dope Tamil Radio
+http://69.30.218.190:30448/stream
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/vanakkamfm.jpg" " group-title="Musical  Special", Vanakkam FM
+http://stream.zenolive.com/8rnkv9qrxueuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/vivikshafm.jpg" " group-title="Musical  Special", Viviksha FM
+http://stream.zenolive.com/d9k29df02yzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/liontamilradio.jpg" " group-title="Musical  Special", Lion Tamil FM
+http://stream.zenolive.com/qtadbnkgeq8uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/vaigaifm.jpg" " group-title="Musical  Special", Vaigai FM
+http://stream.zenolive.com/x94nymrwaq8uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/numtamilradio.jpg" " group-title="Musical  Special", Num Tamil Radio
+http://stream.zenolive.com/p25f2qnswmzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/nutpamfm.jpg" " group-title="Musical  Special", Nutpam FM
+http://stream.zenolive.com/6n3s2gfguqruv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/muthufm.jpg" " group-title="Musical  Special", Muthu FM
+http://stream.zenolive.com/90tnf4sfqxquv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/airtamil.jpg" " group-title="Musical  Special", Air Tamil FM
+http://stream.zenolive.com/g5m1en1u9vzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/airtamil.jpg" " group-title="Musical  Special", Air Tamil HD Hits
+http://stream.zenolive.com/855rng6k7tzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/airtamil.jpg" " group-title="Musical  Special", Air Tamil 90S Songs
+http://stream.zenolive.com/mw96g2eafwzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/hahafm.jpg" " group-title="Musical  Special", HaHa FM
+http://stream.zeno.fm/dmxzm5tzg3quv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/nallamusicradio.jpg" " group-title="Musical  Special", Nalla Music Radio
+http://stream.zeno.fm/t797kdug7zquv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/moonfm.jpg" " group-title="Musical  Special", Moon FM
+http://stream.zenolive.com/8wazf27c9mzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/abyfm.jpg" " group-title="Musical  Special", ABY FM
+http://stream.zenolive.com/nam8d1h6gxquv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/magizhfm.jpg" " group-title="Musical  Special", Magizh FM
+http://stream.zenolive.com/8egyqyn3bzzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/naanradio.jpg" " group-title="Musical  Special", Naan Radio
+http://stream.zenolive.com/swgzh04zbg0uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/rojafm.jpg" " group-title="Musical  Special", Roja FM
+http://stream.zenolive.com/a73wf2hc1eruv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/asalfm.jpg" " group-title="Musical  Special", Asal FM
+http://stream.zenolive.com/pzgws1kc41zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/entertunementradio.jpg" " group-title="Musical  Special", Entertunement Radio
+http://stream.zenolive.com/9t2rhqbs4zquv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/vrairfm.jpg" " group-title="Musical  Special", VR Air FM
+http://stream.zenolive.com/gguu1dqsbwzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/thiraifm.jpg" " group-title="Musical  Special", Thirai FM
+http://stream.zenolive.com/1s14uqy4ya0uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/shyamfm.jpg" " group-title="LOCAL  RADIOS", Shyam FM (திருவண்ணாமலை)
+http://stream.zenolive.com/7dqtawdfmzzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/poochifm.jpg" " group-title="Musical  Special", Poochi 🐝 FM
+http://stream.zenolive.com/w0y06nk4cnzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/pullingoradio.jpg" " group-title="Musical  Special", Pullingo 👫 Radio
+http://stream.zenolive.com/t5eqsrq2kwzuv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXdw2V4jnTl8-GIeGXoZlZJ5Uln7HViiw0kg7iaa3rIfrtVBk&s" " group-title="Musical  Special", Gaana Songs
+http://stream.zenolive.com/yw9bxudgthruv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/gaanapattu.jpg" " group-title="Musical  Special", Gaana Songs Radio
+http://stream.zenolive.com/96z181t7hqzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/nattupurapattu.jpg" " group-title="Musical  Special", Nattupura Pattu #
+http://stream.zenolive.com/t7wmtudgthruv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/rjshifan.jpg" " group-title="Musical  Special", RJ Shifan
+http://stream.zenolive.com/dsdb1twe8ueuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/rjnila.jpg" " group-title="Musical  Special", RJ Nila FM
+http://stream.zenolive.com/8vcdps05krruv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/paasamfm.jpg" " group-title="Musical  Special", Paasam FM
+http://stream.zenolive.com/w8spm96nc18uv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/affluenzradio.jpg" " group-title="Musical  Special", Affluenz Radio
+http://stream.zenolive.com/9aed0zdv9qzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/tamilmaxfm.jpg" " group-title="Musical  Special", Tamil Max FM
+http://stream.zenolive.com/bdsf37kcewzuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/nammafm.jpg" " group-title="Musical  Special", Namma FM
+http://stream.zenolive.com/cwgesdu01uquv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/superfm1.jpg" " group-title="Musical  Special", Super FM
+http://stream.zenolive.com/5mm4974xk2zuv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/vaanosai.jpg" " group-title="Musical  Special", Vaanosai FM
+http://stream.zenolive.com/7aswfbpx25quv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/radiov.png" " group-title="Musical  Special", Radio V
+http://stream.zenolive.com/c459zuz35rquv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAzcrHEH9utK82e1Sv-XaR8v1Wf_r2PLeRcooOJwgfpKOwuKA&s" " group-title="Malayalam", AIR Malayalam
+http://air.pc.cdn.bitgravity.com:80/air/live/pbaudio230/chunklist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkB5L1c5kZU8myBUgNEpirMvoPvibRiMjc22AV94O03A6CBDw&s" " group-title="Malayalam", Radio Malayalam
+http://radiomalayalamfm.com/radio/8000/radio.mp3
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJB27s1YUupULPkLa9k3JvhInHfDzTYuAIOpzi2c5RbQSsbCDe&s" " group-title="Malayalam", Psalms Radio - Malayalam
+http://5.79.88.132:7084/;christian
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE9juuYIASgNXJ9Pt_2eaI2OVtb-0WdcBLzL1jFyYnLvf7jJA&s" " group-title="GPM  RADIOS", Live Tamil QURAN
+http://stream.zeno.fm/u0b1h7upzhhvv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3aUANYKfrUMMfeEO0PVvSyA2WRqiT7tZLfw" " group-title="GPM  RADIOS", இஸ்லாமிய கீதம் @ Islamiya Keetham
+http://stream.zeno.fm/mufat3agzhhvv
+
+
+#EXTINF:-1, tvg-logo="https://drive.google.com/u/0/uc?id=1UYc40Kq8TAHMeQFcdMiME65AVgrlmTar" " group-title="GPM  RADIOS", Muslim Murasu - முஸ்லிம் முரசு
+http://stream.zeno.fm/f9kabf1cwnhvv
+
+
+#EXTINF:-1, tvg-logo="https://w7.pngwing.com/pngs/205/990/png-transparent-child-singing-dance-studio-music-children-microphone-hat-piano.png" " group-title="GPM  RADIOS", Kalakkal FM - கலக்கல் பண்பலை
+http://stream.zeno.fm/2yewka9syhhvv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwsKSdWk1p-8B4nO7_7xcrg61PErUE5Cw0aA" " group-title="GPM  RADIOS", Green Player
+http://stream.zeno.fm/druyupx23hhvv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI3iZ6Dw4P4HeCj9pY4CbkgJ6cqBGqJtVOLCMas3DYgx61_ZFN&s" " group-title="GPM  RADIOS", Online PJ Radio (NTF)
+http://stream.zeno.fm/f55869v4ynhvv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa8YHD6KDobkeb0pJf30aB6hfpNujHK0-3Fc3zcXB2A36hoPw&s" " group-title="GPM  RADIOS", இன்று ஒரு தகவல் - Indru Oru Thagaval - Thenkachi Ko Swaminathan
+http://stream.zeno.fm/9xkwdsd7xnhvv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/thirukural.jpg" " group-title="GPM  RADIOS", Thirukural
+http://stream.zeno.fm/rdfqasdsgtjvv
+
+
+#EXTINF:-1, tvg-logo="https://drive.google.com/u/0/uc?id=1bRXyr0Fv1NIADhpRsAkHMjgqvKVaItHw" " group-title="GPM  RADIOS", Udhaya favorite
+http://stream.zeno.fm/druyupx23hhvv
+
+
+#EXTINF:-1, tvg-logo="https://drive.google.com/u/0/uc?id=1pN0hhBOvqY9dVYiu-iIwloQDrgi4QcYx" " group-title="GPM  RADIOS", Gpm Abu Favorite
+http://stream.zeno.fm/2yewka9syhhvv
+
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR00D_ZoJzoX6JdAKbhDnCdjTnAz0oh8zsYe36soSwRdLh07s" " group-title="GPM  RADIOS", Tamil Times (Test Only)
+http://stream.zeno.fm/w0pfx0fk9hhvv
+
+
+#EXTINF:-1, tvg-logo="http://radiosindiaapp.com/images/megazonesouth.jpg" " group-title="Musical  Special", Mega Zone South
+http://zas1.ndx.co.za:8162/stream
+
+
