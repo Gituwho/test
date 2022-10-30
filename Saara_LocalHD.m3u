@@ -416,6 +416,37 @@ https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SAARA LOCAL HD",MOON TV 
 http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
 
+#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
+#EXTINF:-1 tvg-logo="" group-title=" group-title=" group-title=" group-title="RASI NETWORKSRASI NETWORKSRASI NETWORKS",RASI TVRASI TAMILRASI MUSIC
+http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title="RASI NETWORKS",RASI MOVIES
+http://singamcloud.in/rasinetworks/rasimovies/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title="RASI NETWORKS",RASI HOLLYWOOD
+http://singamcloud.in/rasinetworks/rasihollywood/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",RASI HOLLYWOOD
+http://singamcloud.in:80/rasinetworks/rasihollywood/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",RASI cookingRASI cookinggg
+http://singamcloud.in/rasinetworks/rasitamil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",RASI hchc
+http://singamcloud.in/rasinetworks/rasihollywood/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",RASI cookinggsj
+http://singamcloud.in/rasinetwork/cookings/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG80573.png" group-title="Tamil Cloud",7Star TVtamil tv_1
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title="RASI NETWORKS",RASI TV
+http://singamcloud.in/rasinetworks/rasitv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title=" group-title="RASI NETWORKSRASI NETWORKS",RASI TAMILRASI MUSIC
+http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title="RASI NETWORKS",RASI MOVIES
+http://singamcloud.in/rasinetworks/rasimovies/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" group-title="RASI NETWORKS",RASI HOLLYWOOD
+http://singamcloud.in/rasinetworks/rasihollywood/index.m3u8
+#EXTINF:-1,tamil tv_rasitamil
+http://singamcloud.in/rasinetworks/rasitamil/index.m3u8
+#EXTINF:-1,tamil tv_rasi
+http://singamcloud.in/rasinetworks/rasitv/index.m3u8
+#EXTINF:-1,tamil tv_rasimovies
+http://singamcloud.in/rasinetworks/rasimovies/index.m3u8
 
 
 
