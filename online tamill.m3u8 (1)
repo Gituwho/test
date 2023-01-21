@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="SAARA LOCAL HD",7 STAR
+https://utube.psrutube.workers.dev/stream/UCtbo6_eDG7zEtaOtcSltJkA/master.m3u8
+#EXTINF:-1 group-title="SAARA LOCAL HD",7 STAR
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
 #EXTINF:-1 group-title="SAARA LOCAL HD",7 STAR SHARVESH
 http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
