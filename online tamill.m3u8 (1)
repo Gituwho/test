@@ -1565,7 +1565,7 @@ http://stream.singamcloud.in/skytv/skytv/tracks-v1a1/mono.m3u8
 https://eagle.iptelevision.in/hls/appletv.m3u8
 #EXTINF:-1 group-title="TLL MUSIC",G TV
 http://live.singamcloud.in:1935/gtv/gtv/playlist.m3u8
-#EXTINF:-1 group-title="TLL MUSIC",N MUSIC TV 
+#EXTINF:-1 group-title="TLL MUSIC",N MUShIC TV 
 http://198.144.149.82:8080/NOTV/NTV/index.m3u8?token=GTR
 #EXTINF:-1 group-title="TLL MUSIC",SR MUSIX 
 http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
