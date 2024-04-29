@@ -8,6 +8,24 @@ http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
 #EXTM3U Exclusive to Tamil Live Links only ,not for sale or copy ,Personal use for TLL members
 
 #EXTM3U TAMIL NEWS channel start ###
+#EXTINF:-1 tvg-logo="https://live.tamilstreams.in/wp-content/uploads/2024/03/Rasi_Classic-215x300.jpg" group-title="Tamil Rasi",Rasi Classic
+
+ rtmp://live.rasinetworks.in/live/rasihollywood
+#EXTINF:-1 tvg-logo="https://live.tamilstreams.in/wp-content/uploads/2024/03/Rasi_Classic-215x300.jpg" group-title="Tamil Rasi",Rasi Classic
+
+ rtmp://live.rasinetworks.in/live/rasitv
+#EXTINF:-1 tvg-logo="https://live.tamilstreams.in/wp-content/uploads/2024/03/Rasi_Classic-215x300.jpg" group-title="Tamil Rasi",Rasi Classic
+
+ rtmp://live.rasinetworks.in/live/rasimovies
+#EXTINF:-1 tvg-logo="https://live.tamilstreams.in/wp-content/uploads/2024/03/Rasi_Classic-215x300.jpg" group-title="Tamil Rasi",Rasi Classic
+
+ rtmp://live.rasinetworks.in/live/rasilifestyle
+#EXTINF:-1 tvg-logo="https://live.tamilstreams.in/wp-content/uploads/2024/03/Rasi_Classic-215x300.jpg" group-title="Tamil Rasi",Rasi Classic
+
+ rtmp://live.rasinetworks.in/live/rasicinema
+#EXTINF:-1 tvg-logo="https://live.tamilstreams.in/wp-content/uploads/2024/03/Rasi_Classic-215x300.jpg" group-title="Tamil Rasi",Rasi Classic
+
+ rtmp://live.rasinetworks.in/live/rasicineplex
 
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/tamil/Sun_News.png" group-title="Tamil NEWS",Sun News
 http://watchindia.net:8880/live/23712/28423/869.ts
