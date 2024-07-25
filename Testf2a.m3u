@@ -66,6 +66,49 @@ https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.
 #EXTINF:-1 tvg-logo="https://live.tamilstreams.in/wp-content/uploads/2024/03/Rasi_Lifestyle-215x300.jpg" group-title="Tamil Rasi",Rasi Lifestyle
 #https://s1.rasinetworks.in/rasinetworks/lifestyle/index.m3u8
 rtmp://live.rasinetworks.in/live/rasilifestyle
+#EXTINF:-1 group-title="Tamil News" tvg-logo="https://i.imgur.com/AzIEYXU.png" tvg-id="", NewsTamil 24x7
+https://ythls-v3.onrender.com/channel/UCtbo6_eDG7zEtaOtcSltJkA.m3u8
+#EXTINF:-1 group-title="Tamil News" tvg-logo="https://i.imgur.com/ItegRAT.png" tvg-id="", Polimer News
+https://ythls-v3.onrender.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
+#EXTINF:-1 group-title="Tamil News" tvg-logo="https://i.imgur.com/MulgNRs.jpg" tvg-id="", PuthiyaThalaimurai
+https://ythls-v3.onrender.com/channel/UCmyKnNRH0wH-r8I-ceP-dsg.m3u8
+#EXTINF:-1 group-title="Tamil News" tvg-logo="https://i.imgur.com/gpYwU6U.png" tvg-id="", News7 Tamil
+#EXTINF:-1 group-title="Tamil News" tvg-logo="https://i.imgur.com/Ji5cykV.jpg" tvg-id="", M Nadu News
+#EXTINF:-1 group-title="Tamil News" tvg-logo="https://i.imgur.com/IKp22Lb.png" tvg-id="", Sathiyam TV
+#EXTINF:-1 group-title="Tamil News" tvg-logo="https://i.imgur.com/d1Zp4iW.png" tvg-id="", Thanthi TV
+https://ythls-v3.onrender.com/channel/UC-JFyL0zDFOsPMpuWu39rPA.m3u8
+#EXTINF:-1 group-title="Tamil News" tvg-logo="https://i.imgur.com/ls3vh2V.png" tvg-id="", Tamil Janam
+https://ythls-v3.onrender.com/channel/UCgZxM9BVOWr1w9Edi79Wg5w.m3u8
+#EXTINF:-1 group-title="Tamil News" tvg-logo="https://i.imgur.com/yddBVqj.jpeg" tvg-id="", Kumudam News
+https://ythls-v3.onrender.com/channel/UCYmUbCx3q38TJo4_qN-_uAA.m3u8
+#EXTINF:-1 group-title="Tamil News" tvg-logo="https://i.imgur.com/Ji5cykV.jpg" tvg-id="", M Nadu News
+https://ythls-v3.onrender.com/channel/UCJN51JyuwzL1Npd-mEYGLHA.m3u8
+#EXTINF:-1 group-title="Tamil News" tvg-logo="https://i.imgur.com/IKp22Lb.png" tvg-id="", Sathiyam TV
+https://ythls-v3.onrender.com/channel/UC2ziCMHFPWkFHjocUMXT__Q.m3u8
+#EXTINF:-1 group-title="Tamil News" tvg-logo="https://i.imgur.com/dvFdH7i.jpg" tvg-id="", Malaimurasu Tv
+https://ythls-v3.onrender.com/channel/UCXbufH95DIUqyAWSzeDI0JQ.m3u8
+#EXTINF:-1 group-title="Tamil News" tvg-logo="https://i.imgur.com/9KOtLWa.jpg" tvg-id="", Dinamalar
+https://ythls-v3.onrender.com/channel/UChcR8SrIiSON4KxmtpwfMgw.m3u8
+#EXTINF:-1 group-title="Tamil News" tvg-logo="https://i.imgur.com/qF9TcMW.png" tvg-id="", Sun News
+https://ythls-v3.onrender.com/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
+#EXTINF:-1 group-title="Tamil News" tvg-logo="https://i.imgur.com/aPq38ho.png" tvg-id="", News18 TamilNadu
+https://ythls-v3.onrender.com/channel/UCat88i6_rELqI_prwvjspRA.m3u8
+#EXTINF:-1 group-title="Tamil News" tvg-logo="https://i.imgur.com/RuUvWva.jpg" tvg-id="", Raj News
+https://ythls-v3.onrender.com/channel/UC1mkFVHzP87YQ87PSMxo9MQ.m3u8
+#EXTINF:-1 group-title="Tamil News" tvg-logo="https://i.imgur.com/jgsEO54.png" tvg-id="", NewsJ
+https://ythls-v3.onrender.com/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw.m3u8
+#EXTINF:-1 group-title="Tamil News" tvg-logo="https://i.imgur.com/SJBIGOb.png" tvg-id="", Jaya Plus
+https://ythls-v3.onrender.com/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8
+#EXTINF:-1 group-title="Tamil News" tvg-logo="https://i.imgur.com/O9mx3BX.jpg" tvg-id="", Kalaignar News
+https://ythls-v3.onrender.com/channel/UCcVF2Fth-qEA4T1Lhn3CgKg.m3u8
+#EXTINF:-1 group-title="Tamil News" tvg-logo="https://i.imgur.com/glL5zYr.png" tvg-id="", Captain News
+https://ythls-v3.onrender.com/channel/UCno6OgN7-NDmRTNBgqWevlw.m3u8
+#EXTINF:-1 group-title="Tamil News" tvg-logo="https://i.imgur.com/3rLEBaS.jpg" tvg-id="", Zee Tamil News
+https://ythls-v3.onrender.com/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
+#EXTINF:-1 group-title="Tamil News" tvg-logo="https://i.imgur.com/lix8q6y.jpg" tvg-id="",Chanakyaa
+https://ythls-v3.onrender.com/channel/UCoOu4D7foJWfKvcDLxqrF2Q.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240411_1507147472317502579290438.png"," group-title="Tamil Rasi", Star Tamil
 https://edge2-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_0026202554836848690543423.png" group-title="Tamil Rasi", 7star Tv
