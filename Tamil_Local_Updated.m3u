@@ -4661,3 +4661,78 @@ http://sc1.streamingpulse.com:8084/streamstream/1
 http://usa15.fastcast4u.com/proxy/tammus00?mp=/1
 #EXTINF:-1,Hungama – Tamil Hits
 http://media3.lankasri.fmstream/1
+#PCRADIOLIST
+#EXTINF:-1,Pollachi FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1600353838.jpeg
+http://stream.pcradio.ru:8000/pollachifm_com-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Radio Madurai
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1600354058.jpeg
+http://stream.pcradio.ru:8000/madurai_com-hi
+
+#PCRADIOLIST
+#EXTINF:-1,PuradsiFM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1600354451.jpeg
+http://stream.pcradio.ru:8000/puradsifm_com-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Radio Paramankurichi
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1600354555.jpeg
+http://stream.pcradio.ru:8000/paramankurichi_in-hi
+
+#PCRADIOLIST
+#EXTINF:-1,US Tamil FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1600354705.jpeg
+http://stream.pcradio.ru:8000/us_tamilfm-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Ullasam FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1600354869.jpeg
+http://stream.pcradio.ru:8000/ullasam_fm-hi
+
+#PCRADIOLIST
+#EXTINF:-1,iYaliSai FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1600355072.jpeg
+http://stream.pcradio.ru:8000/iyalisai_com-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Nakshatra Radio
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1600355148.jpeg
+http://stream.pcradio.ru:8000/nakshatraradio_sg-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Jei FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1600355236.jpeg
+http://stream.pcradio.ru:8000/jeifm_com-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Marina FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1600355691.jpeg
+http://stream.pcradio.ru:8000/marinafm_tamil-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Eagle FM HD
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1600356438.jpeg
+http://stream.pcradio.ru:8000/eaglefm_hd-hi
+
+#PCRADIOLIST
+#EXTINF:-1,East FM 102.7
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1600356520.jpeg
+http://stream.pcradio.ru:8000/eastfm_1027-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Nutpam FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1600356602.jpeg
+http://stream.pcradio.ru:8000/nutpamfm_ga-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Namathu FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1600356749.jpeg
+http://stream.pcradio.ru:8000/namathufm_com-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Muthamil FM 88.9 HD3
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1600356812.jpeg
+http://stream.pcradio.ru:8000/muthamil_ca-hi
+
