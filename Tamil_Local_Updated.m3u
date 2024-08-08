@@ -4735,4 +4735,24 @@ http://stream.pcradio.ru:8000/namathufm_com-hi
 #EXTINF:-1,Muthamil FM 88.9 HD3
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1600356812.jpeg
 http://stream.pcradio.ru:8000/muthamil_ca-hi
+#PCRADIOLIST
+#EXTINF:-1,US Tamil FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1600354705.jpeg
+http://stream.pcradio.ru:8000/us_tamilfm-hi  
+#PCRADIOLIST
+#EXTINF:-1,Marina FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1600355691.jpeg
+http://stream.pcradio.ru:8000/marinafm_tamil-hi
+#PCRADIOLIST
+#EXTINF:-1,Uri Tamil Radio
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1567419088.jpeg
+http://stream.pcradio.ru:8000/uri_tamil-hi
+#PCRADIOLIST
+#EXTINF:-1,TRT Tamil Olli India
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1547488280.jpeg
+http://stream.pcradio.ru:8000/trt_tamil_olli-hi
+#PCRADIOLIST
+#EXTINF:-1,A.R. Rahman Radio Tamil (ARR)
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1547262787.jpeg
+http://stream.pcradio.ru:8000/arr_radio-hi
 
