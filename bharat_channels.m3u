@@ -3,7 +3,20 @@
 http://singamcloud.in:1935/rasinetworks/rasimusic/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.moontvlive.com/images/logo.png" group-title="Tamil;Local",Moon TV
-http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
+https://dl7.hotshare.online/Moviesda.Mobi_-_Pechi_2024_Original_720p_HD.mp4
 
 #EXTINF:-1 Vettaiyan
 https://dl1.hotshare.click/Moviesda.Mobi_-_Vettaiyan_2024_Audio_Launch_Original_720p_HD.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Pechi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/Pechi_film_poster.jpg" group-title="LATEST RELEASE ",Pechi
+https://dl7.hotshare.online/Moviesda.Mobi_-_Pechi_2024_Original_720p_HD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pogumidam Vegu Thooramillai" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Pogumidam_Vegu_Thooramillai.jpg" group-title="LATEST RELEASE ",Pogumidam Vegu Thooramillai
+http://servmrcsnew1.jiomovies9.com/files/Tamil%20Movies/Tamil%202024%20Movies/Pogumidam%20Vegu%20Thooramillai%20(2024)%20Tamil%20Original%20HDRip/Pogumidam%20Vegu%20Thooramillai%20Tamil%20Original%20HDRip%20Single%20Part/Pogumidam%20Vegu%20Thooramillai%20(2024)%20Tamil%20Original%20HDRip%20Single%20Part.mp4
+#EXTINF:-1 tvg-id="" tvg-name="meiyazhagan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Meiyazhagan_poster.jpg" group-title="LATEST RELEASE ",meiyazhagan
+https://www.1madrasrockers.fyi/files/Tamil%20Movies/Tamil%202024%20Movies/Meiyazhagan%20(2024)%20Tamil%20HQ%20PreDVD/Meiyazhagan%20Tamil%20HQ%20PreDVD%20Single%20Part/Meiyazhagan%20(2024)%20Tamil%20HQ%20PreDVD%20Single%20Part.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lubber_Pandhu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/Lubber_Pandhu.jpg", group-title="LATEST RELEASE ",Lubber_Pandhu
+https://dl7.hotshare.online/Lubber_Pandhu_2024_PreDVD_720p_HD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Indian2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Indian_2_poster.jpg", group-title="LATEST RELEASE ",Indian2
+https://pub-c112d6c4191e458db7adfadb97398a27.r2.dev/Indian_2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Garudan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Garudan_2024_poster.jpg", group-title="LATEST RELEASE ",Garudan
+https://pub-c112d6c4191e458db7adfadb97398a27.r2.dev/Garudan.mp4
