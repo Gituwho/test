@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-id="1" tvg-name="Lubber_Pandhu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Bloody_Beggar.jpg", group-title="LATEST RELEASE ",1 BloodyBeggar
+https://tamil.openmv.site/Brother%20(2024)%20HDRip%20Single%20Part%20(720p).mp4
+
 #EXTINF:-1 tvg-id="1" tvg-name="Lubber_Pandhu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Black_%282024_film%29.jpg ", group-title="LATEST RELEASE ",1 Black
 https://tamil.openmv.site/Black%20(2024)%20HDRip%20Single%20Part%20(720p).mp4
 
