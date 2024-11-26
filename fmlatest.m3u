@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,Radio Live SN HD, group-title="Tamil FM",
+#EXTINF:-1,Radio Live SN HD, group-title="Tamil FM",Radio Live SN HD
 http://51.79.87.236:7188/1?type=http
-#EXTINF:-1,Hello Fm 106.4 Chennai HD, group-title="Tamil FM",
+#EXTINF:-1,Hello Fm 106.4 Chennai HD, group-title="Tamil FM",Hello Fm 106.4 Chennai HD
 http://51.222.206.112:7088/1?type=http
-#EXTINF:-1,Radio Mirchi 98.3 Chennai HD, group-title="Tamil FM",
+#EXTINF:-1,Radio Mirchi 98.3 Chennai HD, group-title="Tamil FM",Radio Mirchi 98.3 Chennai HD
 http://stream2.oppocast.com/mi_stream
 #EXTINF:-1,Radio City 91.1 Chennai HD, group-title="Tamil FM",
 http://51.222.30.35:7388/1?type=http
@@ -395,7 +395,7 @@ http://220.247.234.207:8000/piraistream
 http://ec3.yesstreaming.net:1290/;
 #EXTINF:-1,German Tamil FM, group-title="Tamil FM",
 https://gtr-unicast2u.radioca.st/stream
-#EXTINF:-1,AK Swiss Tamil FM, group-title="Tamil FM",
+#EXTINF:-1,AK Swiss Tamil FM
 https://mpc1.mediacp.eu/stream/akswisstamilfm
 #EXTINF:-1,SS Radio Natham, group-title="Tamil FM",
 https://spserver.sscast2u.in/ssradionatham/stream
@@ -3178,4 +3178,5 @@ https://stream.zeno.fm/qgqrxfte41zuv
 #EXTINF:-1,Suryan FM (Tamil), group-title="Tamil FM",
 https://radios.crabdance.com:8002/2  
 #EXTINF:-1,All India Radio Air (Tamil), group-title="Tamil FM",
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8  
+
