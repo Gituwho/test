@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="Tamil FM Radio" ,BIG FM 92.7
-https://tamil.crabdance.com:8002/4
-#EXTINF:-1, group-title="Tamil FM Radio" ,Radio Live SN HD
-http://51.79.87.236:7188/1?type=http
-#EXTINF:-1, group-title="Tamil FM Radio" ,Hello Fm 106.4 Chennai HD
-http://51.222.206.112:7088/1?type=http
 #EXTINF:-1, group-title="Tamil FM Radio" ,Radio Mirchi 98.3 Chennai HD
 http://stream2.oppocast.com/mi_stream
 #EXTINF:-1, group-title="Tamil FM Radio" ,Radio City 91.1 Chennai HD
