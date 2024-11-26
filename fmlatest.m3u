@@ -395,7 +395,7 @@ http://220.247.234.207:8000/piraistream
 http://ec3.yesstreaming.net:1290/;
 #EXTINF:-1,German Tamil FM, group-title="Tamil FM",
 https://gtr-unicast2u.radioca.st/stream
-#EXTINF:-1,AK Swiss Tamil FM
+#EXTINF:-1,, group-title="Tamil FM",AK Swiss Tamil FM
 https://mpc1.mediacp.eu/stream/akswisstamilfm
 #EXTINF:-1,SS Radio Natham, group-title="Tamil FM",
 https://spserver.sscast2u.in/ssradionatham/stream
