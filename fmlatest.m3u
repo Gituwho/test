@@ -15,11 +15,11 @@ http://51.79.87.236:7588/1?type=http
 http://51.79.87.236:7588/2?type=http
 
 
-#EXTINF:-1,Radio Live SN HD, group-title="Tamil FM",Radio Live SN HD
+#EXTINF:-1,Radio Live SN HD,group-title="TAMIL FM RADIO ",Radio Live SN HD
 http://51.79.87.236:7188/1?type=http
-#EXTINF:-1,Hello Fm 106.4 Chennai HD, group-title="Tamil FM",Hello Fm 106.4 Chennai HD
+#EXTINF:-1,Hello Fm 106.4 Chennai HD,group-title="TAMIL FM RADIO ",Hello Fm 106.4 Chennai HD
 http://51.222.206.112:7088/1?type=http
-#EXTINF:-1,Radio Mirchi 98.3 Chennai HD, group-title="Tamil FM",Radio Mirchi 98.3 Chennai HD
+#EXTINF:-1,Radio Mirchi 98.3 Chennai HD,group-title="TAMIL FM RADIO ",Radio Mirchi 98.3 Chennai HD
 http://stream2.oppocast.com/mi_stream
 #EXTINF:-1,Radio City 91.1 Chennai HD, group-title="Tamil FM",
 http://51.222.30.35:7388/1?type=http
