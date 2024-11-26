@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Radio Live SN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAGV1hCFqLVj0m5LB_zo5L_pFnkUseye9N3JzLb-mi_NT5-dbAc48RS48&s=10" group-title="TAMIL FM RADIO ",Radio Live SN HD
+http://51.79.87.236:7188/1?type=http
+#EXTINF:-1 tvg-id="" tvg-name="Hello Fm 106.4 Chennai HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw2j_lj1VoF3y7GH_bVq3vntUOAJ8zrm8b6w&s" group-title="TAMIL FM RADIO ",Hello Fm 106.4 Chennai HD
+http://51.222.206.112:7088/1?type=http
+#EXTINF:-1 tvg-id="" tvg-name="Radio Mirchi 98.3 Chennai HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ty0rGSx8NtnrtInSdllS8pwxgXmtOXUBysUeoXhWfU0A5HbJPmLEBfgG&s=10" group-title="TAMIL FM RADIO ",Radio Mirchi 98.3 Chennai HD
+http://stream2.oppocast.com/mi_stream
+#EXTINF:-1 tvg-id="" tvg-name="Radio City 91.1 Chennai HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTZ_e3h0NVhDc4gQmut5BvHW4FCaqH5ajPICNFLrutz1-KLHTqIWmTQP0&s=10" group-title="TAMIL FM RADIO ",Radio City 91.1 Chennai HD
+http://51.222.30.35:7388/1?type=http
+#EXTINF:-1 tvg-id="" tvg-name="BIG FM 92.7 Chennai HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAQqRGIEB2UIlkUgCMvtqf2oVi0Qz-ND6TmemmSk-a9qx-S8pH6GEYzir1&s=10" group-title="TAMIL FM RADIO ",BIG FM 92.7 Chennai HD
+http://51.222.30.35:7488/1?type=http
+#EXTINF:-1 tvg-id="" tvg-name="FM Rainbow 101.4 Chennai HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5et8WPrAx2AYNsvwPp3_AXIGOk0CFtynv_TcBHCF34N-VqxOh-RJD7U8&s=10" group-title="TAMIL FM RADIO ",FM Rainbow 101.4 Chennai HD
+http://51.79.87.236:7588/1?type=http
+#EXTINF:-1 tvg-id="" tvg-name="FM Gold 100.1 Chennai" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDhOTdvW0_cG4HBiwZ3NGom9j-jVveXDU1IKENJi0V909TWzYOHGdHPE4&s=10" group-title="TAMIL FM RADIO ",FM Gold 100.1 Chennai
+http://51.79.87.236:7588/2?type=http
+
+
 #EXTINF:-1,Radio Live SN HD, group-title="Tamil FM",Radio Live SN HD
 http://51.79.87.236:7188/1?type=http
 #EXTINF:-1,Hello Fm 106.4 Chennai HD, group-title="Tamil FM",Hello Fm 106.4 Chennai HD
