@@ -8,3 +8,6 @@ http://stream2.oppocast.com/mi_stream
 http://51.222.30.35:7388/1?type=http
 #EXTINF:-1 tvg-id="" tvg-name="BIG FM 92.7 Chennai HD,group-title="TAMIL FM RADIO ",BIG FM 92.7 Chennai HD
 http://51.222.30.35:7488/1?type=http
+
+#EXTINF:-1, tvg-id="BBC", tvg-name="BBC One", group-title="UK Channels" 
+http://51.79.87.236:7188/1?type=http
