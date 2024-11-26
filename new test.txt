@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1, group-title="UK Channels" ,BIG FM 92.7 Chennai HD
+http://51.79.87.236:7188/1?type=http
