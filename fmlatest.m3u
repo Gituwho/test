@@ -1,13 +1,3 @@
-#EXTINF:-1 tvg-id="" tvg-name="Radio Live SN HD,group-title="TAMIL FM RADIO ",Radio Live SN HD
-http://51.79.87.236:7188/1?type=http
-#EXTINF:-1 tvg-id="" tvg-name="Hello Fm 106.4 Chennai HD,goup-titleoup-title="TAMIL FM RADIO ",Hello Fm 106.4 Chennai HD
-http://51.222.206.112:7088/1?type=http
-#EXTINF:-1 tvg-id="" tvg-name="Radio Mirchi 98.3 Chennai HD,roup-title="TAMIL FM RADIO ",Radio Mirchi 98.3 Chennai HD
-http://stream2.oppocast.com/mi_stream
-#EXTINF:-1 tvg-id="" tvg-name="Radio City 91.1 Chennai HD,group-title="TAMIL FM RADIO ",Radio City 91.1 Chennai HD
-http://51.222.30.35:7388/1?type=http
-#EXTINF:-1 tvg-id="" tvg-name="BIG FM 92.7 Chennai HD,group-title="TAMIL FM RADIO ",BIG FM 92.7 Chennai HD
-http://51.222.30.35:7488/1?type=http
-
-#EXTINF:-1, tvg-id="BBC", tvg-name="BBC One", group-title="UK Channels" 
+#EXTM3U
+#EXTINF:-1, group-title="UK Channels" ,BIG FM 92.7 Chennai HD
 http://51.79.87.236:7188/1?type=http
