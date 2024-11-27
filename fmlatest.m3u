@@ -717,8 +717,6 @@ http://198.27.66.225:8498/stream/
 http://149.56.234.138:8037/stream/
 #EXTINF:-1, group-title="Tamil FM Radio" , IBC Tamil
 http://10454.cloudrad.io:6176/live
-#EXTINF:-1, group-title="Tamil FM Radio" , Hello FM 106.4
-https://stream.zenolive.com/4g65yz9gg0quv
 #EXTINF:-1, group-title="Tamil FM Radio" , Sooriyan FM
 https://radio.lotustechnologieslk.net:8006/stream.mp3
 #EXTINF:-1, group-title="Tamil FM Radio" , Suryan FM
@@ -1073,8 +1071,6 @@ https://psrlive2.listenon.in/arr?ah=0e81749e37789e5fb8c290926ce87e3f
 http://node-22.zeno.fm/phv06yfkwzzuv
 #EXTINF:-1, group-title="Tamil FM Radio" ,Harris Jayaraj Radio
 https://psrlive2.listenon.in/hjr?ah=0e81749e37789e5fb8c290926ce87e3f
-#EXTINF:-1, group-title="Tamil FM Radio" ,Hello FM 106.4
-https://stream.zenolive.com/4g65yz9gg0quv.aac
 #EXTINF:-1, group-title="Tamil FM Radio" ,Ilayaraja Lite Radio
 https://psrlive2.listenon.in/irlite?ah=0e81749e37789e5fb8c290926ce87e3f
 #EXTINF:-1, group-title="Tamil FM Radio" ,Ilayaraja Radio
