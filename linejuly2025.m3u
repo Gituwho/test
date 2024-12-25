@@ -1,0 +1,250 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/TAMIL.png" group-title="ASIA | PREMIUM VIP",playlist expiry july2025
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/TAMIL.png" group-title="ASIA | PREMIUM VIP",IN-PREM| TAMIL 1
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1019905&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/TAMIL.png" group-title="ASIA | PREMIUM VIP",IN-PREM| TAMIL 2
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1019914&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/TAMIL.png" group-title="ASIA | PREMIUM VIP",IN-PREM| TAMIL 3
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1019906&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/TAMIL.png" group-title="ASIA | PREMIUM VIP",IN-PREM| TAMIL 4
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1019907&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/TAMIL.png" group-title="ASIA | PREMIUM VIP",IN-PREM| TAMIL 5
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1019908&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/TAMIL.png" group-title="ASIA | PREMIUM VIP",IN-PREM| TAMIL 6
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1019909&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/TAMIL.png" group-title="ASIA | PREMIUM VIP",IN-PREM| TAMIL 7
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1019910&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/TAMIL.png" group-title="ASIA | PREMIUM VIP",IN-PREM| TAMIL 8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1019911&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/TAMIL.png" group-title="ASIA | PREMIUM VIP",IN-PREM| TAMIL 9
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1019912&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/TAMIL.png" group-title="ASIA | PREMIUM VIP",IN-PREM| TAMIL 10
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1019913&extension=ts
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CINEMANIA.png" group-title="ASIA | TAMIL",TAMIL| CINEMANIA 4K
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1438226&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/AFLIX.png" group-title="ASIA | TAMIL",TAMIL| &FLIX FHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526436&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/3-TAMIL.png" group-title="ASIA | TAMIL",TAMIL| 3 TAMIL TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526425&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/7S-MUSIC.png" group-title="ASIA | TAMIL",TAMIL| 7S MUSIC
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=281866&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/7S-MUSIC.png" group-title="ASIA | TAMIL",TAMIL| 7S MUSIC
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526441&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AASEERVATHAM-TV.png" group-title="ASIA | TAMIL",TAMIL| AASEERVATHAM
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1097674&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ADHTIYA.png" group-title="ASIA | TAMIL",TAMIL| ADHTIYA TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155892&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ADITHYA.png" group-title="ASIA | TAMIL",TAMIL| ADITHYA TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526454&extension=ts
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Astro-Vaanavil.png" group-title="ASIA | TAMIL",TAMIL| Astro Vaanavil HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526422&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Astro-Vellithirai.png" group-title="ASIA | TAMIL",TAMIL| Astro Vellithirai FHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526421&extension=ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/AstroVellithiraiHD.png" group-title="ASIA | TAMIL",TAMIL| Astro Vellithirai FHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526423&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ATHAVAN.png" group-title="ASIA | TAMIL",TAMIL| ATHAVAN TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526457&extension=ts
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CHITHIRAM.png" group-title="ASIA | TAMIL",TAMIL| CHITHIRAM TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526442&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CHUTTI.png" group-title="ASIA | TAMIL",TAMIL| CHUTTI TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155896&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/CINEMA-TAMIL.jpg" group-title="ASIA | TAMIL",TAMIL| CINEMA TAMIL
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1097662&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/colors.png" group-title="ASIA | TAMIL",TAMIL| COLORS FHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155888&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/COLORS.png" group-title="ASIA | TAMIL",TAMIL| COLORS HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526452&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/COLORS-TAMIL.png" group-title="ASIA | TAMIL",TAMIL| COLORS TAMIL SD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526453&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/D-TAMIL.png" group-title="ASIA | TAMIL",TAMIL| D TAMIL
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526438&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DD-PODHIGAI.png" group-title="ASIA | TAMIL",TAMIL| DD PODHIGAI
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155911&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DD-SAPTAGIRI.png" group-title="ASIA | TAMIL",TAMIL| DD SAPTAGIRI
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155894&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DHEERAN.png" group-title="ASIA | TAMIL",TAMIL| DHEERAN TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=281874&extension=ts
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ISAI-ARUVI.png" group-title="ASIA | TAMIL",TAMIL| ISAI ARUVI
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526459&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ISAIARUVI.png" group-title="ASIA | TAMIL",TAMIL| ISAIARUVI
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526463&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/J-MOVIES.png" group-title="ASIA | TAMIL",TAMIL| J MOVIES
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155921&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/JAYA-MAX.png" group-title="ASIA | TAMIL",TAMIL| JAYA MAX
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155893&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/JAYA-PLUS.png" group-title="ASIA | TAMIL",TAMIL| JAYA PLUS
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155891&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/JAYA-TV.png" group-title="ASIA | TAMIL",TAMIL| JAYA TV FHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155878&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/JAYA-TV.png" group-title="ASIA | TAMIL",TAMIL| JAYA TV HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526446&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/JOTHI.png" group-title="ASIA | TAMIL",TAMIL| JOTHI TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526445&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KALAIGNAR.png" group-title="ASIA | TAMIL",TAMIL| KALAIGNAR TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526426&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ktv.png" group-title="ASIA | TAMIL",TAMIL| KTV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=281859&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ktv.png" group-title="ASIA | TAMIL",TAMIL| KTV FHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155882&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MADHA.png" group-title="ASIA | TAMIL",TAMIL| MADHA TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155929&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MADHIMUGHAM.png" group-title="ASIA | TAMIL",TAMIL| MADHIMUGHAM TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155904&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAKKAL.png" group-title="ASIA | TAMIL",TAMIL| MAKKAL TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155907&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MALAI-MURASU-SEITHIKAL.png" group-title="ASIA | TAMIL",TAMIL| MALAI MURASU SEITHIKAL
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1097673&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/MALAR.png" group-title="ASIA | TAMIL",TAMIL| MALAR TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1097667&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MEGA-24.png" group-title="ASIA | TAMIL",TAMIL| MEGA 24
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526449&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MEGA-MUSIQ.png" group-title="ASIA | TAMIL",TAMIL| MEGA MUSIQ
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526448&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MEGA.png" group-title="ASIA | TAMIL",TAMIL| MEGA TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526450&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MK-MUSIC.png" group-title="ASIA | TAMIL",TAMIL| MK MUSIC
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155916&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MTUNES-.png" group-title="ASIA | TAMIL",TAMIL| MK TUNES
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1097671&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MK.png" group-title="ASIA | TAMIL",TAMIL| MK TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155933&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MOON.png" group-title="ASIA | TAMIL",TAMIL| MOON TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155931&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MURASU.png" group-title="ASIA | TAMIL",TAMIL| MURASU TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526443&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/NAMBIKKAI.png" group-title="ASIA | TAMIL",TAMIL| NAMBIKKAI TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=281892&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/NAMBIKKAI.png" group-title="ASIA | TAMIL",TAMIL| NAMBIKKAI TV HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155925&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/NAT-GEO.png" group-title="ASIA | TAMIL",TAMIL| NAT GEO TAMIL FHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155884&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/NAT-GEO-WILD.png" group-title="ASIA | TAMIL",TAMIL| NAT GEO WILD TAMIL FHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155877&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/NEWS-18-TAMIL-NADU.png" group-title="ASIA | TAMIL",TAMIL| NEWS 18 TAMIL NADU
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155914&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/NEWS-7.png" group-title="ASIA | TAMIL",TAMIL| NEWS 7
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155918&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/NEWS-J.png" group-title="ASIA | TAMIL",TAMIL| NEWS J
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=281895&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/NEWS-TAMIL-247.png" group-title="ASIA | TAMIL",TAMIL| NEWS TAMIL 24x7
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526464&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PEPPERS.png" group-title="ASIA | TAMIL",TAMIL| PEPPERS
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=281896&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/POGO.png" group-title="ASIA | TAMIL",TAMIL| POGO
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526439&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/POLIMER-NEWS.png" group-title="ASIA | TAMIL",TAMIL| POLIMER NEWS
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155902&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/POLIMER.png" group-title="ASIA | TAMIL",TAMIL| POLIMER TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155909&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PUTHIYA-THALAIMURAI.png" group-title="ASIA | TAMIL",TAMIL| PUTHIYA THALAIMURAI
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1097670&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PUTHIYA-THALAIMURAI.png" group-title="ASIA | TAMIL",TAMIL| PUTHIYA THALAIMURAI HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155919&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PUTHUYUGAM.png" group-title="ASIA | TAMIL",TAMIL| PUTHUYUGAM
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155898&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PUTIYA-THALAMURAI.png" group-title="ASIA | TAMIL",TAMIL| PUTIYA THALAMURAI
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526447&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/RAJ.png" group-title="ASIA | TAMIL",TAMIL| RAJ  TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526465&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/RAJ-DIGITAL-PLUS.png" group-title="ASIA | TAMIL",TAMIL| RAJ DIGITAL PLUS
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526466&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/RAJ-DIGITAL-PLUS.png" group-title="ASIA | TAMIL",TAMIL| RAJ DIGITAL PLUS HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155908&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/RAJ-MUSIX.png" group-title="ASIA | TAMIL",TAMIL| RAJ MUSIX
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155913&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/RAJ-NEWS.png" group-title="ASIA | TAMIL",TAMIL| RAJ NEWS
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155905&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/RAJ.png" group-title="ASIA | TAMIL",TAMIL| RAJ TV HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155910&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SAHANA.png" group-title="ASIA | TAMIL",TAMIL| SAHANA
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=281900&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SAI.png" group-title="ASIA | TAMIL",TAMIL| SAI TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=281902&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SAIRAM.png" group-title="ASIA | TAMIL",TAMIL| SAIRAM TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=281901&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SALVATION.png" group-title="ASIA | TAMIL",TAMIL| SALVATION TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155934&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SANKARA.png" group-title="ASIA | TAMIL",TAMIL| SANKARA TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=281903&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SATHIYAM.png" group-title="ASIA | TAMIL",TAMIL| SATHIYAM TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155906&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SEITHIGAL.png" group-title="ASIA | TAMIL",TAMIL| SEITHIGAL TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526460&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/Shalini.png" group-title="ASIA | TAMIL",TAMIL| SHALINI TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1097668&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SIRIPPOLI.png" group-title="ASIA | TAMIL",TAMIL| SIRIPPOLI
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526451&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-BBC-EARTH.png" group-title="ASIA | TAMIL",TAMIL| SONY BBC EARTH FHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155885&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-PIX.png" group-title="ASIA | TAMIL",TAMIL| SONY PIX FHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526444&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-YAY.png" group-title="ASIA | TAMIL",TAMIL| SONY YAY
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155900&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-VIJAY.png" group-title="ASIA | TAMIL",TAMIL| STAR VIJAY FHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155874&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-VIJAY.png" group-title="ASIA | TAMIL",TAMIL| STAR VIJAY TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=281855&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SUN-LIFE.png" group-title="ASIA | TAMIL",TAMIL| SUN LIFE
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526435&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SUN-LIFE.png" group-title="ASIA | TAMIL",TAMIL| SUN LIFE TAMIL HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155889&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SUN-MUSIC.png" group-title="ASIA | TAMIL",TAMIL| SUN MUSIC HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155881&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SUN-NEWS.png" group-title="ASIA | TAMIL",TAMIL| SUN NEWS TAMIL
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155890&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SUN.png" group-title="ASIA | TAMIL",TAMIL| SUN TV FHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155880&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SUN.png" group-title="ASIA | TAMIL",TAMIL| SUN TV HD (BP)
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=369375&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SVBC.png" group-title="ASIA | TAMIL",TAMIL| SVBC
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=281904&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SVBC-2.png" group-title="ASIA | TAMIL",TAMIL| SVBC 2
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=281905&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TAMIL-NAAPTOL.png" group-title="ASIA | TAMIL",TAMIL| TAMIL NAAPTOL
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526462&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TAMILAN.png" group-title="ASIA | TAMIL",TAMIL| TAMILAN TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155932&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TATA-SKY-TAMIL-CINEMA.png" group-title="ASIA | TAMIL",TAMIL| TATA SKY TAMIL CINEMA
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155883&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/THANTHI.png" group-title="ASIA | TAMIL",TAMIL| THANTHI TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=281908&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TRAVELXP.png" group-title="ASIA | TAMIL",TAMIL| TRAVEL XP
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526424&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TRAVELXP.png" group-title="ASIA | TAMIL",TAMIL| TRAVEL XP HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=281863&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TTN-24.png" group-title="ASIA | TAMIL",TAMIL| TTN 24 TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526458&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/tvi.png" group-title="ASIA | TAMIL",TAMIL| TVI
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526456&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/tvi.png" group-title="ASIA | TAMIL",TAMIL| TVI FHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155920&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/VAANAVIL.png" group-title="ASIA | TAMIL",TAMIL| VAANAVIL TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=281911&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/VALICHAM-PLUS.png" group-title="ASIA | TAMIL",TAMIL| VALICHAM PLUS
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155927&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/VANDHAR.png" group-title="ASIA | TAMIL",TAMIL| VANDHAR TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155903&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/VASANTH.png" group-title="ASIA | TAMIL",TAMIL| VASANTH TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155895&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/VENDHAR.png" group-title="ASIA | TAMIL",TAMIL| VENDHAR TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=281914&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/VIJAY-MUSIC.png" group-title="ASIA | TAMIL",TAMIL| VIJAY MUSIC
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1097660&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/VIJAY-SUPER.png" group-title="ASIA | TAMIL",TAMIL| VIJAY SUPER
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155875&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/WIN-NEWS.png" group-title="ASIA | TAMIL",TAMIL| WIN NEWS
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155926&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-TAMIL.png" group-title="ASIA | PREMIUM VIP",TAMIL| ZEE TAMIL FHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=281862&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-TAMIL.png" group-title="ASIA | TAMIL",TAMIL| ZEE TAMIL HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155876&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-TAMIL.png" group-title="ASIA | TAMIL",TAMIL| ZEE TAMIL SD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155901&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-THIRAI.png" group-title="ASIA | TAMIL",TAMIL| ZEE THIRAI
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526440&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-THIRAI.png" group-title="ASIA | TAMIL",TAMIL| ZEE THIRAI FHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155912&extension=ts
