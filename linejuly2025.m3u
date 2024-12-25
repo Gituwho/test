@@ -248,3 +248,21 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155901&ex
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=1526440&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-THIRAI.png" group-title="ASIA | TAMIL",TAMIL| ZEE THIRAI FHD
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:71:7F:0B&stream=155912&extension=ts
+
+async function handlePlaylistRequest(request) {
+  const userAgent = request.headers.get("User-Agent");
+  if (
+    !userAgent ||
+    (!userAgent.includes("OTT Navigator") &&
+      !userAgent.includes("TiviMate") &&
+      !userAgent.includes("okhttp") &&
+      !userAgent.includes("ExoPlayer") &&
+      !userAgent.includes("VLC") &&
+      userAgent.toLowerCase() !=
+        "mozilla/5.0 (windows nt 10.0; rv:78.0) gecko/20100101 firefox/78.0".toLowerCase())
+  ) {
+    return new Response("You are blocked", { status: 403 });
+  } else {
+    /// Remaining code here
+  }
+}
