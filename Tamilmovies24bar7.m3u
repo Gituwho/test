@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 group-title="0Tamil" tvg-logo="https://bmcloud.in/apis/apps/bmcloudimages/Emporar Tv Logo1.png",Emperor TV
+https://rtmp.bmlive.net/bms/emperortv/index.m3u8
+#EXTINF:-1 group-title="0Tamil" tvg-logo="http://nammaoorutv.com/dashboard/upicons/montamil_599x98v1.png",Mon Tamil TV
+http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+#EXTINF:-1 group-title="0Tamil" tvg-logo="https://yt3.googleusercontent.com/qJtAARymQp8a3Zu3il2H51b23-QQqT1yOC4njYqxFRksrhkWYZIUfEQ66db-9uWU5v45rxM-tyw=s176-c-k-c0x00ffffff-no-rj",MN TV
+http://mntv.livebox.co.in/mntvhls/live.m3u8
+#EXTINF:-1 group-title="0Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_0024535319624676210911606.png",Imai
+https://glb.bozztv.com/glb/ssh101/imaitv/index.m3u8
+#EXTINF:-1 group-title="0Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_0026202554836848690543423.png",7star Tv
+http://7starcloud.com:1935/live/7star/playlist.m3u8
+#EXTINF:-1 group-title="0Tamil",Murasu Link 2
+https://medtaor.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/plives/050522/murasu/playlist.m3u8
+#EXTINF:-1 group-title="0Tamil",7Star TV
+http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
+#EXTINF:-1 group-title="0Tamil",RIO TV
+https://ipcloud.live/riotv/riotvhd/index.m3u8
+#EXTINF:-1 group-title="0Tamil",Abinaya TV
+https://ipcloud.live/abinayatv/abinayatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="0Tamil Rasi, Rasi Tamil
+#http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/media.m3u8
+rtmp://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac
+#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/de7e781db9e296abd990d6b1bb7e9673.png" group-title="0Tamil Rasi,Rasi Movies
+#http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/index.m3u8
+rtmp://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png?20101220235006" group-title="0Tamil Rasi, Rasi Cinemax TV
+rtmp://rasinetworks.in:1935/rasicinemax/rasicinemax.stream_aac
+#http://rasinetworks.in:1935/rasicinemax/rasicinemax.stream_aac/media.m3u8
+#EXTINF:-1 tvg-logo="https://st3.depositphotos.com/1688079/17310/i/450/depositphotos_173101668-stock-photo-cinema-black-round-button.jpg" group-title="0Tamil Rasi, Rasi Cinema TV
+#rtmp://rasinetworks.in:1935/rasicinema/rasicinema.stream_aac
+http://rasinetworks.in:1935/rasicinema/rasicinema.stream_aac/media.m3u8
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg" group-title="0Tamil Rasi, Rasi TV HD
+#http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/media.m3u8
+rtmp://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac
+#EXTINF:-1 tvg-logo="https://www.sunnetwork.in/ProgramImages/LargeImage/49_4_Colourful_Comedy_SAVE_20200706_112458_resize_79.jpg" group-title="0Tamil Rasi,Rasi comedy TV
+#https://tnm3u.in.net/channel/tamil.php?c=rasicomedy
+rtmp://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5Bj8dWZ/Picsart-23-05-28-13-29-12-254.jpg" group-title="0Tamil Rasi,Rasi Music
+#https://tnm3u.in.net/channel/tamil.php?c=rasimusic
+#rtmp://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac
+http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/media.m3u8
+#EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/22d27c42b8520f313cecda20686f9733.png" group-title="0Tamil Rasi,Rasi Hollywood
+#https://tnm3u.in.net/channel/tamil.php?c=rasihollywood
+#rtmp://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac
+http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/media.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4xQNa1C.jpeg" group-title="0Tamil Rasi,Firetamil TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/firetamil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bmcloud.in/apis/apps/bmcloudimages/Emporar Tv Logo1.png" group-title="0Tamil Rasi,Emperor TV
+https://rtmp.bmlive.net/bms/emperortv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Astro_Vellithirai_%282024%29.png" group-title="0Tamil Rasi,Vellithirai TV
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052412
+#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/montamil_599x98v1.png" group-title="0Tamil Rasi,Mon Tamil TV
+http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.webp?fakeurl=1&type=.webp" group-title="0Tamil Rasi, Rasi Lifestyle TV
+rtmp://rasinetworks.in:1935/rasilifestyle/lifestyle.stream_aac
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qJtAARymQp8a3Zu3il2H51b23-QQqT1yOC4njYqxFRksrhkWYZIUfEQ66db-9uWU5v45rxM-tyw=s176-c-k-c0x00ffffff-no-rj" group-title="0Tamil Rasi, MN TV
+http://mntv.livebox.co.in/mntvhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/template/20210511/ourmid/pngtree-modern-classic-logo-design-template-image_522847.png" group-title="0Tamil Rasi,Rasi Classic
+#https://tnm3u.in.net/channel/tamil.php?c=rasiclassic
+#rtmp://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac 
+http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/media.m3u8
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_0024535319624676210911606.png" group-title="0Tamil Rasi,Imai
+https://glb.bozztv.com/glb/ssh101/imaitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://forums.launchbox-app.com/uploads/monthly_2017_11/5a073831cc827_MovieLOGO.png.2d7cf9d452156a029c974795c8f3dfbd.png" group-title="0Tamil Rasi, OneMovies TV
+#rtmp://1cloud.digital/onetv/onemovies
+#https://1cloud.digital/onetv/onemovies/index.m3u8
+#https://ipcloud.live/onetv/onemovies/index.m3u8
+#https://ipcloud.live/demo/demo/index.m3u8
+https://stream.onecloudlive.in/onetv/onemovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FoneHollywoodHd.jpg?alt=media&token=0c552991-77ad-42de-9e4c-8c6f4847285e" group-title="0Tamil Rasi, One Hollywood HD
+#rtmp://1cloud.digital:1935/onetv/onehollywood
+#https://ipcloud.live/onetv/onehollywood/index.m3u8
+#https://ipcloud.live/demo/demo2/index.m3u8
+https://stream.onecloudlive.in/onetv/onehollywood/index.m3u8
+#EXTINF:-1 tvg-logo="https://st2.depositphotos.com/1498528/9192/v/950/depositphotos_91922214-stock-illustration-action-word-icon.jpg" group-title="0Tamil Rasi, Rasi Sarvam TV
+#rtmp://rasinetworks.in:1935/rasiaction/rasiaction.stream_aac
+http://rasinetworks.in:1935/rasiaction/rasiaction.stream_aac/media.m3u8
