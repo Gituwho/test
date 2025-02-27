@@ -15,7 +15,7 @@ http://7starcloud.com:1935/live/7star/playlist.m3u8
 https://medtaor.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/plives/050522/murasu/playlist.m3u8
 #EXTINF:-1 group-title="0Tamil",7Star TV
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
-#EXTINF:-1 tvg-id="Zee Thirai HD" tvg-logo="",Zee Thirai HD
+#EXTINF:-1 group-title="0Tamil",tvg-id="Zee Thirai HD" tvg-logo="",Zee Thirai HD
 http://activefrance.net:80/live/PMF3J9X/BV7HG8H/510441.ts
 #EXTINF:-1 group-title="0Tamil",RIO TV
 https://ipcloud.live/riotv/riotvhd/index.m3u8
@@ -79,5 +79,6 @@ https://stream.onecloudlive.in/onetv/onehollywood/index.m3u8
 #EXTINF:-1 tvg-logo="https://st2.depositphotos.com/1498528/9192/v/950/depositphotos_91922214-stock-illustration-action-word-icon.jpg" group-title="0Tamil Rasi, Rasi Sarvam TV
 #rtmp://rasinetworks.in:1935/rasiaction/rasiaction.stream_aac
 http://rasinetworks.in:1935/rasiaction/rasiaction.stream_aac/media.m3u8
+#EXTINF:-1 group-title="0Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_0026202554836848690543423.png",Vijaysuper
 
 http://atg100.xyz:80/UL33K17/SYC4T9D/72129
