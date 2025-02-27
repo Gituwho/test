@@ -5,6 +5,8 @@ https://rtmp.bmlive.net/bms/emperortv/index.m3u8
 http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 #EXTINF:-1 group-title="0Tamil" tvg-logo="https://yt3.googleusercontent.com/qJtAARymQp8a3Zu3il2H51b23-QQqT1yOC4njYqxFRksrhkWYZIUfEQ66db-9uWU5v45rxM-tyw=s176-c-k-c0x00ffffff-no-rj",MN TV
 http://mntv.livebox.co.in/mntvhls/live.m3u8
+#EXTINF: -1 tvg-chno="98" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240411_1507147472317502579290438.png" group-title="International", Star Tamil
+https://edge2-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8
 #EXTINF:-1 group-title="0Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_0024535319624676210911606.png",Imai
 https://glb.bozztv.com/glb/ssh101/imaitv/index.m3u8
 #EXTINF:-1 group-title="0Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_0026202554836848690543423.png",7star Tv
