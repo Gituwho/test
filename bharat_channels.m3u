@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:30,PuthiyathalaimuraiTV - index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI nanthan44444
+
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740784342/ei/du7BZ6SNJOztg8UPr9G1qQ0/ip/183.82.179.118/id/JjVJdsmOsrU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51393163/txs/51393160%2C51393161%2C51393162%2C51393163%2C51393164/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3y3pdjgLdISfXrIZ-4WM4HQ_qUO0tCbxznAa1UgrG6XATddIxjtkzpCm43_1zeL002KV2Otkzi1/spc/RjZbSQRR-jYJ_95aziVb0kM3MicP1xBQ-h0IGV1GQ2HQyE24ZXAoXZO3o-o-aDexW0mCGgs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgbqfXY8D4iJqnp50xvEMwEaE1tjWuq5hZAT6_QBhPhtQCIQC5gnDb9054_R95lfFOeQ0C4gAaY9adKNoktLBMQQ9Z-g%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI nanthan
