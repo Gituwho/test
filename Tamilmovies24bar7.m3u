@@ -1,5 +1,17 @@
 #EXTM3U
-new
+#EXTINF:-1,-1,Colors Tamil 4K Ultra HD
+http://bostv.asia:8080/uXcTfVTPQ3cZ/W5DJBE2pVWkv/122095
+#EXTINF:-1,-1,Zee Tamil 4K Ultra HD
+http://bostv.asia:8080/uXcTfVTPQ3cZ/W5DJBE2pVWkv/122103
+#EXTINF:-1,-1,24/7: Tamil Action movies 2024-2019
+http://bostv.asia:8080/uXcTfVTPQ3cZ/W5DJBE2pVWkv/131828
+#EXTINF:-1,-1,24/7: Tamil Action movies 2019-2018
+http://bostv.asia:8080/uXcTfVTPQ3cZ/W5DJBE2pVWkv/131829
+#EXTINF:-1,-1,24/7: Tamil Action movies 2014-2009
+http://bostv.asia:8080/uXcTfVTPQ3cZ/W5DJBE2pVWkv/131831
+#EXTINF:-1,-1,24/7: Tamil Action movies 2009-2001
+http://bostv.asia:8080/uXcTfVTPQ3cZ/W5DJBE2pVWkv/131832
+
 
 #EXTINF:-1 group-logo="https://i.ibb.co/WxSzQfV/Screenshot-2025-01-06-181955.png" tvg-id="59950" tvg-logo="" group-title="TATA-TV | TAMIL",24/7 | TRUE 4K TAMIL MOVIES
 https://allinonereborn.com/tata-tv1.php?id=59950
