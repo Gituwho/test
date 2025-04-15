@@ -115,8 +115,7 @@ end
 
 #EXTM3U TAMIL NEWS channel start ###
 
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/tamil/Sun_News.png" group-title="Tamil NEWS",Sun News
-#https://mycdn.tamilultratv.com/live.php?id=676&extension=.m3u8
+
 https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_News_MOB/Fallback/Sun_News_MOB-audio_98835_eng=98800-video=1272000.m3u8?__hdnea__=st=1739015851~exp=1739102251~acl=/*~hmac=af8625d562eba7b7407a2f034fd06869daf2558a8f6da124e9197f4aa4f830ee
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FTAMIL-NEWS%2FNEWS-18-TAMIL.png?alt=media&token=5e15b20a-507e-4458-bd00-e963aabf28b5" group-title="Tamil NEWS",News18 Tamil TV
 https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/index.m3u8
