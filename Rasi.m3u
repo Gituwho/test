@@ -1,5 +1,7 @@
 #EXTM3U
 
+#personal use only
+
 #EXTINF:-1 group-title="RASI CHANNEL" tvg-logo="https://bmcloud.in/apis/apps/bmcloudimages/Emporar Tv Logo1.png",Emperor TV
 https://rtmp.bmlive.net/bms/emperortv/index.m3u8
 #EXTINF:-1 group-title="RASI CHANNEL" tvg-logo="http://nammaoorutv.com/dashboard/upicons/montamil_599x98v1.png",Mon Tamil TV
@@ -86,6 +88,31 @@ http://atg100.xyz:80/UL33K17/SYC4T9D/72129
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/puthiyathalaimurai-black.png" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/YuppTV_logo.svg/2560px-YuppTV_logo.svg.png" group-title="Testing" , Puthiya Thalaimurai
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ex6JZgJ5vlmt_7K95JyKZRaEfgIe1jVqFZ8jhMo-a-r0bQhwcTbEeSTtsOnzNb7p3PHF=w240-h480-rw" group-title="Tamil Rasi",MaXMovies TV
+https://live.sscloud7.in/live/maxmovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QxadK0MHS7txDkDYQcAgTRpUGmXSiYlkF3R0542GRoy21gSQqzedS8wgeWTOgzGrJA=w240-h480-rw" group-title="Tamil Rasi", Vinayaga Movies
+rtmp://acv.7starcloud.com:1935/live/ramtv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YKWPRSw/amtv-copy-removebg-preview.png" group-title="Tamil Rasi",AM TV
+https://stream.iplive.xyz/amtv/amtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4xQNa1C.jpeg" group-title="Tamil Rasi",Firetamil TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/firetamil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/montamil_599x98v1.png" group-title="Tamil Rasi",Mon Tamil TV
+http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qJtAARymQp8a3Zu3il2H51b23-QQqT1yOC4njYqxFRksrhkWYZIUfEQ66db-9uWU5v45rxM-tyw=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil Rasi", MN TV
+http://mntv.livebox.co.in/mntvhls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_0024535319624676210911606.png" group-title="Tamil Rasi",Imai
+https://glb.bozztv.com/glb/ssh101/imaitv/index.m3u8
+
+
+
+
+
+
+
+
 end
 
 #EXTM3U TAMIL NEWS channel start ###
