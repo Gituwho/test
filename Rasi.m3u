@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="Tamil Movies Rasi" tvg-logo="https://bmcloud.in/apis/apps/bmcloudimages/Emporar Tv Logo1.png",GBO
+
+http://protech.tamilboxoffice.in/Internets/Tamil%20Movies/2025/Good%20Bad%20Ugly/1080/GBU_2025_TBO194.ts
 
 #EXTINF:-1 group-title="Tamil Movies Rasi" tvg-logo="https://bmcloud.in/apis/apps/bmcloudimages/Emporar Tv Logo1.png",Emperor TV
 https://rtmp.bmlive.net/bms/emperortv/index.m3u8
