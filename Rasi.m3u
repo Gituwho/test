@@ -107,6 +107,40 @@ http://mntv.livebox.co.in/mntvhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_0024535319624676210911606.png" group-title="Tamil Movies Rasi",Imai
 https://glb.bozztv.com/glb/ssh101/imaitv/index.m3u8
 
+------
+test
+#EXTINF:-1  tvg-name="Tamil cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734185&extension=ts&play_token=fx2dqiDWHw
+#EXTINF:-1  tvg-name="Tamil cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734186&extension=ts&play_token=I70fhu6Ers
+#EXTINF:-1  tvg-name="Tamil cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734174&extension=ts&play_token=Hn3pAViflO
+#EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 4
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734175&extension=ts&play_token=rWRhTbyexY
+#EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 5
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734160&extension=ts&play_token=w9RXNuUGOz
+#EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 6
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734172&extension=ts&play_token=EKUtz6qxXN
+#EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 7
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734169&extension=ts&play_token=iJtskXofsK
+#EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 8
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734163&extension=ts&play_token=73p0A17uzE
+#EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 9
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734159&extension=ts&play_token=RWiDZWSEiy
+#EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 10
+https://ranapk.spidy.online/MACX/TATACC/play.php?id=59527
+#EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/KFHXF5F/images.jpg",Tamil Cinema HD 11
+http://opplex.ch:8080/10071975/10071975/390562
+#EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/KFHXF5F/images.jpg",Tamil Cinema HD 12
+http://opplex.ch:8080/10071975/10071975/390563
+#EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/KFHXF5F/images.jpg",Tamil Cinema HD 13
+http://opplex.ch:8080/10071975/10071975/390567
+#EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/KFHXF5F/images.jpg",Tamil Cinema HD 14
+http://opplex.ch:8080/10071975/10071975/390568
+#EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/KFHXF5F/images.jpg",Tamil Cinema HD 15
+https://ranapk.spidy.online/MACX/TATACC/play.php?id=61915
+#EXTINF:-1  tvg-name="Tamil Songs" group-title="Tamil Premium" tvg-logo="https://i.postimg.cc/3RxbPVdD/cropped-image.png",Tamil Songs 1
+https://ranapk.spidy.online/MACX/STREAM4Kx/play.m3u8?id=3389
 
 
 
