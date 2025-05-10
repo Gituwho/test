@@ -45,8 +45,8 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1438226&ext
 
 
 
-
-
+#EXTINF:-1 tvg-logo="" group-title="Tamil Movies Rasi",Vijay SUper
+http://nonamevos.com:80/live/billy1/billy1/5017.ts
 #EXTINF:-1 tvg-logo="" group-title="Tamil Movies Rasi",Sss hd
 rtmp://103.78.164.62/static/SSSHD
 #EXTINF:-1 tvg-logo="" group-title="Tamil Movies Rasi",VTAMILHD
