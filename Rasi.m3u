@@ -1,49 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/TAMIL.png" group-title="ASIA | PREMIUM VIP",IN-PREM| TAMIL 2022
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1024831&extension=ts&play_token
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/TAMIL.png" group-title="ASIA | PREMIUM VIP",IN-PREM| TAMIL 1
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019905&extension=ts&play_token
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/TAMIL.png" group-title="ASIA | PREMIUM VIP",IN-PREM| TAMIL 2
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019914&extension=ts&play_token
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/TAMIL.png" group-title="ASIA | PREMIUM VIP",IN-PREM| TAMIL 3
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019906&extension=ts&play_token
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/TAMIL.png" group-title="ASIA | PREMIUM VIP",IN-PREM| TAMIL 4
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019907&extension=ts&play_token
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/TAMIL.png" group-title="ASIA | PREMIUM VIP",IN-PREM| TAMIL 5
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019908&extension=ts&play_token
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/TAMIL.png" group-title="ASIA | PREMIUM VIP",IN-PREM| TAMIL 6
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019909&extension=ts&play_token
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/TAMIL.png" group-title="ASIA | PREMIUM VIP",IN-PREM| TAMIL 7
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019910&extension=ts&play_token
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/TAMIL.png" group-title="ASIA | PREMIUM VIP",IN-PREM| TAMIL 8
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019911&extension=ts&play_token
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/TAMIL.png" group-title="ASIA | PREMIUM VIP",IN-PREM| TAMIL 9
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019912&extension=ts&play_token
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/TAMIL.png" group-title="ASIA | PREMIUM VIP",IN-PREM| TAMIL 10
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019913&extension=ts&play_token
-#EXTINF:-1 tvg-logo="" group-title="ASIA | PREMIUM VIP",##### TAMIL PREMIUM #####
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=636363&extension=ts&play_token
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/636362.png" group-title="ASIA | PREMIUM VIP",TM-PREM| SOLO MOVIES 1
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=636362&extension=ts&play_token
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/636361.png" group-title="ASIA | PREMIUM VIP",TM-PREM| SOLO MOVIES 2
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=636361&extension=ts&play_token
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/premium.png" group-title="ASIA | PREMIUM VIP",TM-PREM| SOLO MOVIES 3
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=636359&extension=ts&play_token
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/premium.png" group-title="ASIA | PREMIUM VIP",TM-PREM| SOLO MOVIES 4
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=636358&extension=ts&play_token
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/premium.png" group-title="ASIA | PREMIUM VIP",TM-PREM| SOLO MOVIES 5
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=636357&extension=ts&play_token
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/premium.png" group-title="ASIA | PREMIUM VIP",TM-PREM| SOLO MOVIES 6
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=636356&extension=ts&play_token
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/premium.png" group-title="ASIA | PREMIUM VIP",TM-PREM| SOLO MOVIES 7
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=636355&extension=ts&play_token
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TATA-SKY-TAMIL-CINEMA.png" group-title="ASIA | TAMIL",TAMIL| TATA SKY TAMIL CINEMA
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155883&extension=ts&play_token
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CINEMANIA.png" group-title="ASIA | TAMIL",TAMIL| CINEMANIA 4K
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1438226&extension=ts&play_token
-
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil Movies Rasi",Vijay SUper
 http://nonamevos.com:80/live/billy1/billy1/5017.ts
@@ -155,7 +110,7 @@ rtmp://acv.7starcloud.com:1935/live/ramtv
 https://stream.iplive.xyz/amtv/amtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4xQNa1C.jpeg" group-title="Tamil Movies Rasi",Firetamil TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/firetamil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/montamil_599x98v1.png" group-title="Tamil Movies Rasi",Mon Tamil TV
+#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/montamil_599x98v1.png" group-title="Tamil Rasi fast",Mon Tamil TV
 http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qJtAARymQp8a3Zu3il2H51b23-QQqT1yOC4njYqxFRksrhkWYZIUfEQ66db-9uWU5v45rxM-tyw=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil Movies Rasi", MN TV
@@ -163,43 +118,43 @@ http://mntv.livebox.co.in/mntvhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_0024535319624676210911606.png" group-title="Tamil Movies Rasi",Imai
 https://glb.bozztv.com/glb/ssh101/imaitv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tamil Rasi fast",Sss hd
+#EXTINF:-1 tvg-logo="" group-title="Tamil Movies Rasi",Sss hd
 rtmp://103.78.164.62/static/SSSHD
-#EXTINF:-1 tvg-logo="" group-title="Tamil Rasi fast",VTAMILHD
+#EXTINF:-1 tvg-logo="" group-title="Tamil Movies Rasi",VTAMILHD
 https://iptvhls.inet.moe/hls/tamilhd_src/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tamil Rasi fast",B Tv
+#EXTINF:-1 tvg-logo="" group-title="Tamil Movies Rasi",B Tv
 https://rtmp.applelive.in/boobsh/boobsh/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Tamil Rasi fast",MMCLASSIC
+#EXTINF:-1 tvg-logo="" group-title="Tamil Movies Rasi",MMCLASSIC
 rtmp://103.78.164.62/static/MMCLASSIC
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ex6JZgJ5vlmt_7K95JyKZRaEfgIe1jVqFZ8jhMo-a-r0bQhwcTbEeSTtsOnzNb7p3PHF=w240-h480-rw" group-title="Tamil Rasi fast",MaXMovies TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ex6JZgJ5vlmt_7K95JyKZRaEfgIe1jVqFZ8jhMo-a-r0bQhwcTbEeSTtsOnzNb7p3PHF=w240-h480-rw" group-title="Tamil Movies Rasi",MaXMovies TV
 https://live.sscloud7.in/live/maxmovies/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st3.depositphotos.com/1688079/17310/i/450/depositphotos_173101668-stock-photo-cinema-black-round-button.jpg" group-title="Tamil Rasi fast", Rasi Cinema TV
+#EXTINF:-1 tvg-logo="https://st3.depositphotos.com/1688079/17310/i/450/depositphotos_173101668-stock-photo-cinema-black-round-button.jpg" group-title="Tamil Movies Rasi", Rasi Cinema TV
 rtmp://rasinetworks.in:1935/rasicinema/rasicinema.stream_aac
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YKWPRSw/amtv-copy-removebg-preview.png" group-title="Tamil Rasi fast",AM TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YKWPRSw/amtv-copy-removebg-preview.png" group-title="Tamil Movies Rasi",AM TV
 https://stream.iplive.xyz/amtv/amtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/22d27c42b8520f313cecda20686f9733.png" group-title="Tamil Rasi fast",Rasi Hollywood
+#EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/22d27c42b8520f313cecda20686f9733.png" group-title="Tamil Movies Rasi",Rasi Hollywood
 rtmp://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4xQNa1C.jpeg" group-title="Tamil Rasi fast",Firetamil TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4xQNa1C.jpeg" group-title="Tamil Movies Rasi",Firetamil TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/firetamil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bmcloud.in/apis/apps/bmcloudimages/Emporar Tv Logo1.png" group-title="Tamil Rasi fast",Emperor TV
+#EXTINF:-1 tvg-logo="https://bmcloud.in/apis/apps/bmcloudimages/Emporar Tv Logo1.png" group-title="Tamil Movies Rasi",Emperor TV
 https://rtmp.bmlive.net/bms/emperortv/index.m3u8
-#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/montamil_599x98v1.png" group-title="Tamil Rasi fast",Mon Tamil TV
+#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/montamil_599x98v1.png" group-title="Tamil Movies Rasi",Mon Tamil TV
 http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.webp?fakeurl=1&type=.webp" group-title="Tamil Rasi fast", Rasi Lifestyle TV
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.webp?fakeurl=1&type=.webp" group-title="Tamil Movies Rasi", Rasi Lifestyle TV
 rtmp://rasinetworks.in:1935/rasilifestyle/lifestyle.stream_aac
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qJtAARymQp8a3Zu3il2H51b23-QQqT1yOC4njYqxFRksrhkWYZIUfEQ66db-9uWU5v45rxM-tyw=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil Rasi fast", MN TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qJtAARymQp8a3Zu3il2H51b23-QQqT1yOC4njYqxFRksrhkWYZIUfEQ66db-9uWU5v45rxM-tyw=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil Movies Rasi", MN TV
 http://mntv.livebox.co.in/mntvhls/live.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/template/20210511/ourmid/pngtree-modern-classic-logo-design-template-image_522847.png" group-title="Tamil Rasi fast",Rasi Classic
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/template/20210511/ourmid/pngtree-modern-classic-logo-design-template-image_522847.png" group-title="Tamil Movies Rasi",Rasi Classic
 rtmp://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac 
-#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_0024535319624676210911606.png" group-title="Tamil Rasi fast",Imai
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_0024535319624676210911606.png" group-title="Tamil Movies Rasi",Imai
 https://glb.bozztv.com/glb/ssh101/imaitv/index.m3u8
-#EXTINF:-1 tvg-logo="https://st2.depositphotos.com/1498528/9192/v/950/depositphotos_91922214-stock-illustration-action-word-icon.jpg" group-title="Tamil Rasi fast", Rasi Sarvam TV
+#EXTINF:-1 tvg-logo="https://st2.depositphotos.com/1498528/9192/v/950/depositphotos_91922214-stock-illustration-action-word-icon.jpg" group-title="Tamil Movies Rasi", Rasi Sarvam TV
 rtmp://rasinetworks.in:1935/rasiaction/rasiaction.stream_aac
 
 #EXTINF:-1 tvg-id="70" tvg-chno="537" tvg-name="thalaa-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png" group-title="Music", Thalaa TV
@@ -210,41 +165,6 @@ https://in1.sunilprasad.com.np/yuppLive/thalaa-tv/master.m3u8
 
 
 ------
-test
-#EXTINF:-1  tvg-name="Tamil cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 1
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734185&extension=ts&play_token=fx2dqiDWHw
-#EXTINF:-1  tvg-name="Tamil cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 2
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734186&extension=ts&play_token=I70fhu6Ers
-#EXTINF:-1  tvg-name="Tamil cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 3
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734174&extension=ts&play_token=Hn3pAViflO
-#EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 4
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734175&extension=ts&play_token=rWRhTbyexY
-#EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 5
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734160&extension=ts&play_token=w9RXNuUGOz
-#EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 6
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734172&extension=ts&play_token=EKUtz6qxXN
-#EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 7
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734169&extension=ts&play_token=iJtskXofsK
-#EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 8
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734163&extension=ts&play_token=73p0A17uzE
-#EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 9
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734159&extension=ts&play_token=RWiDZWSEiy
-#EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 10
-https://ranapk.spidy.online/MACX/TATACC/play.php?id=59527
-#EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/KFHXF5F/images.jpg",Tamil Cinema HD 11
-http://opplex.ch:8080/10071975/10071975/390562
-#EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/KFHXF5F/images.jpg",Tamil Cinema HD 12
-http://opplex.ch:8080/10071975/10071975/390563
-#EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/KFHXF5F/images.jpg",Tamil Cinema HD 13
-http://opplex.ch:8080/10071975/10071975/390567
-#EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/KFHXF5F/images.jpg",Tamil Cinema HD 14
-http://opplex.ch:8080/10071975/10071975/390568
-#EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/KFHXF5F/images.jpg",Tamil Cinema HD 15
-https://ranapk.spidy.online/MACX/TATACC/play.php?id=61915
-#EXTINF:-1  tvg-name="Tamil Songs" group-title="Tamil Premium" tvg-logo="https://i.postimg.cc/3RxbPVdD/cropped-image.png",Tamil Songs 1
-https://ranapk.spidy.online/MACX/STREAM4Kx/play.m3u8?id=3389
-
-
 
 
 
@@ -348,6 +268,38 @@ https://edge2-moblive.yuppcdn.net/trans1sd/smil:vatv07.smil/playlist.m3u8
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
 
 
+#EXTINF:-1 tvg-id="205" tvg-chno="526" tvg-name="athavan-tv-hd" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/athavan-tv-hd.png" group-title="Entertainment", Athavan TV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/athavan-tv-hd/master.m3u8
+
+#EXTINF:-1 tvg-id="119" tvg-chno="504" tvg-name="seithigal-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/seithigal-tv.png" group-title="News", Seithigal TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/seithigal-tv/master.m3u8#EXTINF:-1 tvg-id="113" tvg-chno="528" tvg-name="peppers-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/peppers-tv.png" group-title="Entertainment", Peppers TV
+
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/peppers-tv/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="167" tvg-chno="527" tvg-name="moon-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/moon-tv.png" group-title="Entertainment", Moon TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/moon-tv/master.m3u8
+
+
+#EXTINF:-1 tvg-id="70" tvg-chno="537" tvg-name="thalaa-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png" group-title="Music", Thalaa TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/thalaa-tv/master.m3u8
 
 
 end
