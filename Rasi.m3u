@@ -78,27 +78,23 @@ https://ipcloud.live/riotv/riotvhd/index.m3u8
 #EXTINF:-1 group-title="Tamil Movies Rasi",Abinaya TV
 https://ipcloud.live/abinayatv/abinayatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Tamil Movies Rasi", Rasi Tamil
-#http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/media.m3u8
+#rtmp://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/media.m3u8
 rtmp://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac
 #EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/de7e781db9e296abd990d6b1bb7e9673.png" group-title="Tamil Movies Rasi",Rasi Movies
-#http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/index.m3u8
 rtmp://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png?20101220235006" group-title="Tamil Movies Rasi", Rasi Cinemax TV
 rtmp://rasinetworks.in:1935/rasicinemax/rasicinemax.stream_aac
-#http://rasinetworks.in:1935/rasicinemax/rasicinemax.stream_aac/media.m3u8
 #EXTINF:-1 tvg-logo="https://st3.depositphotos.com/1688079/17310/i/450/depositphotos_173101668-stock-photo-cinema-black-round-button.jpg" group-title="Tamil Movies Rasi", Rasi Cinema TV
 #rtmp://rasinetworks.in:1935/rasicinema/rasicinema.stream_aac
 http://rasinetworks.in:1935/rasicinema/rasicinema.stream_aac/media.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg" group-title="Tamil Movies Rasi", Rasi TV HD
 #http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/media.m3u8
 rtmp://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac
-#EXTINF:-1 tvg-logo="https://www.sunnetwork.in/ProgramImages/LargeImage/49_4_Colourful_Comedy_SAVE_20200706_112458_resize_79.jpg" group-title="Tamil Movies Rasi",Rasi comedy TV
-#https://tnm3u.in.net/channel/tamil.php?c=rasicomedy
+#EXTINF:-1 tvg-logo="https://www.sunnetwork.in/ProgramImages/LargeImage/49_4_Colourful_Comedy_SAVE_20200706_112458_resize_79.jpg" group-title="Tamil Rasi fast",Rasi comedy TV
 rtmp://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5Bj8dWZ/Picsart-23-05-28-13-29-12-254.jpg" group-title="Tamil Movies Rasi",Rasi Music
 #https://tnm3u.in.net/channel/tamil.php?c=rasimusic
 #rtmp://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac
-http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/media.m3u8
 #EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/22d27c42b8520f313cecda20686f9733.png" group-title="Tamil Movies Rasi",Rasi Hollywood
 #https://tnm3u.in.net/channel/tamil.php?c=rasihollywood
 #rtmp://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac
@@ -145,6 +141,9 @@ http://rasinetworks.in:1935/rasiaction/rasiaction.stream_aac/media.m3u8
 
 http://atg100.xyz:80/UL33K17/SYC4T9D/72129
 
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg" group-title="Tamil Rasi fast", Rasi TV HD
+rtmp://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac
+
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/puthiyathalaimurai-black.png" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/YuppTV_logo.svg/2560px-YuppTV_logo.svg.png" group-title="Testing" , Puthiya Thalaimurai
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 
@@ -164,6 +163,51 @@ http://mntv.livebox.co.in/mntvhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_0024535319624676210911606.png" group-title="Tamil Movies Rasi",Imai
 https://glb.bozztv.com/glb/ssh101/imaitv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Rasi fast",Sss hd
+rtmp://103.78.164.62/static/SSSHD
+#EXTINF:-1 tvg-logo="" group-title="Tamil Rasi fast",VTAMILHD
+https://iptvhls.inet.moe/hls/tamilhd_src/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Rasi fast",B Tv
+https://rtmp.applelive.in/boobsh/boobsh/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Rasi fast",MMCLASSIC
+rtmp://103.78.164.62/static/MMCLASSIC
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ex6JZgJ5vlmt_7K95JyKZRaEfgIe1jVqFZ8jhMo-a-r0bQhwcTbEeSTtsOnzNb7p3PHF=w240-h480-rw" group-title="Tamil Rasi fast",MaXMovies TV
+https://live.sscloud7.in/live/maxmovies/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://st3.depositphotos.com/1688079/17310/i/450/depositphotos_173101668-stock-photo-cinema-black-round-button.jpg" group-title="Tamil Rasi fast", Rasi Cinema TV
+rtmp://rasinetworks.in:1935/rasicinema/rasicinema.stream_aac
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YKWPRSw/amtv-copy-removebg-preview.png" group-title="Tamil Rasi fast",AM TV
+https://stream.iplive.xyz/amtv/amtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/22d27c42b8520f313cecda20686f9733.png" group-title="Tamil Rasi fast",Rasi Hollywood
+rtmp://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4xQNa1C.jpeg" group-title="Tamil Rasi fast",Firetamil TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/firetamil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bmcloud.in/apis/apps/bmcloudimages/Emporar Tv Logo1.png" group-title="Tamil Rasi fast",Emperor TV
+https://rtmp.bmlive.net/bms/emperortv/index.m3u8
+#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/montamil_599x98v1.png" group-title="Tamil Rasi fast",Mon Tamil TV
+http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.webp?fakeurl=1&type=.webp" group-title="Tamil Rasi fast", Rasi Lifestyle TV
+rtmp://rasinetworks.in:1935/rasilifestyle/lifestyle.stream_aac
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qJtAARymQp8a3Zu3il2H51b23-QQqT1yOC4njYqxFRksrhkWYZIUfEQ66db-9uWU5v45rxM-tyw=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil Rasi fast", MN TV
+http://mntv.livebox.co.in/mntvhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/template/20210511/ourmid/pngtree-modern-classic-logo-design-template-image_522847.png" group-title="Tamil Rasi fast",Rasi Classic
+rtmp://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac 
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_0024535319624676210911606.png" group-title="Tamil Rasi fast",Imai
+https://glb.bozztv.com/glb/ssh101/imaitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://st2.depositphotos.com/1498528/9192/v/950/depositphotos_91922214-stock-illustration-action-word-icon.jpg" group-title="Tamil Rasi fast", Rasi Sarvam TV
+rtmp://rasinetworks.in:1935/rasiaction/rasiaction.stream_aac
+
+#EXTINF:-1 tvg-id="70" tvg-chno="537" tvg-name="thalaa-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png" group-title="Music", Thalaa TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/thalaa-tv/master.m3u8
+
 
 ------
 test
