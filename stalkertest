@@ -1,11 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="  veera dheera sooran  " tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/Game_Changer_Telugu.jpg" group-title="TAMIL ➾ MOVIES",Game_Changer
 
 
 https://cdn.telugudub.store/Game_Changer_(2025)_Tamil_Proper_720p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="  veera dheera sooran  " tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Good_Bad_Ugly_poster.jpg" group-title="TAMIL ➾ MOVIES",Good_Bad_Ugly
 
 
 https://cdn.telugudub.store/Good_Bad_Ugly_(2025)_Tamil_HD_720p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="  veera dheera sooran  " tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/Amaran_2024_poster.jpg" group-title="TAMIL ➾ MOVIES",Amaran
 
 
 https://cdn.telugudub.store/Amaran_(2024)_Tamil_1080p.mkv
