@@ -161,7 +161,7 @@ rtmp://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ex6JZgJ5vlmt_7K95JyKZRaEfgIe1jVqFZ8jhMo-a-r0bQhwcTbEeSTtsOnzNb7p3PHF=w240-h480-rw" group-title="Tamil Movies Rasi",MaXMovies TV
-https://live.sscloud7.in/live/maxmovies/index.m3u8
+https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QxadK0MHS7txDkDYQcAgTRpUGmXSiYlkF3R0542GRoy21gSQqzedS8wgeWTOgzGrJA=w240-h480-rw" group-title="Tamil Movies Rasi", Vinayaga Movies
 rtmp://acv.7starcloud.com:1935/live/ramtv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YKWPRSw/amtv-copy-removebg-preview.png" group-title="Tamil Movies Rasi",AM TV
