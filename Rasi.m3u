@@ -1,4 +1,53 @@
 #EXTM3U
+
+moviews
+
+#EXTINF:-1,RAJ DIGITAL PLUS 
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
+
+#EXTINF:-1,RAJ DIGITAL PLUS 
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
+
+
+#EXTINF:-1,Tamil Cinema HD 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734185&extension=ts&play_token=fx2dqiDWHw
+#EXTINF:-1,Tamil Cinema HD 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734186&extension=ts&play_token=I70fhu6Ers
+#EXTINF:-1,Tamil Cinema HD 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734174&extension=ts&play_token=Hn3pAViflO
+#EXTINF:-1,Tamil Cinema HD 4
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734175&extension=ts&play_token=rWRhTbyexY
+#EXTINF:-1,Tamil Cinema HD 5
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734160&extension=ts&play_token=w9RXNuUGOz
+#EXTINF:-1,Tamil Cinema HD 6
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734172&extension=ts&play_token=EKUtz6qxXN
+#EXTINF:-1,Tamil Cinema HD 7
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734169&extension=ts&play_token=iJtskXofsK
+#EXTINF:-1,Tamil Cinema HD 8
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734163&extension=ts&play_token=73p0A17uzE
+#EXTINF:-1,Tamil Cinema HD 9
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734159&extension=ts&play_token=RWiDZWSEiy
+
+#EXTINF:-1,STAR VIJAY
+https://tplay-vivek.vercel.app/play.m3u8?id=496
+#EXTINF:-1,ZEE TAMIL 
+https://tplay-vivek.vercel.app/play.m3u8?id=608
+#EXTINF:-1,JAYA TV
+https://tplay-vivek.vercel.app/play.m3u8?id=708
+#EXTINF:-1,KTV
+https://tplay-vivek.vercel.app/play.m3u8?id=380
+#EXTINF:-1,ZEE THIRAI 
+https://tplay-vivek.vercel.app/play.m3u8?id=1182
+
+#EXTINF:-1, RAJ TV 1
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8
+#EXTINF:-1,RAJ TV 2
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10645
+#EXTINF:-1,RAJ DIGITAL PLUS 
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
+
+#EXTINF:-1, SUN LIFE(NS)
+https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd?|drmScheme=clearkey&drmLicense=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
 ×××××××××××××× SUNNXT ×××××××××××××××××
 
    TAMIL
@@ -287,3 +336,4 @@ https://in1.sunilprasad.com.np/yuppLive/moon-tv/master.m3u8
 
 
 end
+
