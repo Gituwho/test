@@ -92,7 +92,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Arunjunan07
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8/hCxUzJbLvQvLlqTLioEw", "kid":"oJiJbSsRxfOQapk8O6XGEA" } ], "type":"temporary" }
 
-#EXTINF: -1 tvg-chno="98" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240411_1507147472317502579290438.png" group-title="International", Star Tamil
+#EXTINF: -1 tvg-chno="98" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240411_1507147472317502579290438.png" group-title="Only tamil movies", Star Tamil
 https://edge2-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-name="Cinemania 4k" group-title="Only tamil movies", tvg-logo="http://b1g.pw/logos2/CineMania4K_tamil.jpg",Cinemania 4K
@@ -127,7 +127,6 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734163&e
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734159&extension=ts&play_token=RWiDZWSEiy
 #EXTINF:-1  tvg-name="Tamil Cinema" group-title="Only tamil movies", tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 10
 http://mag.trexlive.me/play/live.php?mac=00:1A:79:5c:e6:ef&stream=1019913&extension=ts&play_token=
-#EXTINF:-1 tvg-logo="https://bmcloud.in/apis/apps/bmcloudimages/Emporar Tv Logo1.png" group-title="Tamil Rasi",Emperor TV
-https://rtmp.bmlive.net/bms/emperortv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YKWPRSw/amtv-copy-removebg-preview.png" group-title="Only tamil movies",AM TV
 https://stream.iplive.xyz/amtv/amtv/tracks-v1a1/mono.m3u8
+
