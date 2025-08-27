@@ -2,6 +2,10 @@
 
 #EXTM3U  Tamil Rasi fast
 
+#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Only tamil movies", vellithirai
+
+http://front-main.eagle-4k.me:80/live/m7t7u5p96o/g4xb6pbb1r/1163696.m3u8
+
 #EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Only tamil movies", Rasi Tamil
 rtmp://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg" group-title="Only tamil movies", Rasi TV HD
@@ -129,4 +133,5 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734159&e
 http://mag.trexlive.me/play/live.php?mac=00:1A:79:5c:e6:ef&stream=1019913&extension=ts&play_token=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YKWPRSw/amtv-copy-removebg-preview.png" group-title="Only tamil movies",AM TV
 https://stream.iplive.xyz/amtv/amtv/tracks-v1a1/mono.m3u8
+
 
