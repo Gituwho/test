@@ -134,4 +134,137 @@ http://mag.trexlive.me/play/live.php?mac=00:1A:79:5c:e6:ef&stream=1019913&extens
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YKWPRSw/amtv-copy-removebg-preview.png" group-title="Only tamil movies",AM TV
 https://stream.iplive.xyz/amtv/amtv/tracks-v1a1/mono.m3u8
 
+================================MOVIES================================
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=351e547391bb45cbac66d2cb9ec0c294:3bd646753f4903eee3b404646c7819d3
+#EXTINF:-1 tvg-id="380" tvg-logo="https://tatalogo.pages.dev/380.png" group-title="Only tamil movies", KTV HD
+https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4058ba890768578093e4d30bc957b85c:42d335cfebf7292487522ac572d706a8
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6
+#EXTINF:-1 tvg-id="ts1176" tvg-chno="50" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/VISUHD_Thumbnail-v1/VISUHD_Thumbnail.png" group-title="Only tamil movies", Vijay Super HD
+https://jtvp.8088yyy.workers.dev/bpk-tv/Vijay_Super_HD_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+#EXTINF:-1 tvg-id="1182" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZETIHD_Thumbnail-v2/ZETIHD_Thumbnail.png" group-title="Only tamil movies", Zee Thirai HD
+https://z5.8088yyy.workers.dev/0-9-224.m3u8|Referer=https://m3u.8088y.site/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
+#EXTINF:-1  tvg-id="474" tvg-chno="25" tvg-logo="https://tatalogo.pages.dev/474.png" group-title="Only tamil movies", Sun Life
+https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531467efbbf156d793766adfe62d6a26:3e4eef5502a6da48b91894c33310ea93
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
+#EXTINF:-1 tvg-id="201" tvg-chno="19" tvg-logo="https://tatalogo.pages.dev/201.png" group-title="Only tamil movies", J Movies
+https://jtvp.8088yyy.workers.dev/bpk-tv/J_Movies_MOB/WDVLive/index.mpd|referer=https://m3u.8088y.site/
+
+#EXTINF:-1 tvg-id="426" tvg-chno="27" tvg-logo="https://tatalogo.pages.dev/426.png" group-title="Only tamil movies", Raj Digital Plus
+https://m3u.8088y.site/Play.php?id=426|User-Agent=8088y&Referer=https://m3u.8088y.site/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05dca81dfac83d0c8fd4e85063e4048a:43132ac274d942aee093cf0d22c31460
+#EXTINF: -1 tvg-id="57" tvg-chno="" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/04/20240404_0218344882082935187551464.png" group-title="Only tamil movies", Mega 24
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
+#EXTINF:-1 tvg-id="AstroVellithirai" tvg-logo="https://i.ibb.co/MD6mKNWy/Picsart-25-09-02-12-56-40-359.png" group-title="Only tamil movies", Astro Vellithirai HD
+https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=vell|User-Agent=Mozilla/5.0 v3 (Linux; Android 15)
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dwL32BLP/Picsart-25-09-02-14-05-09-046.png" group-title="Only tamil movies", Astro Vinmeen HD 
+https://live20.bozztv.com/akamaissh101/ssh101/sungo544/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
+#EXTINF:-1 tvg-id="AstroThangathirai" tvg-logo="https://i.ibb.co/svHbNzny/Picsart-25-09-02-12-58-09-265.png" group-title="Only tamil movies", Astro Thangathirai
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
+
+#EXTINF:-1 tvg-id="32" tvg-chno="43" tvg-logo="https://tatalogo.pages.dev/32.png" group-title="Only tamil movies", Sony Pix HD
+https://m3u.8088y.site/Play.php?id=32|User-Agent=8088y&Referer=https://m3u.8088y.site/
+
+#EXTINF: -1 tvg-id="789" group-title="Only tamil movies" tvg-logo="https://tatalogo.pages.dev/1167.png", Tata Play Hollywood Local Tamil
+
+#EXTINF:-1 tvg-id="479938" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/76306.png" group-title="Only tamil movies",4K TAMIL UPCOMING MOVIES
+https://xtm.8088yyy.workers.dev/479938.m3u8
+
+#EXTINF:-1 tvg-id="475474" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/72145.png" group-title="Only tamil movies",TAMIL BOX OFFICE MOVIE 1
+https://xtm.8088yyy.workers.dev/475474.m3u8
+
+#EXTINF:-1 tvg-id="475475" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/72146.png" group-title="Only tamil movies",TAMIL BOX OFFICE MOVIE 2
+https://xtm.8088yyy.workers.dev/475475.m3u8
+
+#EXTINF:-1 tvg-id="475476" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/72147.png" group-title="Only tamil movies",TAMIL BOX OFFICE MOVIE 3
+https://xtm.8088yyy.workers.dev/475476.m3u8
+
+#EXTINF:-1 tvg-id="475477" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/72148.png" group-title="Only tamil movies",TAMIL BOX OFFICE MOVIE 4
+https://xtm.8088yyy.workers.dev/475477.m3u8
+
+#EXTINF:-1 tvg-id="475478" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/72149.png" group-title="Only tamil movies",TAMIL BOX OFFICE MOVIE 5
+https://xtm.8088yyy.workers.dev/475478.m3u8
+
+#EXTINF:-1 tvg-id="3607" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3607.png" group-title="Only tamil movies",4K TAMIL MOVIE 1
+https://xtm.8088yyy.workers.dev/3607.m3u8
+
+#EXTINF:-1 tvg-id="3608" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3608.png" group-title="Only tamil movies",4K TAMIL MOVIE 2
+https://xtm.8088yyy.workers.dev/3608.m3u8
+
+#EXTINF:-1 tvg-id="3609" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3609.png" group-title="Only tamil movies",4K TAMIL MOVIE 3
+https://xtm.8088yyy.workers.dev/3609.m3u8
+
+#EXTINF:-1 tvg-id="3610" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3610.png" group-title="Only tamil movies",4K TAMIL MOVIE 4
+https://xtm.8088yyy.workers.dev/3610.m3u8
+
+#EXTINF:-1 tvg-id="3611" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3611.png" group-title="Only tamil movies",4K TAMIL MOVIE 5
+https://xtm.8088yyy.workers.dev/3611.m3u8
+
+#EXTINF:-1 tvg-id="3612" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3612.png" group-title="Only tamil movies",4K TAMIL MOVIE 6
+https://xtm.8088yyy.workers.dev/3612.m3u8
+
+#EXTINF:-1 tvg-id="3613" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3613.png" group-title="Only tamil movies",4K TAMIL MOVIE 7
+https://xtm.8088yyy.workers.dev/3613.m3u8
+
+#EXTINF:-1 tvg-id="3614" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3614.png" group-title="Only tamil movies",4K TAMIL MOVIE 8
+https://xtm.8088yyy.workers.dev/3614.m3u8
+
+#EXTINF:-1 tvg-id="3615" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3615.png" group-title="Only tamil movies",4K TAMIL MOVIE 9
+https://xtm.8088yyy.workers.dev/3615.m3u8
+
+#EXTINF:-1 tvg-id="3616" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3616.png" group-title="Only tamil movies",4K TAMIL MOVIE 10
+https://xtm.8088yyy.workers.dev/3616.m3u8
+
+#EXTINF:-1 tvg-id="3617" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3617.png" group-title="Only tamil movies",4K TAMIL MOVIE 11
+https://xtm.8088yyy.workers.dev/3617.m3u8
+
+#EXTINF:-1 tvg-id="3618" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3618.png" group-title="Only tamil movies",4K TAMIL MOVIE 12
+https://xtm.8088yyy.workers.dev/3618.m3u8
+
+#EXTINF:-1 tvg-id="3619" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3619.png" group-title="Only tamil movies",4K TAMIL MOVIE 13
+https://xtm.8088yyy.workers.dev/3619.m3u8
+
+#EXTINF:-1 tvg-id="3620" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3620.png" group-title="Only tamil movies",4K TAMIL MOVIE 14
+https://xtm.8088yyy.workers.dev/3620.m3u8
+
+#EXTINF:-1 tvg-id="3621" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3621.png" group-title="Only tamil movies",4K TAMIL MOVIE 15
+https://xtm.8088yyy.workers.dev/3621.m3u8
+
+#EXTINF:-1 tvg-id="3622" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3622.png" group-title="Only tamil movies",4K TAMIL MOVIE 16
+https://xtm.8088yyy.workers.dev/3622.m3u8
+
+#EXTINF:-1 tvg-id="3623" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3623.png" group-title="Only tamil movies",4K TAMIL MOVIE 17
+https://xtm.8088yyy.workers.dev/3623.m3u8
+
+#EXTINF:-1 tvg-id="3624" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3624.png" group-title="Only tamil movies",4K TAMIL MOVIE 18
+https://xtm.8088yyy.workers.dev/3624.m3u8
+
+#EXTINF:-1 tvg-id="3625" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3625.png" group-title="Only tamil movies",4K TAMIL MOVIE 19
+https://xtm.8088yyy.workers.dev/3625.m3u8
+
+#EXTINF:-1 tvg-id="3626" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3626.png" group-title="Only tamil movies",4K TAMIL MOVIE 20
+https://xtm.8088yyy.workers.dev/3626.m3u8
+
 
