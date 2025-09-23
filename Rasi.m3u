@@ -80,8 +80,19 @@ https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.m
 
 #EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/VISUHD_Thumbnail-v1/VISUHD_Thumbnail.png" group-title="Only tamil movies",, Vijay Super HD
 http://d4k4u.com:80/live/Morta-Bouabda00/302sqnor1l/277101.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTINF: -1 tvg-id="1182" group-title="Only tamil movies", tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeThiraiHD_Thumbnail_c3ae3a90-a75c-4600-8a93-1bfbd8732689.png", Zee Thirai HD
-http://nevjfhb.mtop5.xyz/live/2249871453/1991220000/187369.m3u8
+
+https://z5.8088yyy.workers.dev/0-9-224.m3u8|Referer=https://m3u.8088y.site/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
+
+
+
+
+
 #EXTINF: -1 tvg-id="426" tvg-chno="27" tvg-logo="https://tatalogo.pages.dev/426.png" group-title="Only tamil movies",, Raj Digital Plus
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
 #EXTINF: -1 tvg-id="201" tvg-chno="19" tvg-logo="https://tatalogo.pages.dev/201.png" group-title="Only tamil movies",, J Movies
@@ -148,8 +159,7 @@ https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.m
 https://jtvp.8088yyy.workers.dev/bpk-tv/Vijay_Super_HD_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-#EXTINF:-1 tvg-id="1182" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZETIHD_Thumbnail-v2/ZETIHD_Thumbnail.png" group-title="Only tamil movies", Zee Thirai HD
-https://z5.8088yyy.workers.dev/0-9-224.m3u8|Referer=https://m3u.8088y.site/
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
@@ -266,5 +276,6 @@ https://xtm.8088yyy.workers.dev/3625.m3u8
 
 #EXTINF:-1 tvg-id="3626" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3626.png" group-title="Only tamil movies",4K TAMIL MOVIE 20
 https://xtm.8088yyy.workers.dev/3626.m3u8
+
 
 
