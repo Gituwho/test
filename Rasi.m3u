@@ -86,7 +86,7 @@ http://d4k4u.com:80/live/Morta-Bouabda00/302sqnor1l/277101.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTINF: -1 tvg-id="1182" group-title="Only tamil movies", tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeThiraiHD_Thumbnail_c3ae3a90-a75c-4600-8a93-1bfbd8732689.png", Zee Thirai HD
-
+http://89.187.189.98/ZEETHIRAI/index.m3u8
 https://z5.8088yyy.workers.dev/0-9-224.m3u8|Referer=https://m3u.8088y.site/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -279,6 +279,7 @@ https://xtm.8088yyy.workers.dev/3625.m3u8
 
 #EXTINF:-1 tvg-id="3626" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3626.png" group-title="Only tamil movies",4K TAMIL MOVIE 20
 https://xtm.8088yyy.workers.dev/3626.m3u8
+
 
 
 
