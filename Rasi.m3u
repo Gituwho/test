@@ -10,7 +10,34 @@ http://front-main.eagle-4k.me:80/live/m7t7u5p96o/g4xb6pbb1r/1163696.m3u8
 http://7starcloud.com:1935/live/7star2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Only tamil movies", Rasi Tamil
-rtmp://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac
+https://stream.e2is.in/hls/RasiTv.m3u8
+#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Only tamil movies", Rasi Tamil
+
+https://stream.e2is.in/hls/Rasimovies.m3u8
+#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Only tamil movies", Rasi Tamil
+
+https://stream.e2is.in/hls/Rasitamil.m3u8
+#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Only tamil movies", Rasi Tamil
+
+https://stream.e2is.in/hls/RasiHollywood.m3u8
+#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Only tamil movies", Rasi Tamil
+
+https://stream.e2is.in/hls/Rasimusic.m3u8
+#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Only tamil movies", Rasi Tamil
+
+https://stream.e2is.in/hls/Rasiclassic.m3u8
+#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Only tamil movies", Rasi Tamil
+
+https://stream.e2is.in/hls/Rasicomedy.m3u8
+#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Only tamil movies", Rasi Tamil
+
+https://stream.e2is.in/hls/Rasilifestyle.m3u8
+#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Only tamil movies", Rasi Tamil
+
+https://stream.e2is.in/hls/Rasicinema.m3u8
+#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Only tamil movies", Rasi Tamil
+
+https://stream.e2is.in/hls/Rasicinemax.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg" group-title="Only tamil movies", Rasi TV HD
 rtmp://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac
 #EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/de7e781db9e296abd990d6b1bb7e9673.png" group-title="Only tamil movies",Rasi Movies
@@ -279,6 +306,7 @@ https://xtm.8088yyy.workers.dev/3625.m3u8
 
 #EXTINF:-1 tvg-id="3626" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3626.png" group-title="Only tamil movies",4K TAMIL MOVIE 20
 https://xtm.8088yyy.workers.dev/3626.m3u8
+
 
 
 
