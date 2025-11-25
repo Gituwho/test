@@ -2,9 +2,6 @@
 
 #EXTM3U  Tamil Rasi fast
 
-#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Only tamil movies", vellithirai
-
-http://front-main.eagle-4k.me:80/live/m7t7u5p96o/g4xb6pbb1r/1163696.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/G2nh5y27BxL7cAbC7aIwUWl4ot-miOz_Rao4Xr1cxDAK7_ZBRg10J9ZRnhANMkODMA=w240-h480-rw" group-title="Only tamil movies",7STAR TV 
 
 http://7starcloud.com:1935/live/7star2/playlist.m3u8
@@ -38,3 +35,4 @@ https://stream.e2is.in/hls/Rasicinema.m3u8
 #EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Only tamil movies", Rasi Tamil
 
 https://stream.e2is.in/hls/Rasicinemax.m3u8
+
