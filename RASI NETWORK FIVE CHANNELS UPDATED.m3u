@@ -58,7 +58,7 @@ https://m3u.8088y.fun/z5/index.php?id=0-9-224
 https://jtvp.8088yyy.workers.dev/bpk-tv/Vijay_Takkar_BTS/output/index.mpd|Referer=https://m3u.8088y.fun/
 
 
-#EXTINF: -1 tvg-chno="98" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240411_1507147472317502579290438.png" group-title="Overseas", Star Tamil
+#EXTINF: -1 tvg-chno="98" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240411_1507147472317502579290438.png" group-title="Only tamil movies", Star Tamil
 https://edge2-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8
 
 
@@ -71,3 +71,4 @@ rtmp://live.rojatv.cloud/rojamovies/rojamovies
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yp5Ei5UNuupn5REv1AqVumQ35dVhmusksPnmMGvuHWiiul_HT6B1X1Chm7jHux9EyzTeGZ5hVg=s160-c-k-c0x00ffffff-no-rj" group-title="Only tamil movies",THIRAI TV
 rtmp://apserver.in:1937/thiraitv/thiraitv
+
