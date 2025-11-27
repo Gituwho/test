@@ -36,3 +36,38 @@ https://stream.e2is.in/hls/Rasicinema.m3u8
 
 https://stream.e2is.in/hls/Rasicinemax.m3u8
 
+
+
+
+#EXTINF:-1 tvg-id="VIJAY.SUPER.HD.in" tvg-name="Vijay Super" tvg-language="Local Channels" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11197-j9i4fbbs-v2/imageContent-11197-j9i4fbbs-m4.png" group-title="Only tamil movies" group-logo="", Vijay Super HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4058ba890768578093e4d30bc957b85c:42d335cfebf7292487522ac572d706a8
+https://jtvp.8088yyy.workers.dev/bpk-tv/Vijay_Super_HD_BTS/output/index.mpd|Referer=https://m3u.8088y.fun/
+
+
+#EXTINF:-1 tvg-id="1182" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeThirai_Thumbnail_96ccd831-12bb-47e6-b57f-5e0a71ccf81b.png" group-title="Only tamil movies", Zee Thirai HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://m3u.8088y.fun/z5/index.php?id=0-9-224
+
+
+
+#EXTINF:-1 tvg-id="Vijay Takkar.in" tvg-chno="18" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73570-l91cvyrk-v1/imageContent-73570-l91cvyrk-m2.png" group-title="Only tamil movies", Vijay Takkar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecdf4d18807e55bf814c3f40656a33c3:0031af1bf42234195cda0eb88fd6003b
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
+https://jtvp.8088yyy.workers.dev/bpk-tv/Vijay_Takkar_BTS/output/index.mpd|Referer=https://m3u.8088y.fun/
+
+
+#EXTINF: -1 tvg-chno="98" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240411_1507147472317502579290438.png" group-title="Overseas", Star Tamil
+https://edge2-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Only tamil movies", vellithirai
+
+http://front-main.eagle-4k.me:80/live/m7t7u5p96o/g4xb6pbb1r/1163696.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Only tamil movies",Roja Movies 
+rtmp://live.rojatv.cloud/rojamovies/rojamovies
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yp5Ei5UNuupn5REv1AqVumQ35dVhmusksPnmMGvuHWiiul_HT6B1X1Chm7jHux9EyzTeGZ5hVg=s160-c-k-c0x00ffffff-no-rj" group-title="Only tamil movies",THIRAI TV
+rtmp://apserver.in:1937/thiraitv/thiraitv
