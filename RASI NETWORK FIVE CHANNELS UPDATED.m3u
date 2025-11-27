@@ -6,38 +6,26 @@
 
 http://7starcloud.com:1935/live/7star2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Only tamil movies", Rasi Tamil
-https://stream.e2is.in/hls/RasiTv.m3u8
-#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Only tamil movies", Rasi Tamil
-
-https://stream.e2is.in/hls/Rasimovies.m3u8
-#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Only tamil movies", Rasi Tamil
-
+#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Rasi", Rasi Tamil
 https://stream.e2is.in/hls/Rasitamil.m3u8
-#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Only tamil movies", Rasi Tamil
-
-https://stream.e2is.in/hls/RasiHollywood.m3u8
-#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Only tamil movies", Rasi Tamil
-
-https://stream.e2is.in/hls/Rasimusic.m3u8
-#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Only tamil movies", Rasi Tamil
-
-https://stream.e2is.in/hls/Rasiclassic.m3u8
-#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Only tamil movies", Rasi Tamil
-
-https://stream.e2is.in/hls/Rasicomedy.m3u8
-#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Only tamil movies", Rasi Tamil
-
-https://stream.e2is.in/hls/Rasilifestyle.m3u8
-#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Only tamil movies", Rasi Tamil
-
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg" group-title="Rasi", Rasi TV HD
+https://stream.e2is.in/hls/RasiTv.m3u8
+#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/de7e781db9e296abd990d6b1bb7e9673.png" group-title="Rasi",Rasi Movies
+https://stream.e2is.in/hls/Rasimovies.m3u8
+#EXTINF:-1 tvg-logo="https://st3.depositphotos.com/1688079/17310/i/450/depositphotos_173101668-stock-photo-cinema-black-round-button.jpg" group-title="Rasi", Rasi Cinema TV
 https://stream.e2is.in/hls/Rasicinema.m3u8
-#EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Only tamil movies", Rasi Tamil
-
+#EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/22d27c42b8520f313cecda20686f9733.png" group-title="Rasi",Rasi Hollywood
+https://stream.e2is.in/hls/RasiHollywood.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png?20101220235006" group-title="Rasi", Rasi Cinemax TV
 https://stream.e2is.in/hls/Rasicinemax.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5Bj8dWZ/Picsart-23-05-28-13-29-12-254.jpg" group-title="Rasi",Rasi Music
+https://stream.e2is.in/hls/Rasimusic.m3u8
+#EXTINF:-1 tvg-logo="https://www.sunnetwork.in/ProgramImages/LargeImage/49_4_Colourful_Comedy_SAVE_20200706_112458_resize_79.jpg" group-title="Rasi",Rasi comedy TV
+https://stream.e2is.in/hls/Rasicomedy.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/template/20210511/ourmid/pngtree-modern-classic-logo-design-template-image_522847.png" group-title="Rasi",Rasi Classic
+https://stream.e2is.in/hls/Rasiclassic.m3u8
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.webp?fakeurl=1&type=.webp" group-title="Rasi", Rasi Lifestyle TV
+https://stream.e2is.in/hls/Rasilifestyle.m3u8
 
 #EXTINF:-1 tvg-id="VIJAY.SUPER.HD.in" tvg-name="Vijay Super" tvg-language="Local Channels" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11197-j9i4fbbs-v2/imageContent-11197-j9i4fbbs-m4.png" group-title="Only tamil movies" group-logo="", Vijay Super HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -71,4 +59,5 @@ rtmp://live.rojatv.cloud/rojamovies/rojamovies
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yp5Ei5UNuupn5REv1AqVumQ35dVhmusksPnmMGvuHWiiul_HT6B1X1Chm7jHux9EyzTeGZ5hVg=s160-c-k-c0x00ffffff-no-rj" group-title="Only tamil movies",THIRAI TV
 rtmp://apserver.in:1937/thiraitv/thiraitv
+
 
