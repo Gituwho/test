@@ -110,22 +110,6 @@ https://stream.iplive.xyz/amtv/amtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="380" tvg-logo="https://tatalogo.pages.dev/380.png" group-title="Movies", KTV HD (sn)
 https://livestream.sunnxt.com/1c406d282d7446349fcc0f4a1b2180d7/KTVHD_P_IN_index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba9bfe750a56514e9c63c456fad1e428:e0ca0ee9dbaac2942753d928b92824c5
-#EXTINF:-1 tvg-id="380" tvg-logo="https://tatalogo.pages.dev/380.png" group-title="Movies", KTV HD (jtv)
-https://jtvp.8088yyy.workers.dev/bpk-tv/KTV_HD_MOB/WDVLive/index.mpd|Referer=https://m3u.8088y.site/
-
-#EXTINF:-1 tvg-id="216.astro" tvg-logo="https://tatalogo.pages.dev/380.png" group-title="Movies", KTV HD (ast)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e7863a8e770b0d72ebe4a68437b6410:73648ceba3751645926d45421c85d927
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4058ba890768578093e4d30bc957b85c:42d335cfebf7292487522ac572d706a8
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6
-#EXTINF:-1 tvg-id="ts1176" tvg-chno="50" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/VISUHD_Thumbnail-v1/VISUHD_Thumbnail.png" group-title="Movies", Vijay Super HD
-https://jtvp.8088yyy.workers.dev/bpk-tv/Vijay_Super_HD_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
 
 #EXTINF:-1 tvg-id="1182" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZETIHD_Thumbnail-v2/ZETIHD_Thumbnail.png" group-title="Movies", Zee Thirai HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
@@ -136,58 +120,8 @@ https://m3u.8088y.fun/z5/index.php?id=0-9-224
 #EXTINF:-1 tvg-id="SunLife" ch-number="217" tvg-logo="https://tatalogo.pages.dev/474.png" group-title="Movies", Sun Life
 https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd
 
-#EXTINF:-1  tvg-id="474" tvg-chno="25" tvg-logo="https://tatalogo.pages.dev/474.png" group-title="Movies", Sun Life (ast)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3e1be94e6c193fa21787ce8435db610:726304708c429f613ec2dc53619d6f76
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_ott.mpd?channel=sunlife
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03fff2c1ecea574b98da00b05c2a0be9:41670b42142fa8ba6bd3cf9fc2ae8cf5
-#EXTINF:-1 tvg-id="380" tvg-logo="https://tatalogo.pages.dev/380.png" group-title="Movies", KTV HD (jtv)
-https://jtvp.8088yyy.workers.dev/bpk-tv/Sun_Life_MOB/WDVLive/index.mpd|Referer=https://m3u.8088y.site/
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531467efbbf156d793766adfe62d6a26:3e4eef5502a6da48b91894c33310ea93
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
-#EXTINF:-1 tvg-id="201" tvg-chno="19" tvg-logo="https://tatalogo.pages.dev/201.png" group-title="Movies", J Movies
-https://jtvp.8088yyy.workers.dev/bpk-tv/J_Movies_MOB/WDVLive/index.mpd|referer=https://m3u.8088y.site/
-
-#EXTINF:-1 tvg-id="ts789" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48748-k4jbpl00-v2/imageContent-48748-k4jbpl00-m3.png" group-title="Movies",Tata Play Hollwood Local
-https://xtp.8088yyy.workers.dev/9184.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a1636627c85a5129974eea2d1a917604:2453963a306c012223944e13790908de
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
-#EXTINF:-1 tvg-id="426" tvg-chno="27" tvg-logo="https://tatalogo.pages.dev/426.png" group-title="Movies", Raj Digital Plus
-https://jtvp.8088yyy.workers.dev/bpk-tv/Raj_Digital_Plus_BTS/output/index.mpd|referer=https://m3u.8088y.site/
-
-#EXTINF: -1 tvg-id="57" tvg-chno="" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/04/20240404_0218344882082935187551464.png" group-title="Movies", Mega 24
-https://xtp.8088yyy.workers.dev/11796.m3u8
-
-#EXTINF:-1 group-logo="" group-title="INDIAN" tvg-id="203.astro" tvg-logo="https://i.ibb.co/MD6mKNWy/Picsart-25-09-02-12-56-40-359.png" group-title="Movies", Astro Vellithirai HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=vell|User-Agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.366
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dwL32BLP/Picsart-25-09-02-14-05-09-046.png" group-title="Movies", Astro Vinmeen HD 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
-https://get.perfecttv.net/dash2.mpd?channel=vinmeen&username=vip_level7&password=vip_level7
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="241" ch-number="241" tvg-id="AstroThangathirai" tvg-logo="https://i.ibb.co/svHbNzny/Picsart-25-09-02-12-58-09-265.png" group-title="Movies", Astro Thangathirai
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
-
-#EXTINF:-1 tvg-id="32" tvg-chno="43" tvg-logo="https://tatalogo.pages.dev/32.png" group-title="Movies", Sony Pix HD
-https://sl.8088yyy.workers.dev/1000009258.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://m3u.8088y.site/
-
-#EXTINF: -1 tvg-id="789" group-title="Movies" tvg-logo="https://tatalogo.pages.dev/1167.png", Tata Play Hollywood Local Tamil
-
-#EXTINF:-1 tvg-id="479938" tvg-logo="https://i.ibb.co/Fkkg16yQ/Picsart-25-09-04-06-59-55-350.png" group-title="Movies",4K TAMIL UPCOMING MOVIES
-https://xtm.8088yyy.workers.dev/479938.m3u8
 
 #EXTINF:-1 tvg-id="475474" tvg-logo="https://i.ibb.co/Fkkg16yQ/Picsart-25-09-04-06-59-55-350.png" group-title="Movies",TAMIL BOX OFFICE MOVIE 1
 https://xtm.8088yyy.workers.dev/475474.m3u8
@@ -263,6 +197,7 @@ https://xtm.8088yyy.workers.dev/3625.m3u8
 
 #EXTINF:-1 tvg-id="3626" tvg-logo="https://i.ibb.co/Fkkg16yQ/Picsart-25-09-04-06-59-55-350.png" group-title="Movies",4K TAMIL MOVIE 20
 https://xtm.8088yyy.workers.dev/3626.m3u8
+
 
 
 
