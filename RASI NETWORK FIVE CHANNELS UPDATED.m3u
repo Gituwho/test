@@ -61,3 +61,49 @@ rtmp://live.rojatv.cloud/rojamovies/rojamovies
 rtmp://apserver.in:1937/thiraitv/thiraitv
 
 
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FqstwB7oxZ8xnKFYgcc8NaBytJvPdhc62AfU4ZvmkmM3UPYdllCKrkD30RJEwjIFNDLz=s256-rw" group-title="TLL Movies",Roja Movies 
+#rtmp://live.rojatv.cloud/rojamovies/rojamovies
+https://live.rojatv.cloud/rojamovies/rojamovies/index.mpd
+#EXTINF:-1 tvg-logo="https://bmcloud.in/apis/apps/bmcloudimages/Emporar Tv Logo1.png" group-title="TLL Movies",Emperor TV
+https://rtmp.bmlive.net/bms/emperortv/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ex6JZgJ5vlmt_7K95JyKZRaEfgIe1jVqFZ8jhMo-a-r0bQhwcTbEeSTtsOnzNb7p3PHF=w240-h480-rw" group-title="TLL Movies",MaXMovies TV
+https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TLL Movies",TSN  TV
+rtmp://198.144.149.206:1935/DINESH/PT?token=YAAL
+#EXTINF:-1 tvg-logo="" group-title="TLL Movies",V TV  
+rtmp://vtv.7starcloud.com:1935/live/vtvsalem
+#EXTINF:-1 tvg-logo="" group-title="TLL Movies",ACP HD TV
+rtmp://103.87.105.51:1935/acphd/acphd?psk=123456
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Acp_logo_rgb.jpg/605px-Acp_logo_rgb.jpg?20160524055236" group-title="TLL Movies",ACP Classic TV
+rtmp://103.87.105.51:1935/acpclassic/acpclassic?psk=123456
+#EXTINF:-1 tvg-logo="" group-title="TLL Movies",Sss hd
+rtmp://103.78.164.62/static/SSSHD
+#EXTINF:-1 tvg-logo="" group-title="TLL Movies",B Tv
+https://rtmp.applelive.in/boobsh/boobsh/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yp5Ei5UNuupn5REv1AqVumQ35dVhmusksPnmMGvuHWiiul_HT6B1X1Chm7jHux9EyzTeGZ5hVg=s160-c-k-c0x00ffffff-no-rj" group-title="TLL Movies",THIRAI TV
+rtmp://apserver.in:1937/thiraitv/thiraitv
+#EXTINF:-1 tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1739599242_IMG_20250215_111845_234.png&w=1920&q=75" group-title="TLL Movies",Tharun Movies
+https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qJtAARymQp8a3Zu3il2H51b23-QQqT1yOC4njYqxFRksrhkWYZIUfEQ66db-9uWU5v45rxM-tyw=s176-c-k-c0x00ffffff-no-rj" group-title="TLL Movies", MN TV
+http://mntv.livebox.co.in/mntvhls/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TLL Movies",MMCLASSIC
+rtmp://103.78.164.62/static/MMCLASSIC
+#EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/a7d4abb6715ce07a2df61628caebb0b8.png" group-title="TLL Movies",Analai Express cinema HD
+rtmp://148.113.170.17/static/analaicine
+#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/montamil_599x98v1.png" group-title="TLL Movies",Mon Tamil TV
+http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+#EXTINF:-1 tvg-logo="" group-title="TLL Movies",Dolphin TV
+rtmp://103.78.164.108:1935/static/DOLPHINTV
+#EXTINF:-1 tvg-logo="" group-title="TLL Movies",AKASH TV
+http://akashtv.xstream.onecloudlive.in:8080/akashtv/akashtvhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/WOVl9OoVhMuStsl6ws9HTXQZrQgk__GjErulmJpy7JnCxOp0yDc5e0SThZ5lIF87xrY=w240-h480-rw" group-title="TLL Movies",ITHAZH TV
+rtmp://148.113.170.17/static/ithal
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YKWPRSw/amtv-copy-removebg-preview.png" group-title="TLL Movies",AM TV
+https://stream.iplive.xyz/amtv/amtv/tracks-v1a1/mono.m3u8
+
+
+
+
+
