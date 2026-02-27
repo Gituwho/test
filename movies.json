@@ -1,0 +1,44 @@
+{
+  "channels": [
+    {
+      "id": 1,
+      "title": "Thalaivar Thambi Thalaimaiyil",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
+      "videoUrl": "https://s23.cdnserver03.xyz/Moviesda.Mobi_-_Thalaivar_Thambi_Thalaimaiyil_2026_Original_1080p_HD_(3.4_GB).mp4",
+      "genre": "Drama",
+      "year": 2025
+    },
+    {
+      "id": 2,
+      "title": "Mai Laaraa",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "genre": "Drama",
+      "year": 2025
+    },
+    {
+      "id": 3,
+      "title": "Thuruppu",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "genre": "Action",
+      "year": 2026
+    },
+    {
+      "id": 4,
+      "title": "Sirai",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "genre": "Thriller",
+      "year": 2025
+    },
+    {
+      "id": 5,
+      "title": "Vettaiyan",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dB6Krk806zeqd955AgS4h6p90N5.jpg",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "genre": "Action",
+      "year": 2024
+    }
+  ]
+}
