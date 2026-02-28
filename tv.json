@@ -1,0 +1,684 @@
+{
+  "channels": [
+    {
+      "id": 1,
+      "title": "7S Music",
+      "posterUrl": "https://i.imgur.com/zDiIhdN.png",
+      "videoUrl": "https://mumt03.tangotv.in/7SMUSIC/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 2,
+      "title": "&flix HD",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_image.png",
+      "videoUrl": "http://103.113.103.202:8001/play/a02k/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 3,
+      "title": "Aaseervatham TV",
+      "posterUrl": "https://i.imgur.com/GlfrYs7.png",
+      "videoUrl": "https://mumt04.tangotv.in/AASEERVATHAMTV/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 4,
+      "title": "Aastha Tamil",
+      "posterUrl": "https://i.imgur.com/YQK9ewf.png",
+      "videoUrl": "https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 5,
+      "title": "Aathavan TV",
+      "posterUrl": "https://i.imgur.com/LEVEhTH.png",
+      "videoUrl": "http://45.77.66.224:1935/athavantv/live/playlist.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 6,
+      "title": "Angel TV",
+      "posterUrl": "https://i.imgur.com/qKLEGU7.png",
+      "videoUrl": "https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 7,
+      "title": "Angel TV America",
+      "posterUrl": "https://i.imgur.com/qKLEGU7.png",
+      "videoUrl": "https://janya-digimix.akamaized.net/vglive-sk-374850/america/ngrp:angelamerica_all/playlist.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 8,
+      "title": "Angel TV Indo-China",
+      "posterUrl": "https://i.imgur.com/qKLEGU7.png",
+      "videoUrl": "https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 9,
+      "title": "Angel TV Indonesia",
+      "posterUrl": "https://i.imgur.com/qKLEGU7.png",
+      "videoUrl": "https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 10,
+      "title": "Asia TV",
+      "posterUrl": "https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png",
+      "videoUrl": "https://stream.asiatvnet.com/1/live/master.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 11,
+      "title": "Brio TV",
+      "posterUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Brio_TV.png",
+      "videoUrl": "https://mumt02.tangotv.in/BRIOTV/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 12,
+      "title": "Chithiram",
+      "posterUrl": "https://i.imgur.com/xv9cWSh.png",
+      "videoUrl": "https://cdn-6.pishow.tv/live/1243/master.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 13,
+      "title": "Colors Tamil",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png",
+      "videoUrl": "http://15.235.144.106:14052",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 14,
+      "title": "Colors Tamil HD",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png",
+      "videoUrl": "http://198.27.83.207:2550/COLORS_TAMIL_SD/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 15,
+      "title": "DD Sports HD",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS/images/LOGO_HD/image.png",
+      "videoUrl": "http://103.78.149.54:8000/play/a02i/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 16,
+      "title": "DD Tamil",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_TAMIL/images/LOGO_HD/image.png",
+      "videoUrl": "http://103.78.149.54:8000/play/a00n/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 17,
+      "title": "Dharsan TV",
+      "posterUrl": "https://play-lh.googleusercontent.com/brn76ZzRlqS8ylZVVcc5ZFWcqUp36iJ82WyzwiQ8-Nqi_8pIZZ_gsMCXNn6YiLhOEQ",
+      "videoUrl": "https://galaxyott.live/hls/dharshantv.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 18,
+      "title": "Disney Channel",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png",
+      "videoUrl": "http://161.248.38.40:8000/play/a06q/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 19,
+      "title": "Disney Junior",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png",
+      "videoUrl": "http://161.248.38.40:8000/play/a068/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 20,
+      "title": "EET TV Canada",
+      "posterUrl": "https://i.imgur.com/rntSEDZ.png",
+      "videoUrl": "https://eu.streamjo.com/eetlive/eettv.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 21,
+      "title": "EET TV India",
+      "posterUrl": "https://i.imgur.com/rMldFW8.png",
+      "videoUrl": "https://live.streamjo.com/eetlive/eettv.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 22,
+      "title": "Gubbare",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GUBBARE/images/LOGO_HD/image.png",
+      "videoUrl": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 23,
+      "title": "Hebron TV",
+      "posterUrl": "https://i0.wp.com/hebrontv.in/wp-content/uploads/2023/11/hebron-.png?w=512",
+      "videoUrl": "https://account20.livebox.co.in/charleshls/live.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 24,
+      "title": "IBC Bakthi",
+      "posterUrl": "https://i.imgur.com/ZNEz5Wx.png",
+      "videoUrl": "https://ibc.massstream.net/IBC2/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 25,
+      "title": "IBC Tamil",
+      "posterUrl": "https://i.imgur.com/uVt9vBa.png",
+      "videoUrl": "https://ibc.massstream.net/IBC/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 26,
+      "title": "Isai Aruvi",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISAI_ARUVI/images/LOGO_HD/image.png",
+      "videoUrl": "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 27,
+      "title": "J Movie",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_J_MOVIES/images/LOGO_HD/image.png",
+      "videoUrl": "http://161.248.38.40:8000/play/a09p/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 28,
+      "title": "Jaya Plus",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_PLUS/images/LOGO_HD/image.png",
+      "videoUrl": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 29,
+      "title": "Jaya TV",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_TV/images/LOGO_HD/image.png",
+      "videoUrl": "http://198.27.83.207:2550/JAYA_TV_SD/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 30,
+      "title": "Kalaignar Seithigal",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SEITHIGAL_24X7/images/LOGO_HD/image.png",
+      "videoUrl": "https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 31,
+      "title": "Kalaignar TV",
+      "posterUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Kalaignar%20TV.png",
+      "videoUrl": "https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 32,
+      "title": "KTV HD",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KTV_HD/images/LOGO_HD/image.png",
+      "videoUrl": "http://198.27.83.207:2550/KTV_SD/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 33,
+      "title": "M Nadu TV",
+      "posterUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/M_Nadu.png",
+      "videoUrl": "https://mumt01.tangotv.in/MNADU/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 34,
+      "title": "Madha TV",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MADHA_TV/images/LOGO_HD/image.png",
+      "videoUrl": "https://60e68b19dd194.streamlock.net:55/madhatv/madhatv.stream_HDp/playlist.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 35,
+      "title": "Makkal TV (576i)",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MAKKAL_TV/images/LOGO_HD/image.png",
+      "videoUrl": "https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 36,
+      "title": "Malar TV",
+      "posterUrl": "https://www.lyngsat.com/logo/tv/mm/malar-tv-in.png",
+      "videoUrl": "https://cdn-3.pishow.tv/live/473/master.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 37,
+      "title": "MNTV",
+      "posterUrl": "https://i.imgur.com/cFNw4Af.png",
+      "videoUrl": "https://mntv.livebox.co.in/mntvhls/live.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 38,
+      "title": "Moon TV",
+      "posterUrl": "https://i.imgur.com/3l25EZI.png",
+      "videoUrl": "https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 39,
+      "title": "News 7 Tamil",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS7_TAMIL/images/LOGO_HD/image.png",
+      "videoUrl": "https://segment.yuppcdn.net/240122/news7/playlist.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 40,
+      "title": "News18 Tamil Nadu",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_TAMIL_NADU/images/LOGO_HD/image.png",
+      "videoUrl": "https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 41,
+      "title": "News Tamil 24x7",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_TAMIL_24X7/images/LOGO_HD/image.png",
+      "videoUrl": "https://d18a8tqmogafg2.cloudfront.net/newstamil/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 42,
+      "title": "NTC TV",
+      "posterUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png",
+      "videoUrl": "https://galaxyott.live/hls/ntv.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 43,
+      "title": "OM TV",
+      "posterUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png",
+      "videoUrl": "https://mumt01.tangotv.in/OMTV/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 44,
+      "title": "Peppers TV",
+      "posterUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Peppers_TV.png",
+      "videoUrl": "https://cdn-2.pishow.tv/live/1383/master.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 45,
+      "title": "Polimer News",
+      "posterUrl": "https://i.imgur.com/CxcuvXX.png",
+      "videoUrl": "https://live-cf-polimernews.dailyhunt.in/master.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 46,
+      "title": "Polimer TV",
+      "posterUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Polimer_TV.png",
+      "videoUrl": "https://cdn-2.pishow.tv/live/1241/master.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 47,
+      "title": "Puthiya Thalaimurai",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUTHIYA_THALAIMURAI/images/LOGO_HD/image.png",
+      "videoUrl": "https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 48,
+      "title": "Puthuyugam TV",
+      "posterUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Puthu_Yugam.png",
+      "videoUrl": "https://mumt04.tangotv.in/PUTHUYUGAMTV/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 49,
+      "title": "Raj Digital Plus",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_DIGITAL_PLUS/images/LOGO_HD/image.png",
+      "videoUrl": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 50,
+      "title": "Raj Musix Tamil",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TAMIL/images/LOGO_HD/image.png",
+      "videoUrl": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 51,
+      "title": "Raj TV",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_TV/images/LOGO_HD/image.png",
+      "videoUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 52,
+      "title": "Roja Movies",
+      "posterUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png",
+      "videoUrl": "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 53,
+      "title": "Roja TV",
+      "posterUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/rojatv.png",
+      "videoUrl": "https://live.rojatv.cloud/rojatv/rojatv/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 54,
+      "title": "Sana TV",
+      "posterUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sana-TV-Logo_2000_X_1125_Transpharent.png",
+      "videoUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sana-tv/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 55,
+      "title": "Sankara TV",
+      "posterUrl": "https://i.imgur.com/2z0bDRD.png",
+      "videoUrl": "https://cdn-3.pishow.tv/live/1135/master.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 56,
+      "title": "Sathiyam TV",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SATHIYAM_TV/images/LOGO_HD/image.png",
+      "videoUrl": "https://live-cf-sathiyamtv.dailyhunt.in/master.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 57,
+      "title": "Shakthi TV",
+      "posterUrl": "https://i.imgur.com/RX6IwK8.png",
+      "videoUrl": "https://edge4-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 58,
+      "title": "Sirippoli TV",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SIRIPPOLI/images/LOGO_HD/image.png",
+      "videoUrl": "https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 59,
+      "title": "Star Vijay HD",
+      "posterUrl": "https://i.imgur.com/dZtJHAe.png",
+      "videoUrl": "http://198.27.83.207:2550/STAR_VIJAY_SD/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 60,
+      "title": "Sun Music",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_MUSIC/images/LOGO_HD/image.png",
+      "videoUrl": "http://198.27.83.207:2550/SUN_MUSIC_SD/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 61,
+      "title": "Sun TV HD",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_TV/images/LOGO_HD/image.png",
+      "videoUrl": "http://15.235.144.106:14054",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 62,
+      "title": "Suriyan TV",
+      "posterUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/suriyantvtamil.png",
+      "videoUrl": "https://stream.sscloud7.com/live/suriyantv/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 63,
+      "title": "Thanthi TV",
+      "posterUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Thanthi_TV.png",
+      "videoUrl": "https://cdn-3.pishow.tv/live/1612/master.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 64,
+      "title": "Vaanavil TV",
+      "posterUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Vaanavil_TV.png",
+      "videoUrl": "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 65,
+      "title": "Vasanth TV",
+      "posterUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Vasanth_TV.png",
+      "videoUrl": "https://mumt04.tangotv.in/VASANTHTV/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 66,
+      "title": "Velicham TV",
+      "posterUrl": "https://upload.wikimedia.org/wikipedia/en/e/e4/Logo_of_Velicham_TV.png",
+      "videoUrl": "https://cdn-3.pishow.tv/live/461/master.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 67,
+      "title": "Vendhar TV",
+      "posterUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Vendhar_TV.png",
+      "videoUrl": "https://cdn-3.pishow.tv/live/1271/master.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 68,
+      "title": "Win TV",
+      "posterUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Win_TV.png",
+      "videoUrl": "https://cdn-4.pishow.tv/live/1531/master.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 69,
+      "title": "Zee Tamil HD",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TAMIL_HD/images/LOGO_HD/LOGO_HD_image.png",
+      "videoUrl": "http://198.27.83.207:2550/ZEE_TAMIL_SD/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 70,
+      "title": "Sana Plus",
+      "posterUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SANA-PLUS-LOGO_2000_X_1125_Transpharent.png",
+      "videoUrl": "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 71,
+      "title": "Suriya TV",
+      "posterUrl": "https://livetv.ashokadigital.net/upload/logo/1732170490_WhatsApp_Image_2024-11-21_at_11.10.20_AM-removebg-preview.png",
+      "videoUrl": "https://galaxyott.live/hls/suryatv.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 72,
+      "title": "Subin TV",
+      "posterUrl": "https://subintv.in/SUBINLOGO.png",
+      "videoUrl": "https://stream.galaxyott.live/live/subintv/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 73,
+      "title": "Rock TV",
+      "posterUrl": "https://play-lh.googleusercontent.com/6fWqtRlywXirpl4cUwbjCl1vo86lOznuX6VZgG88MjMQvuwEa3OdQUG05njBjuCuhg=w512-h480-rw",
+      "videoUrl": "https://apis.avmediawork.in/tvhls/rocktv.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 74,
+      "title": "KC TV",
+      "posterUrl": "https://play-lh.googleusercontent.com/qAyUZPMllAhkhcuNK-3sCcnSC6SGT83oytQjtMNwLGiXXO7P5qZb6yg3Dp0jahi5fkA=w512-h960-rw",
+      "videoUrl": "https://rtmp.bmlive.net/bms/kctv/stream.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 75,
+      "title": "Moon TV",
+      "posterUrl": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/MoonTV.png",
+      "videoUrl": "https://live.maxtn.in/moontv/moontv/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 76,
+      "title": "Kumari TV",
+      "posterUrl": "https://play-lh.googleusercontent.com/5BbVPm_jHSHPVY3XLhfYjpJJtXi1qVV3jlJ9i-cTE0gckC_LSEBKftLgU6uX_UMXgQ=w512-h960-rw",
+      "videoUrl": "https://play.applelive.in/kumaritv/gvkumaritv.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 77,
+      "title": "Vani TV",
+      "posterUrl": "https://livetv.ashokadigital.net/upload/logo/1732168603_WhatsApp%20Image%202024-11-21%20at%2011.05.55%20AM.jpeg",
+      "videoUrl": "https://live.maxtn.in/vanitv/vanitv/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 78,
+      "title": "Max Movies",
+      "posterUrl": "https://livetv.ashokadigital.net/upload/logo/1732168422_WhatsApp%20Image%202024-11-21%20at%2010.18.47%20AM.jpeg",
+      "videoUrl": "https://live.maxtn.in/maxmovies/maxmovies/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 79,
+      "title": "GEM TV",
+      "posterUrl": "https://yt3.googleusercontent.com/0POAEUrXj9S3H6jYBYF8D894bb599adV9t18qJmUdrcYpAYUdKonTWku7QYVHU0WeRnmstkQ=s900-c-k-c0x00ffffff-no-rj",
+      "videoUrl": "https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 80,
+      "title": "Sun Music HD",
+      "posterUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_MUSIC/images/LOGO_HD/image.png",
+      "videoUrl": "http://15.235.144.106:14055",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 81,
+      "title": "JJ News Tamil",
+      "posterUrl": "https://livetv.ashokadigital.net/upload/logo/1742060000_1000825080.jpg",
+      "videoUrl": "https://live.skystream.in/live/jjnewstamil/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 82,
+      "title": "Rainbow TV",
+      "posterUrl": "https://livetv.ashokadigital.net/upload/logo/1731942805_RAINBOW%20TV.png",
+      "videoUrl": "https://live.skystream.in/live/rainbowtv/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 83,
+      "title": "Ashoka TV",
+      "posterUrl": "https://livetv.ashokadigital.net/upload/logo/1732631170_ashoka%20tv%20logo%20png.png",
+      "videoUrl": "https://app.ashokadigital.net/app/12f5e922/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 84,
+      "title": "Dtv",
+      "posterUrl": "https://tamilradios.org/wp-content/uploads/2025/01/dtv.png",
+      "videoUrl": "https://stream.d6-pro.com/Dtv/live/index.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    },
+    {
+      "id": 85,
+      "title": "King TV",
+      "posterUrl": "https://livetv.ashokadigital.net/upload/logo/1731847465_WhatsApp_Image_2024-11-17_at_6.04.44_PM-removebg-preview.png",
+      "videoUrl": "https://rtmp.bmlive.net/kingtv/kingtv/stream.m3u8",
+      "genre": "Live TV",
+      "year": 2024
+    }
+  ]
+}
