@@ -1,8 +1,8 @@
 {
   "notification": {
     "id": 1,
-    "title": "🎬 New Movies Added!",
-    "message": "New Tamil movies just dropped. Check them out now!"
+    "title": "🎬 New Movies Added! and bug fies",
+    "message": "New Tamil movies just dropped. Check them out now and live tv added!"
   },
   "channels": [
     {
