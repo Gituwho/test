@@ -1,4 +1,9 @@
 {
+  "notification": {
+    "id": 1,
+    "title": "🎬 New Movies Added!",
+    "message": "New Tamil movies just dropped. Check them out now!"
+  },
   "channels": [
     {
       "id": 1,
@@ -220,380 +225,20 @@
       "id": 28,
       "title": "arjun-chakravarthy",
       "posterUrl": "https://moviesda14.net/uploads/posters/arjun-chakravarthy-2025.webp",
-      "videoUrl": "https://dl10.hotshare.click/Moviesda.Mobi_-_Arjun_Chakravarthy_2025_Original_1080p_HD.mp4",
+      "videoUrl": "https://dl1.hotshare.click/Moviesda.Mobi_-_Arjun_Chakravarthy_2025_Original_1080p_HD.mp4",
       "genre": "Tamil Movies",
       "year": 2025
     },
     {
       "id": 29,
-      "title": "Diesel",
-      "posterUrl": "https://moviesda14.net/uploads/posters/diesel-2025.webp",
-      "videoUrl": "https://s06.hotshare.link/Moviesda.Mobi_-_Diesel_2025_Original_1080p_HD.mp4",
+      "title": "Jackpot",
+      "posterUrl": "https://moviesda14.net/uploads/posters/jackpot-2025.webp",
+      "videoUrl": "https://s02.hotshare.link/Moviesda.Mobi_-_Jackpot_2025_Original_1080p_HD.mp4",
       "genre": "Tamil Movies",
       "year": 2025
     },
     {
       "id": 30,
-      "title": "Thandakaaranyam",
-      "posterUrl": "https://moviesda14.com/uploads/posters/thandakaaranyam-2025.webp",
-      "videoUrl": "https://s01.hotshare.link/Moviesda.Mobi_-_Thandakaaranyam_2025_Original_1080p_HD.mp4",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 31,
-      "title": "Kantara A Legend",
-      "posterUrl": "https://moviesda14.com/uploads/posters/kantara-a-legend-chapter-1-2025.webp",
-      "videoUrl": "https://cdn.telugudub.store/Kantara_A_Legend_Chapter_1_(2025)_Tamil_1080p.mkv",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 32,
-      "title": "Dude hd",
-      "posterUrl": "https://moviesda14.com/uploads/posters/dude-2025.webp",
-      "videoUrl": "https://cdn.telugudub.store/Dude_(2025)_Tamil_1080p.mkv",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 33,
-      "title": "Sakthi thirumagan",
-      "posterUrl": "https://moviesda14.com/uploads/posters/shakthi-thirumagan-2025.webp",
-      "videoUrl": "https://cdn.telugudub.store/Shakthi_Thirumagan_(2025)_Tamil_1080p.mkv",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 34,
-      "title": "Thanal",
-      "posterUrl": "https://moviesda14.com/uploads/posters/thanal-2025.webp",
-      "videoUrl": "https://s10.hotshare.link/Moviesda.Mobi_-_Thanal_2025_Original_1080p_HD.mp4",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 35,
-      "title": "bomp",
-      "posterUrl": "https://moviesda1.io/uploads/posters/bomb-2025.webp",
-      "videoUrl": "https://s09.hotshare.link/Moviesda.Mobi_-_Bomb_2025_Original_1080p_HD.mp4",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 36,
-      "title": "Idli Kadai",
-      "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
-      "videoUrl": "https://cdn.telugudub.store/Idli_Kadai_(2025)_Tamil_1080p.mkv",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 37,
-      "title": "Madharasi",
-      "posterUrl": "https://i.postimg.cc/59Kkb0Th/Madharaasi-poster.jpg",
-      "videoUrl": "https://s07.hotshare.link/Moviesda.Mobi_-_Madharasi_2025_Original_1080p_HD.mp4",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 38,
-      "title": "Gandhi Kannadi",
-      "posterUrl": "https://i.postimg.cc/sgx0sqCL/Gandhi-Kannadi.jpg",
-      "videoUrl": "https://s10.hotshare.link/Moviesda.Mobi_-_Gandhi_Kannadi_2025_Original_1080p_HD.mp4",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 39,
-      "title": "Coolie",
-      "posterUrl": "https://i.postimg.cc/k58s5d1p/Coolie-2025-film-poster.jpg",
-      "videoUrl": "https://dl1.hotshare.click/Moviesda.Mobi_-_Coolie_2025_Original_1080p_HD.mp4",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 40,
-      "title": "Love marriage",
-      "posterUrl": "https://i.postimg.cc/Jhw3v2rH/Paranthu-Po.jpg",
-      "videoUrl": "https://dl5.hotshare.click/Moviesda.Mobi_-_Love_Marriage_2025_Original_1080p_HD.mp4",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 41,
-      "title": "Marresan",
-      "posterUrl": "https://i.postimg.cc/mkq1MPhb/Maareesan.jpg",
-      "videoUrl": "https://dl6.hotshare.click/Moviesda.Mobi_-_Maareesan_2025_Original_1080p_HD.mp4",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 42,
-      "title": "Thalaivan Thalaivi",
-      "posterUrl": "https://i.postimg.cc/3Jm2pZj6/Thalaivan-Thalaivii.jpg",
-      "videoUrl": "https://dl6.hotshare.click/Moviesda.Mobi_-_Thalaivan_Thalaivii_2025_Original_1080p_HD.mp4",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 43,
-      "title": "Paranthu Po",
-      "posterUrl": "https://i.postimg.cc/Jhw3v2rH/Paranthu-Po.jpg",
-      "videoUrl": "https://s10.hotshare.link/Moviesda.Mobi_-_Paranthu_Po_2025_Original_1080p_HD.mp4",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 44,
-      "title": "3BH",
-      "posterUrl": "https://i.postimg.cc/G3Y4SmBB/3-BHK-poster.jpg",
-      "videoUrl": "https://s05.hotshare.link/Moviesda.Mobi_-_3BHK_2025_Original_1080p_HD.mp4",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 45,
-      "title": "Desingu Raja",
-      "posterUrl": "https://i.postimg.cc/tgwg2KpN/Desingu-Raja-Poster.jpg",
-      "videoUrl": "https://dl.hotshare.top/Desingu_Raja_2_2025_HQ_PreDVD_720p_HD.mp4",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 46,
-      "title": "Maargan",
-      "posterUrl": "https://i.postimg.cc/4N2R6zJ5/Maargan-poster.jpg",
-      "videoUrl": "https://dl.hotshare.top/Moviesda.Mobi_-_Maargan_2025_Original_1080p_HD.mp4",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 47,
-      "title": "DNA",
-      "posterUrl": "https://i.postimg.cc/T12BmPBK/DNA-2025-film.jpg",
-      "videoUrl": "https://s04.hotshare.link/Moviesda.Mobi_-_DNA_2025_Original_1080p_HD.mp4",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 48,
-      "title": "Kuberaa",
-      "posterUrl": "https://i.postimg.cc/LsMCLX1K/Kuberaa-poster.jpg",
-      "videoUrl": "https://s09.hotshare.link/Moviesda.Mobi_-_Kuberaa_2025_Original_1080p_HD.mp4",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 49,
-      "title": "uppu-kappurambu",
-      "posterUrl": "https://assets.telegraphindia.com/telegraph/2025/Jun/1751287842_uppu-kappurambu.jpg",
-      "videoUrl": "https://s10.hotshare.link/Uppu_Kappurambu_2025_Original_1080p_HD.mp4",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 50,
-      "title": "MadrasMatinee",
-      "posterUrl": "https://sund-images.sunnxt.com/226558/640x360_MadrasMatinee_226558_6168a366-2d7a-4e7f-b3dd-0934ea060fa5.jpg",
-      "videoUrl": "https://dl4.hotshare.click/Moviesda.Mobi_-_Madras_Matinee_2025_Original_1080p_HD.mp4",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 51,
-      "title": "Maaman",
-      "posterUrl": "https://i.postimg.cc/rmw9Ntyx/Maaman-Poster.jpg",
-      "videoUrl": "https://dl2.hotshare.top/Moviesda.Mobi_-_Maaman_2025_HDRip_1080p_HD.mp4",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 52,
-      "title": "Tourist Family",
-      "posterUrl": "https://i.postimg.cc/qvcXfGzb/Tourist-Family.jpg",
-      "videoUrl": "https://s06.hotshare.link/Moviesda.Mobi_-_Tourist_Family_2025_Original_1080p_HD.mp4",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 53,
-      "title": "Game Changer",
-      "posterUrl": "https://i.postimg.cc/ncBwzBXT/Game-Changer-Telugu.jpg",
-      "videoUrl": "https://cdn.telugudub.store/Game_Changer_(2025)_Tamil_Proper_720p.mkv",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 54,
-      "title": "Good Bad Ugly",
-      "posterUrl": "https://i.postimg.cc/wMJF1YTG/Good-Bad-Ugly-poster.jpg",
-      "videoUrl": "https://cdn.telugudub.store/Good_Bad_Ugly_(2025)_Tamil_HD_720p.mkv",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 55,
-      "title": "Amaran",
-      "posterUrl": "https://i.postimg.cc/hvF1WZb3/Amaran-2024-poster.jpg",
-      "videoUrl": "https://cdn.telugudub.store/Amaran_(2024)_Tamil_1080p.mkv",
-      "genre": "Tamil Movies",
-      "year": 2024
-    },
-    {
-      "id": 56,
-      "title": "veera dheera sooran",
-      "posterUrl": "https://i.postimg.cc/43qzV2MT/Veera-Dheera-Sooran.jpg",
-      "videoUrl": "https://dl5.hotshare.top/Moviesda.Mobi_-_Veera_Dheera_Sooran_2025_Original_1080p_HD.mp4",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 57,
-      "title": "Thug life kamal",
-      "posterUrl": "https://i.postimg.cc/TYfnVDkw/Thug-Life-2025.jpg",
-      "videoUrl": "https://cdn.telugudub.store/Thug_Life_(2025)_Tamil_HC_720p.mkv",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 58,
-      "title": "Dragon",
-      "posterUrl": "https://i.postimg.cc/FFgLHK9Q/Dragon-2025-poster.jpg",
-      "videoUrl": "https://s06.hotshare.link/Moviesda.Mobi_-_Dragon_2025_Original_1080p_HD.mp4",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 59,
-      "title": "Kudumbas than",
-      "posterUrl": "https://i.postimg.cc/FFgLHK9Q/Dragon-2025-poster.jpg",
-      "videoUrl": "https://cdn.telugudub.store/Kudumbasthan_(2025)_Tamil_1080p.mkv",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 60,
-      "title": "Viduthalai Part-2",
-      "posterUrl": "https://i.postimg.cc/25h59Hy1/Viduthalai-Part-2.jpg",
-      "videoUrl": "https://cdn.telugudub.store/Viduthalai_Part-2_(2024)_Tamil_HQ_1080p.mkv",
-      "genre": "Tamil Movies",
-      "year": 2024
-    },
-    {
-      "id": 61,
-      "title": "Pushpa 2",
-      "posterUrl": "https://i.postimg.cc/XvSj5w81/Pushpa-2-The-Rule.jpg",
-      "videoUrl": "https://cdn.telugudub.store/Pushpa_2_The_Rule_(2024)_Tamil_WEB_1080p.mkv",
-      "genre": "Tamil Movies",
-      "year": 2024
-    },
-    {
-      "id": 62,
-      "title": "lucky basker",
-      "posterUrl": "https://i.postimg.cc/LX4MkvZv/Lucky-Baskhar-film-poster.jpg",
-      "videoUrl": "https://cdn.telugudub.store/Lucky_Baskhar_(2024)_Tamil_1080p.mkv",
-      "genre": "Tamil Movies",
-      "year": 2024
-    },
-    {
-      "id": 63,
-      "title": "dd next level",
-      "posterUrl": "https://i.postimg.cc/nLkyL7w5/DD-Next-Level-Poster.jpg",
-      "videoUrl": "https://s01.hotshare.link/Moviesda.Mobi_-_DD_Next_Level_2025_Original_1080p_HD.mp4",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 64,
-      "title": "Retro",
-      "posterUrl": "https://i.postimg.cc/NjvS7phh/Retro-film-poster.jpg",
-      "videoUrl": "https://dl3.hotshare.click/Moviesda.Mobi_-_Retro_2025_Original_1080p_HD.mp4",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 65,
-      "title": "Chandramukhi",
-      "posterUrl": "https://i.postimg.cc/dVyHQw4p/Chandramukhi-poster.jpg",
-      "videoUrl": "https://cdn.telugudub.store/Chandramukhi_(2005)_Tamil_1080p.mkv",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 66,
-      "title": "96",
-      "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
-      "videoUrl": "https://cdn.telugudub.store/96_(2018)_Tamil_1080p.mkv",
-      "genre": "Tamil Movies",
-      "year": 2018
-    },
-    {
-      "id": 67,
-      "title": "Marresan",
-      "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
-      "videoUrl": "https://cdn.telugudub.store/Maareesan_(2025)_Tamil_720p.mkv",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 68,
-      "title": "Thalaivan-Thalaivii",
-      "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
-      "videoUrl": "https://cdn.telugudub.store/Thalaivan_Thalaivii_(2025)_Tamil_1080p.mkv",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 69,
-      "title": "Vikaram vedha",
-      "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
-      "videoUrl": "https://cdn.telugudub.store/Vikram_Vedha_(2017)_Tamil_1080p.mkv",
-      "genre": "Tamil Movies",
-      "year": 2017
-    },
-    {
-      "id": 70,
-      "title": "Anniyan",
-      "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
-      "videoUrl": "https://cdn.telugudub.store/Anniyan_(2005)_Tamil_1080p.mkv",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 71,
-      "title": "Thani Oruvan",
-      "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
-      "videoUrl": "https://cdn.telugudub.store/Thani_Oruvan_(2015)_Tamil_1080p.mkv",
-      "genre": "Tamil Movies",
-      "year": 2015
-    },
-    {
-      "id": 72,
-      "title": "Maargan",
-      "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
-      "videoUrl": "https://cdn.telugudub.store/Maargan_(2025)_Tamil_HD_1080p.mkv",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 73,
-      "title": "Sitaare Zameen Par",
-      "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
-      "videoUrl": "https://cdn.telugudub.store/Sitaare_Zameen_Par_(2025)_Tamil_720p.mkv",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 74,
-      "title": "3bh",
-      "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
-      "videoUrl": "https://cdn.telugudub.store/3BHK_(2025)_Tamil_HD_1080p.mkv",
-      "genre": "Tamil Movies",
-      "year": 2025
-    },
-    {
-      "id": 75,
       "title": "Thug Life",
       "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
       "videoUrl": "https://cdn.telugudub.store/Thug_Life_(2025)_Tamil_720p_HD.mkv",
@@ -601,7 +246,7 @@
       "year": 2025
     },
     {
-      "id": 76,
+      "id": 31,
       "title": "Baashha",
       "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
       "videoUrl": "https://cdn.telugudub.store/Baashha_(1995)_Tamil_1080p.mkv",
@@ -609,7 +254,7 @@
       "year": 1995
     },
     {
-      "id": 77,
+      "id": 32,
       "title": "Kaakha Kaakha",
       "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
       "videoUrl": "https://cdn.telugudub.store/Kaakha_Kaakha_(2003)_Tamil_1080p.mkv",
@@ -617,7 +262,7 @@
       "year": 2025
     },
     {
-      "id": 78,
+      "id": 33,
       "title": "Ayalaan",
       "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
       "videoUrl": "https://cdn.telugudub.store/Ayalaan_(2024)_Tamil_1080p.mkv",
@@ -625,7 +270,7 @@
       "year": 2024
     },
     {
-      "id": 79,
+      "id": 34,
       "title": "Billa",
       "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
       "videoUrl": "https://cdn.telugudub.store/Billa_(2007)_Tamil_1080p.mkv",
@@ -633,7 +278,7 @@
       "year": 2025
     },
     {
-      "id": 80,
+      "id": 35,
       "title": "Veera-Dheera-Sooran",
       "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
       "videoUrl": "https://cdn.telugudub.store/Veera_Dheera_Sooran_(2025)_Tamil_Proper_HD_1080p.mkv",
@@ -641,7 +286,7 @@
       "year": 2025
     },
     {
-      "id": 81,
+      "id": 36,
       "title": "Nilavuku Enmel Ennadi Kobam",
       "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
       "videoUrl": "https://cdn.telugudub.store/Nilavuku_Enmel_Ennadi_Kobam_(2025)_Tamil_720p.mkv",
@@ -649,7 +294,7 @@
       "year": 2025
     },
     {
-      "id": 82,
+      "id": 37,
       "title": "Vidamuyarchi",
       "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
       "videoUrl": "https://cdn.telugudub.store/Vidaamuyarchi_(2025)_Tamil_1080p.mkv",
@@ -657,7 +302,7 @@
       "year": 2025
     },
     {
-      "id": 83,
+      "id": 38,
       "title": "Soodhu Kavvum 2",
       "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
       "videoUrl": "https://cdn.telugudub.store/Soodhu_Kavvum_2_(2024)_Tamil_1080p.mkv",
@@ -665,7 +310,7 @@
       "year": 2024
     },
     {
-      "id": 84,
+      "id": 39,
       "title": "Pushbha2",
       "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
       "videoUrl": "https://cdn.telugudub.store/Pushpa_2__The_Rule_(2024)_Tam_1080p.mkv",
@@ -673,7 +318,7 @@
       "year": 2024
     },
     {
-      "id": 85,
+      "id": 40,
       "title": "Pushbha 1",
       "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
       "videoUrl": "https://cdn.telugudub.store/Pushpa_The_Rise_(2021)_Tamil_1080p.mkv",
@@ -681,7 +326,7 @@
       "year": 2021
     },
     {
-      "id": 86,
+      "id": 41,
       "title": "Brother",
       "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
       "videoUrl": "https://cdn.telugudub.store/Brother_(2024)_Tamil_1080p.mkv",
@@ -689,7 +334,7 @@
       "year": 2024
     },
     {
-      "id": 87,
+      "id": 42,
       "title": "Mankatha",
       "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
       "videoUrl": "https://cdn.telugudub.store/Mankatha_(2011)_Tamil_1080p.mkv",
@@ -697,7 +342,7 @@
       "year": 2011
     },
     {
-      "id": 88,
+      "id": 43,
       "title": "Uyire",
       "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
       "videoUrl": "https://cdn.telugudub.store/Uyire_(1998)_Tamil_1080p.mkv",
@@ -705,7 +350,7 @@
       "year": 1998
     },
     {
-      "id": 89,
+      "id": 44,
       "title": "Meiyazhagan",
       "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
       "videoUrl": "https://cdn.telugudub.store/Meiyazhagan_(2024)_Tamil_1080p.mkv",
@@ -713,7 +358,7 @@
       "year": 2024
     },
     {
-      "id": 90,
+      "id": 45,
       "title": "Pogumidam Vegu Thooramillai",
       "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
       "videoUrl": "https://cdn.telugudub.store/Pogumidam_Vegu_Thooramillai_(2024)_Tamil_1080p.mkv",
@@ -721,7 +366,7 @@
       "year": 2024
     },
     {
-      "id": 91,
+      "id": 46,
       "title": "Pechi",
       "posterUrl": "https://i.postimg.cc/WzN5WJrL/Idly-Kadai.jpg",
       "videoUrl": "https://cdn.telugudub.store/Pechi_(2024)_Tamil_1080p.mkv",
@@ -729,7 +374,7 @@
       "year": 2024
     },
     {
-      "id": 92,
+      "id": 47,
       "title": "House mate",
       "posterUrl": "https://moviesda14.com/uploads/posters/housemates-2025.webp",
       "videoUrl": "https://dl7.hotshare.cyou/Moviesda.Mobi_-_Housemates_2025_Original_1080p_HD.mp4",
@@ -737,7 +382,7 @@
       "year": 2025
     },
     {
-      "id": 93,
+      "id": 48,
       "title": "Dragon",
       "posterUrl": "https://moviesda14.com/uploads/posters/housemates-2025.webp",
       "videoUrl": "https://pub-8bdf3ce5141f4f078acf16b4b79d7f3f.r2.dev/Dragon%20(2025)%20Tamil%20Proper%20HQ%20HDRip%20-%20720p%20-%20x264-%201.4GB%20-%20ESub.mkv",
@@ -745,7 +390,7 @@
       "year": 2025
     },
     {
-      "id": 94,
+      "id": 49,
       "title": "Nilavuku",
       "posterUrl": "https://moviesda14.com/uploads/posters/housemates-2025.webp",
       "videoUrl": "https://pub-8bdf3ce5141f4f078acf16b4b79d7f3f.r2.dev/Nilavuku%20Enmel%20Ennadi%20Kobam%20(2025)%20Tamil%20HQ%20HDRip%20-%20720p%20-%20x264%20-%201.4GB%20-%20ESub.mkv",
@@ -753,7 +398,7 @@
       "year": 2025
     },
     {
-      "id": 95,
+      "id": 50,
       "title": "mufasa",
       "posterUrl": "https://moviesda14.com/uploads/posters/housemates-2025.webp",
       "videoUrl": "https://pub-8bdf3ce5141f4f078acf16b4b79d7f3f.r2.dev/Mufasa%20The%20Lion%20King%20(2024)%20BluRay%20-%20720p%20-%20x264%20-Tam%20-%201.4GB%20-%20ESub.mkv",
@@ -761,7 +406,7 @@
       "year": 2024
     },
     {
-      "id": 96,
+      "id": 51,
       "title": "Retro",
       "posterUrl": "https://moviesda14.com/uploads/posters/housemates-2025.webp",
       "videoUrl": "https://pub-8bdf3ce5141f4f078acf16b4b79d7f3f.r2.dev/Retro%20(2025)%20Tamil%20HQ%20HDRip%20-%20720p%20-%20x264%20%20-%201.4GB%20-%20ESub.mkv",
@@ -769,7 +414,7 @@
       "year": 2025
     },
     {
-      "id": 97,
+      "id": 52,
       "title": "Tourist family",
       "posterUrl": "https://moviesda14.com/uploads/posters/housemates-2025.webp",
       "videoUrl": "https://pub-8bdf3ce5141f4f078acf16b4b79d7f3f.r2.dev/Tourist%20Family%20(2025)%20Telugu%20Proper%20HQ%20HDRip%20-%20720p%20-%20x264%20%20-%201.4GB%20-%20ESub.mkv",
@@ -777,7 +422,7 @@
       "year": 2025
     },
     {
-      "id": 98,
+      "id": 53,
       "title": "DNA",
       "posterUrl": "https://moviesda14.com/uploads/posters/housemates-2025.webp",
       "videoUrl": "https://pub-8bdf3ce5141f4f078acf16b4b79d7f3f.r2.dev/DNA%20(2025)%20Tamil%20HQ%20HDTS%20-%20720p%20-%20x264%20-%20HQ%20Clean%20Aud%20-%201.4GB.mkv",
@@ -785,7 +430,7 @@
       "year": 2025
     },
     {
-      "id": 99,
+      "id": 54,
       "title": "3bh",
       "posterUrl": "https://moviesda14.com/uploads/posters/housemates-2025.webp",
       "videoUrl": "https://pub-8bdf3ce5141f4f078acf16b4b79d7f3f.r2.dev/3BHK%20(2025)%20Tamil%20HQ%20HDRip%20-%20720p%20-%20x264%20-%201.4GB%20-%20ESub.mkv",
@@ -793,7 +438,7 @@
       "year": 2025
     },
     {
-      "id": 100,
+      "id": 55,
       "title": "Coolie",
       "posterUrl": "https://moviesda14.com/uploads/posters/housemates-2025.webp",
       "videoUrl": "https://pub-d2ed93eef45c47c5a123d603bdc3eca3.r2.dev/Coolie%20(2025)%20Tamil%20HQ%20HDRip%20-%20720p%20-%20x264%20-%201.6GB%20-%20ESub.mkv",
@@ -801,7 +446,7 @@
       "year": 2025
     },
     {
-      "id": 101,
+      "id": 56,
       "title": "Gandhi",
       "posterUrl": "https://moviesda14.com/uploads/posters/housemates-2025.webp",
       "videoUrl": "https://pub-8bdf3ce5141f4f078acf16b4b79d7f3f.r2.dev/Gandhi%20Kannadi%20(2025)%20Tamil%20v2%20HQ%20HDRip%20-%20720p%20-%20x264%20-%201.4GB%20-%20ESub.mkv",
